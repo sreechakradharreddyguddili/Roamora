@@ -1,0 +1,6 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+THTR,"Thames Travel (Wallingford) Ltd",https://www.THTR.co.uk,Europe/London,en,,
+OXBC,"Oxford Bus Company",https://www.OXBC.co.uk,Europe/London,en,,
+CSLB,"Carousel Buses",https://www.CSLB.co.uk,Europe/London,en,,
+RLNE,"Khan Wali",https://www.RLNE.co.uk,Europe/London,en,,
+RRTR,"Red Rose Travel",https://www.RRTR.co.uk,Europe/London,en,,

@@ -1,0 +1,245 @@
+.best-route {
+  width: 100%;
+}
+
+.best-route-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 30px;
+  margin-bottom: 22px;
+}
+
+.best-route-eyebrow {
+  display: block;
+  margin-bottom: 9px;
+  color: #777777;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+}
+
+.best-route-heading h2 {
+  margin: 0;
+  color: #202020;
+  font-size: 28px;
+  line-height: 1.15;
+}
+
+.best-route-heading p {
+  max-width: 650px;
+  margin: 9px 0 0;
+  color: #777777;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.best-route-heading-icon {
+  display: grid;
+  place-items: center;
+  flex: 0 0 auto;
+  width: 44px;
+  height: 44px;
+  border: 1px solid #e2e2e2;
+  border-radius: 12px;
+  color: #555555;
+  background: #f6f6f6;
+}
+
+.best-route-list {
+  display: grid;
+  gap: 12px;
+}
+
+.best-route-card {
+  width: 100%;
+  padding: 19px;
+  border: 1px solid #e3e3e3;
+  border-radius: 17px;
+  background: #ffffff;
+  color: inherit;
+  text-align: left;
+  font-family: inherit;
+  cursor: pointer;
+  transition:
+    border-color 0.2s ease,
+    box-shadow 0.2s ease,
+    transform 0.2s ease,
+    background 0.2s ease;
+}
+
+.best-route-card:hover {
+  border-color: #b7b7b7;
+  transform: translateY(-1px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+}
+
+.best-route-card.selected {
+  border-color: #333333;
+  background: #f8f8f8;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.best-route-card-top {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 13px;
+}
+
+.best-route-number {
+  display: grid;
+  place-items: center;
+  width: 37px;
+  height: 37px;
+  border-radius: 10px;
+  background: #eeeeee;
+  color: #555555;
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.best-route-card.selected .best-route-number {
+  background: #333333;
+  color: #ffffff;
+}
+
+.best-route-card-title {
+  min-width: 0;
+}
+
+.best-route-card-title > div {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 9px;
+}
+
+.best-route-card-title strong {
+  color: #272727;
+  font-size: 15px;
+}
+
+.best-route-card-title > span {
+  display: block;
+  margin-top: 4px;
+  color: #888888;
+  font-size: 11px;
+  text-transform: capitalize;
+}
+
+.best-route-recommended {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  background: #eaeaea;
+  color: #505050;
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.best-route-select {
+  display: grid;
+  place-items: center;
+  width: 35px;
+  height: 35px;
+  border: 1px solid #e0e0e0;
+  border-radius: 50%;
+  color: #707070;
+}
+
+.best-route-card.selected .best-route-select {
+  border-color: #333333;
+  background: #333333;
+  color: #ffffff;
+}
+
+.best-route-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px;
+  margin-top: 17px;
+  padding-top: 16px;
+  border-top: 1px solid #ededed;
+}
+
+.best-route-stats > div {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 7px 10px;
+  border-radius: 8px;
+  background: #f5f5f5;
+  color: #626262;
+  font-size: 11px;
+}
+
+.best-route-stats svg {
+  color: #777777;
+}
+
+.best-route-recommendation {
+  margin: 13px 0 0;
+  color: #646464;
+  font-size: 12px;
+  line-height: 1.55;
+}
+
+.best-route-active {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr 1fr;
+  gap: 1px;
+  margin-top: 18px;
+  overflow: hidden;
+  border: 1px solid #dfdfdf;
+  border-radius: 16px;
+  background: #dfdfdf;
+}
+
+.best-route-active > div {
+  min-height: 82px;
+  padding: 17px;
+  background: #f7f7f7;
+}
+
+.best-route-active span {
+  display: block;
+  margin-bottom: 7px;
+  color: #838383;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+}
+
+.best-route-active strong {
+  color: #2e2e2e;
+  font-size: 15px;
+}
+
+.best-route-empty {
+  padding: 25px;
+  border: 1px solid #e4e4e4;
+  border-radius: 16px;
+  color: #777777;
+  background: #fafafa;
+}
+
+@media (max-width: 650px) {
+  .best-route-heading h2 {
+    font-size: 23px;
+  }
+
+  .best-route-heading-icon {
+    display: none;
+  }
+
+  .best-route-active {
+    grid-template-columns: 1fr;
+  }
+
+  .best-route-active > div {
+    min-height: auto;
+  }
+}

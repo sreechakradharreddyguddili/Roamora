@@ -1,0 +1,173 @@
+:root {
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", sans-serif;
+  color: #f5f5f5;
+  background: #0b0b0a;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: #0b0b0a;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background: #0b0b0a;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+button:focus-visible,
+input:focus-visible,
+a:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 3px;
+}
+
+.roamora-app {
+  min-height: 100vh;
+  background: #0b0b0a;
+  color: #fff;
+  overflow-x: hidden;
+}
+
+.roamora-app main {
+  flex: 1;
+}
+
+section {
+  scroll-margin-top: 95px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+/* =========================================================
+   ROAMORA ANTI-GRAVITY UI SYSTEM
+   ========================================================= */
+
+.roamora-app::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  opacity: .32;
+  background:
+    radial-gradient(circle at 12% 12%, rgba(23,105,224,.10), transparent 28%),
+    radial-gradient(circle at 88% 28%, rgba(94,199,255,.08), transparent 24%),
+    radial-gradient(circle at 50% 92%, rgba(16,26,34,.06), transparent 30%);
+}
+
+.roamora-app > * {
+  position: relative;
+  z-index: 1;
+}
+
+::selection {
+  background: rgba(23,105,224,.2);
+  color: #101a22;
+}
+
+@media (pointer: fine) {
+  a, button { transition-timing-function: cubic-bezier(.2,.8,.2,1); }
+}
+
+/* =========================================================
+   GLOBAL RECOVERY + PAGE TRANSITION LAYER
+   ========================================================= */
+
+.roamora-app {
+  position: relative;
+  min-height: 100vh;
+}
+
+.roamora-app .anti-gravity-scope > main {
+  position: relative;
+  z-index: 1;
+}
+
+.roamora-crash-page {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 32px;
+  background: #f6f7f3;
+  color: #101a22;
+}
+
+.roamora-crash-card {
+  width: min(560px, 100%);
+  padding: 42px;
+  border: 1px solid rgba(16, 26, 34, 0.1);
+  border-radius: 28px;
+  background: rgba(255, 255, 255, 0.86);
+  box-shadow: 0 30px 90px rgba(16, 26, 34, 0.12);
+  text-align: left;
+}
+
+.roamora-crash-card > span {
+  font-size: 10px;
+  font-weight: 900;
+  letter-spacing: 0.2em;
+  color: #64717a;
+}
+
+.roamora-crash-card h1 {
+  margin: 12px 0 12px;
+  font-size: clamp(32px, 5vw, 54px);
+  line-height: 0.98;
+  letter-spacing: -0.045em;
+}
+
+.roamora-crash-card p {
+  margin: 0;
+  color: #6e797f;
+  line-height: 1.7;
+}
+
+.roamora-crash-card button {
+  margin-top: 24px;
+  min-height: 46px;
+  padding: 0 18px;
+  border: 0;
+  border-radius: 12px;
+  background: #101a22;
+  color: #fff;
+  font-weight: 800;
+}
+
+@media (max-width: 700px) {
+  .roamora-crash-card {
+    padding: 28px;
+    border-radius: 22px;
+  }
+}

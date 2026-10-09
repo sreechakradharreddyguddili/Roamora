@@ -1,0 +1,1239 @@
+/* =========================================================
+   ROAMORA HEADER
+   ========================================================= */
+
+.roamora-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+
+  width: 100%;
+
+  background: rgba(248, 247, 242, 0.9);
+
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+
+  border-bottom: 1px solid rgba(16, 26, 34, 0.08);
+}
+
+
+/* =========================================================
+   INNER
+   ========================================================= */
+
+.roamora-header-inner {
+  width: min(1240px, calc(100% - 48px));
+
+  min-height: 58px;
+
+  margin: 0 auto;
+
+  display: flex;
+  align-items: center;
+
+  gap: 16px;
+
+  position: relative;
+  z-index: 1002;
+}
+
+
+/* =========================================================
+   BRAND
+   ========================================================= */
+
+.roamora-brand {
+  display: inline-flex;
+  align-items: center;
+
+  gap: 10px;
+
+  flex: 0 0 auto;
+
+  color: #101a22;
+
+  text-decoration: none;
+}
+
+.roamora-brand-mark {
+  width: 36px;
+  height: 36px;
+
+  position: relative;
+
+  display: grid;
+  place-items: center;
+
+  color: #1769e0;
+
+  border: 1px solid rgba(23, 105, 224, 0.2);
+
+  border-radius: 10px;
+
+  background: #f5f9fd;
+
+  box-shadow:
+    0 7px 18px rgba(23, 105, 224, 0.08);
+
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
+.roamora-brand-mark::before {
+  content: "";
+
+  position: absolute;
+
+  inset: 5px;
+
+  border: 1px dashed rgba(23, 105, 224, 0.2);
+
+  border-radius: 7px;
+
+  animation: compassSpin 18s linear infinite;
+}
+
+.roamora-brand-mark svg {
+  position: relative;
+  z-index: 2;
+}
+
+.roamora-brand:hover .roamora-brand-mark {
+  transform: rotate(-5deg) scale(1.04);
+
+  box-shadow:
+    0 10px 24px rgba(23, 105, 224, 0.14);
+}
+
+@keyframes compassSpin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.roamora-brand-name {
+  color: #101a22;
+
+  font-size: 1rem;
+
+  font-weight: 750;
+
+  letter-spacing: -0.035em;
+}
+
+
+/* =========================================================
+   NAVIGATION
+   ========================================================= */
+
+.roamora-nav {
+  margin-left: 28px;
+  margin-right: 0;
+
+  display: flex;
+  align-items: center;
+
+  gap: 1px;
+}
+
+
+/* Both links and section buttons */
+
+.roamora-nav a,
+.roamora-nav button {
+  position: relative;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 8px 10px;
+
+  border: 0;
+
+  border-radius: 8px;
+
+  background: transparent;
+
+  color: #6e7b82;
+
+  text-decoration: none;
+
+  font-family: inherit;
+
+  font-size: 0.66rem;
+  font-weight: 700;
+
+  white-space: nowrap;
+
+  cursor: pointer;
+
+  transition:
+    color 0.2s ease,
+    background 0.2s ease,
+    transform 0.2s ease;
+}
+
+.roamora-nav a:hover,
+.roamora-nav button:hover {
+  color: #101a22;
+
+  background: rgba(23, 105, 224, 0.055);
+}
+
+.roamora-nav a.active,
+.roamora-nav button.active {
+  color: #101a22;
+
+  background: rgba(23, 105, 224, 0.07);
+}
+
+.roamora-nav a.active::after,
+.roamora-nav button.active::after {
+  content: "";
+
+  position: absolute;
+
+  left: 50%;
+  bottom: 3px;
+
+  width: 13px;
+  height: 2px;
+
+  border-radius: 999px;
+
+  background: #1769e0;
+
+  transform: translateX(-50%);
+}
+
+
+/* =========================================================
+   ACTIONS
+   ========================================================= */
+
+.roamora-header-actions {
+  display: flex;
+  align-items: center;
+
+  gap: 8px;
+
+  flex: 0 0 auto;
+}
+
+
+/* =========================================================
+   SIGN IN
+   ========================================================= */
+
+.header-signin {
+  border: 0;
+
+  padding: 8px 9px;
+
+  border-radius: 8px;
+
+  background: transparent;
+
+  color: #536169;
+
+  font-size: 0.66rem;
+  font-weight: 750;
+
+  cursor: pointer;
+
+  transition:
+    color 0.2s ease,
+    background 0.2s ease;
+}
+
+.header-signin:hover {
+  color: #101a22;
+
+  background: rgba(16, 26, 34, 0.05);
+}
+
+
+/* =========================================================
+   GET STARTED
+   ========================================================= */
+
+.header-cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  gap: 7px;
+
+  border: 1px solid #101a22;
+
+  border-radius: 8px;
+
+  padding: 9px 13px;
+
+  background: #101a22;
+
+  color: #fff;
+
+  font-size: 0.64rem;
+  font-weight: 800;
+
+  cursor: pointer;
+
+  transition:
+    transform 0.2s ease,
+    background 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.header-cta:hover {
+  transform: translateY(-2px);
+
+  background: #1769e0;
+
+  border-color: #1769e0;
+
+  box-shadow:
+    0 12px 25px rgba(23, 105, 224, 0.18);
+}
+
+.header-cta svg {
+  transition: transform 0.2s ease;
+}
+
+.header-cta:hover svg {
+  transform: translate(2px, -2px);
+}
+
+
+/* =========================================================
+   DASHBOARD
+   ========================================================= */
+
+.header-dashboard {
+  display: inline-flex;
+  align-items: center;
+
+  gap: 7px;
+
+  border: 1px solid rgba(16, 26, 34, 0.1);
+
+  border-radius: 8px;
+
+  padding: 9px 11px;
+
+  background: rgba(255, 255, 255, 0.6);
+
+  color: #46545c;
+
+  font-size: 0.62rem;
+  font-weight: 750;
+
+  cursor: pointer;
+
+  transition:
+    color 0.2s ease,
+    background 0.2s ease,
+    transform 0.2s ease;
+}
+
+.header-dashboard:hover {
+  color: #1769e0;
+
+  background: #fff;
+
+  transform: translateY(-2px);
+}
+
+
+/* =========================================================
+   LOGOUT
+   ========================================================= */
+
+.header-logout {
+  display: inline-flex;
+  align-items: center;
+
+  gap: 7px;
+
+  border: 1px solid rgba(185, 63, 63, 0.18);
+
+  border-radius: 8px;
+
+  padding: 9px 11px;
+
+  background: rgba(255, 247, 247, 0.65);
+
+  color: #a04e4e;
+
+  font-size: 0.62rem;
+  font-weight: 750;
+
+  cursor: pointer;
+
+  transition:
+    color 0.2s ease,
+    background 0.2s ease,
+    transform 0.2s ease;
+}
+
+.header-logout:hover {
+  color: #9b2c2c;
+
+  background: #fff1f1;
+
+  transform: translateY(-2px);
+}
+
+
+/* =========================================================
+   MOBILE MENU
+   ========================================================= */
+
+.header-menu {
+  display: none;
+
+  width: 38px;
+  height: 38px;
+
+  align-items: center;
+  justify-content: center;
+
+  border: 1px solid rgba(16, 26, 34, 0.1);
+
+  border-radius: 9px;
+
+  background: rgba(255, 255, 255, 0.65);
+
+  color: #101a22;
+
+  cursor: pointer;
+}
+
+
+/* =========================================================
+   MOBILE BACKDROP
+   ========================================================= */
+
+.header-mobile-backdrop {
+  display: none;
+}
+
+
+/* =========================================================
+   TABLET
+   ========================================================= */
+
+@media (max-width: 1050px) {
+
+  .roamora-header-inner {
+    width: calc(100% - 36px);
+
+    gap: 16px;
+  }
+
+  .roamora-nav {
+    margin-right: 4px;
+  }
+
+  .roamora-nav a,
+  .roamora-nav button {
+    padding:
+      8px
+      8px;
+
+    font-size: 0.61rem;
+  }
+
+  .header-dashboard span {
+    display: none;
+  }
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 850px) {
+
+  .roamora-header-inner {
+    width: calc(100% - 32px);
+
+    min-height: 58px;
+  }
+
+  .roamora-nav {
+    display: none;
+
+    position: absolute;
+
+    top: calc(100% + 9px);
+
+    left: 0;
+    right: 0;
+
+    margin: 0;
+
+    padding: 10px;
+
+    flex-direction: column;
+
+    align-items: stretch;
+
+    gap: 4px;
+
+    border: 1px solid rgba(16, 26, 34, 0.09);
+
+    border-radius: 14px;
+
+    background: rgba(250, 249, 245, 0.98);
+
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+
+    box-shadow:
+      0 25px 60px rgba(16, 26, 34, 0.12);
+  }
+
+  .roamora-nav.is-open {
+    display: flex;
+  }
+
+  .roamora-nav a,
+  .roamora-nav button {
+    width: 100%;
+
+    justify-content: flex-start;
+
+    padding: 13px 14px;
+
+    font-size: 0.7rem;
+  }
+
+  .roamora-nav a.active::after,
+  .roamora-nav button.active::after {
+    left: auto;
+    right: 12px;
+
+    bottom: 50%;
+
+    width: 5px;
+    height: 5px;
+
+    border-radius: 50%;
+
+    transform: translateY(50%);
+  }
+
+  .header-menu {
+    display: flex;
+  }
+
+  .header-mobile-backdrop {
+    display: block;
+
+    position: fixed;
+
+    inset: 58px 0 0;
+
+    width: 100%;
+    height: calc(100vh - 58px);
+
+    border: 0;
+
+    background: rgba(16, 26, 34, 0.08);
+  }
+
+  .header-dashboard {
+    display: none;
+  }
+}
+
+
+/* =========================================================
+   SMALL MOBILE
+   ========================================================= */
+
+@media (max-width: 520px) {
+
+  .roamora-header-inner {
+    width: calc(100% - 24px);
+  }
+
+  .roamora-brand-mark {
+    width: 34px;
+    height: 34px;
+  }
+
+  .roamora-brand-name {
+    font-size: 0.95rem;
+  }
+
+  .header-signin {
+    padding: 8px 7px;
+
+    font-size: 0.62rem;
+  }
+
+  .header-cta {
+    padding: 9px 11px;
+
+    font-size: 0.59rem;
+  }
+
+  .header-menu {
+    width: 36px;
+    height: 36px;
+  }
+}
+
+
+/* =========================================================
+   VERY SMALL MOBILE
+   ========================================================= */
+
+@media (max-width: 390px) {
+
+  .header-signin {
+    display: none;
+  }
+
+  .header-cta span {
+    display: none;
+  }
+
+  .header-cta {
+    width: 36px;
+    height: 36px;
+
+    padding: 0;
+  }
+}
+
+
+/* =========================================================
+   REDUCED MOTION
+   ========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+
+  .roamora-header *,
+  .roamora-header *::before,
+  .roamora-header *::after {
+    animation: none !important;
+
+    transition: none !important;
+  }
+}
+
+/* =========================================================
+   COMPACT HEADER FINISH
+   ========================================================= */
+
+@media (min-width: 1051px) {
+
+  .roamora-header-inner {
+    width: min(1320px, calc(100% - 56px));
+    min-height: 58px;
+    gap: 14px;
+  }
+
+  .roamora-nav {
+    margin-left: 26px;
+    margin-right: 0;
+    gap: 0;
+  }
+
+  .roamora-nav a,
+  .roamora-nav button {
+    padding: 8px 10px;
+  }
+
+  .roamora-header-actions {
+    gap: 6px;
+  }
+}
+
+@media (max-width: 850px) {
+
+  .roamora-header-inner {
+    min-height: 58px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+
+  .roamora-brand-mark::before {
+    animation: none;
+  }
+}
+
+
+/* =========================================================
+   CENTERED NAV + GLASS HOVER
+   ========================================================= */
+
+@media (min-width: 851px) {
+
+  .roamora-header-inner {
+    position: relative;
+
+    display: grid;
+
+    grid-template-columns: 1fr auto 1fr;
+
+    align-items: center;
+
+    min-height: 64px;
+
+    gap: 20px;
+  }
+
+  /* Brand stays on the left */
+  .roamora-brand {
+    justify-self: start;
+
+    position: relative;
+    z-index: 5;
+  }
+
+  /* =====================================================
+     TRUE CENTER NAVIGATION
+     ===================================================== */
+
+  .roamora-nav {
+    grid-column: 2;
+
+    position: relative;
+
+    margin: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    gap: 4px;
+
+    padding: 5px;
+
+    border: 1px solid rgba(255,255,255,.48);
+
+    border-radius: 999px;
+
+    background:
+      linear-gradient(
+        135deg,
+        rgba(255,255,255,.42),
+        rgba(239,246,252,.20)
+      );
+
+    box-shadow:
+      0 8px 28px rgba(30,60,80,.055),
+      inset 0 1px 0 rgba(255,255,255,.8);
+
+    backdrop-filter: blur(18px);
+    -webkit-backdrop-filter: blur(18px);
+
+    z-index: 6;
+  }
+
+  .roamora-nav a,
+  .roamora-nav button {
+    position: relative;
+
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    min-height: 38px;
+
+    padding: 8px 15px;
+
+    border: 0;
+    border-radius: 999px;
+
+    color: #65747d;
+
+    background: transparent;
+
+    text-decoration: none;
+
+    isolation: isolate;
+
+    cursor: pointer;
+
+    transition:
+      color .25s ease,
+      transform .3s cubic-bezier(.22,1,.36,1);
+  }
+
+  /*
+    Individual glass bubble.
+    It starts invisible and grows toward the cursor.
+  */
+  .roamora-nav a::before,
+  .roamora-nav button::before {
+    content: "";
+
+    position: absolute;
+
+    inset: 0;
+
+    z-index: -1;
+
+    border: 1px solid rgba(255,255,255,.82);
+
+    border-radius: inherit;
+
+    background:
+      radial-gradient(
+        circle at 35% 20%,
+        rgba(255,255,255,.95),
+        rgba(255,255,255,.50) 42%,
+        rgba(210,228,244,.30) 100%
+      );
+
+    box-shadow:
+      0 8px 22px rgba(38,87,120,.10),
+      inset 0 1px 0 rgba(255,255,255,.95),
+      inset 0 -1px 0 rgba(180,205,224,.20);
+
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+
+    opacity: 0;
+
+    transform: scale(.72);
+
+    transition:
+      opacity .25s ease,
+      transform .38s cubic-bezier(.22,1,.36,1);
+  }
+
+  .roamora-nav a:hover,
+  .roamora-nav button:hover {
+    color: #101a22;
+
+    transform: translateY(-1px);
+  }
+
+  .roamora-nav a:hover::before,
+  .roamora-nav button:hover::before {
+    opacity: 1;
+
+    transform: scale(1);
+  }
+
+  /* Active page */
+  .roamora-nav a.active,
+  .roamora-nav button.active {
+    color: #101a22;
+  }
+
+  .roamora-nav a.active::before,
+  .roamora-nav button.active::before {
+    opacity: .72;
+
+    transform: scale(1);
+  }
+
+  /* Blue light edge when the cursor approaches */
+  .roamora-nav a:hover::after,
+  .roamora-nav button:hover::after {
+    content: "";
+
+    position: absolute;
+
+    left: 22%;
+    right: 22%;
+    bottom: 3px;
+
+    height: 2px;
+
+    border-radius: 999px;
+
+    background: #2879d8;
+
+    box-shadow:
+      0 0 10px rgba(40,121,216,.35);
+
+    animation: navGlassLine .28s ease both;
+  }
+
+  @keyframes navGlassLine {
+    from {
+      opacity: 0;
+      transform: scaleX(.3);
+    }
+
+    to {
+      opacity: 1;
+      transform: scaleX(1);
+    }
+  }
+
+  /* Actions stay on the right */
+  .roamora-header-actions {
+    grid-column: 3;
+
+    justify-self: end;
+
+    position: relative;
+    z-index: 7;
+  }
+}
+
+
+/* =========================================================
+   DESKTOP NAV CURSOR / FOCUS
+   ========================================================= */
+
+@media (min-width: 851px) {
+
+  .roamora-nav a:focus-visible,
+  .roamora-nav button:focus-visible {
+    outline: 2px solid rgba(40,121,216,.45);
+    outline-offset: 3px;
+  }
+
+  .roamora-nav a:focus-visible::before,
+  .roamora-nav button:focus-visible::before {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+
+/* =========================================================
+   NAVIGATION — CURSOR FEEL
+   ========================================================= */
+
+@media (min-width: 851px) {
+
+  .roamora-nav a,
+  .roamora-nav button {
+    cursor: pointer;
+  }
+
+  .roamora-nav a:focus-visible,
+  .roamora-nav button:focus-visible {
+    outline: 2px solid rgba(23,105,224,.45);
+    outline-offset: 3px;
+  }
+}
+
+
+/* =========================================================
+   MOBILE — KEEP THE ORIGINAL MENU STYLE
+   ========================================================= */
+
+@media (max-width: 850px) {
+
+  .roamora-nav a::before,
+  .roamora-nav button::before {
+    display: none;
+  }
+
+  .roamora-nav a:hover,
+  .roamora-nav button:hover {
+    transform: none;
+  }
+}
+
+
+/* =========================================================
+   REDUCED MOTION
+   ========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+
+  .roamora-nav a::before,
+  .roamora-nav button::before,
+  .roamora-nav a,
+  .roamora-nav button {
+    transition: none;
+  }
+}
+
+
+/* =========================================================
+   MOBILE NAV — KEEP IT CLEAN
+   ========================================================= */
+
+@media (max-width: 850px) {
+
+  .roamora-nav {
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+  }
+
+  .roamora-nav a::before,
+  .roamora-nav button::before {
+    display: none;
+  }
+
+  .roamora-nav a:hover,
+  .roamora-nav button:hover {
+    transform: none;
+  }
+
+  .roamora-nav a:hover::after,
+  .roamora-nav button:hover::after {
+    display: none;
+  }
+}
+
+
+/* =========================================================
+   REDUCED MOTION
+   ========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+
+  .roamora-nav a,
+  .roamora-nav button,
+  .roamora-nav a::before,
+  .roamora-nav button::before,
+  .roamora-nav a::after,
+  .roamora-nav button::after {
+    transition: none;
+    animation: none;
+  }
+}
+
+
+/* =========================================================
+   FINAL NAV FIX
+   Individual glass bubbles only — NO large glass capsule
+   ========================================================= */
+
+@media (min-width: 851px) {
+
+  /*
+    Keep the navigation itself completely transparent.
+    The previous version placed the glass effect on .roamora-nav,
+    which created the large capsule visible in the screenshot.
+  */
+  .roamora-nav {
+    padding: 0;
+
+    border: 0;
+
+    border-radius: 0;
+
+    background: transparent;
+
+    box-shadow: none;
+
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+  }
+
+  /*
+    Each word gets its own small glass surface only when
+    the cursor is over that specific item.
+  */
+  .roamora-nav a,
+  .roamora-nav button {
+    min-height: 40px;
+
+    padding: 9px 15px;
+
+    border-radius: 999px;
+
+    color: #68767e;
+
+    background: transparent;
+
+    transform: translateY(0);
+
+    transition:
+      color .22s ease,
+      transform .32s cubic-bezier(.22,1,.36,1);
+  }
+
+  .roamora-nav a::before,
+  .roamora-nav button::before {
+    inset: 0;
+
+    border: 1px solid rgba(255,255,255,.88);
+
+    border-radius: 999px;
+
+    background:
+      linear-gradient(
+        135deg,
+        rgba(255,255,255,.72),
+        rgba(226,238,248,.38)
+      );
+
+    box-shadow:
+      0 8px 24px rgba(30,65,90,.12),
+      inset 0 1px 0 rgba(255,255,255,.95),
+      inset 0 -1px 0 rgba(178,204,222,.16);
+
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+
+    opacity: 0;
+
+    transform: scale(.78);
+
+    transition:
+      opacity .22s ease,
+      transform .34s cubic-bezier(.22,1,.36,1);
+  }
+
+  /* Hover only affects the word under the cursor */
+  .roamora-nav a:hover,
+  .roamora-nav button:hover {
+    color: #0d1820;
+
+    transform: translateY(-2px);
+  }
+
+  .roamora-nav a:hover::before,
+  .roamora-nav button:hover::before {
+    opacity: 1;
+
+    transform: scale(1);
+  }
+
+  /* Small blue light line on the hovered item */
+  .roamora-nav a:hover::after,
+  .roamora-nav button:hover::after {
+    content: "";
+
+    position: absolute;
+
+    left: 30%;
+    right: 30%;
+    bottom: 5px;
+
+    width: auto;
+    height: 2px;
+
+    border-radius: 999px;
+
+    background: #2879d8;
+
+    box-shadow:
+      0 0 9px rgba(40,121,216,.4);
+
+    animation: navItemLight .25s ease both;
+  }
+
+  @keyframes navItemLight {
+    from {
+      opacity: 0;
+      transform: scaleX(.25);
+    }
+
+    to {
+      opacity: 1;
+      transform: scaleX(1);
+    }
+  }
+
+  /*
+    Active page gets a subtle glass bubble,
+    but NOT a huge background around the whole nav.
+  */
+  .roamora-nav a.active,
+  .roamora-nav button.active {
+    color: #101a22;
+
+    background: transparent;
+  }
+
+  .roamora-nav a.active::before,
+  .roamora-nav button.active::before {
+    opacity: .58;
+
+    transform: scale(1);
+  }
+
+  .roamora-nav a.active::after,
+  .roamora-nav button.active::after {
+    content: "";
+
+    position: absolute;
+
+    left: 34%;
+    right: 34%;
+    bottom: 5px;
+
+    width: auto;
+    height: 2px;
+
+    border-radius: 999px;
+
+    background: #2879d8;
+
+    box-shadow:
+      0 0 9px rgba(40,121,216,.32);
+  }
+
+  /*
+    Slightly wider glass surface for the longer label.
+  */
+  .roamora-nav a:nth-child(3) {
+    padding-left: 17px;
+    padding-right: 17px;
+  }
+
+  /*
+    Keyboard users receive the same glass treatment.
+  */
+  .roamora-nav a:focus-visible,
+  .roamora-nav button:focus-visible {
+    outline: 2px solid rgba(40,121,216,.45);
+    outline-offset: 3px;
+  }
+
+  .roamora-nav a:focus-visible::before,
+  .roamora-nav button:focus-visible::before {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+
+/* Mobile menu remains clean and does not inherit desktop glass. */
+@media (max-width: 850px) {
+
+  .roamora-nav {
+    background: transparent;
+    border: 0;
+    box-shadow: none;
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+  }
+
+  .roamora-nav a::before,
+  .roamora-nav button::before {
+    display: none;
+  }
+}
+
+
+/* Respect reduced-motion preferences. */
+@media (prefers-reduced-motion: reduce) {
+
+  .roamora-nav a,
+  .roamora-nav button,
+  .roamora-nav a::before,
+  .roamora-nav button::before,
+  .roamora-nav a::after,
+  .roamora-nav button::after {
+    transition: none;
+    animation: none;
+  }
+}

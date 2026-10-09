@@ -1,0 +1,17 @@
+{
+  "name": "Roamora — Journey Intelligence",
+  "short_name": "Roamora",
+  "description": "Weather-aware route and journey intelligence for travel anywhere in the world.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f7f2",
+  "theme_color": "#101a22",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

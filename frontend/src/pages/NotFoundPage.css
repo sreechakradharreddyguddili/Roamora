@@ -1,0 +1,36 @@
+.roamora-not-found {
+  position: relative;
+  min-height: 70vh;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  padding: 80px 20px;
+  background: #f8f7f2;
+  color: #101a22;
+}
+
+.not-found-card {
+  position: relative;
+  z-index: 2;
+  width: min(620px, 100%);
+  padding: 48px;
+  border: 1px solid rgba(16,26,34,.09);
+  border-radius: 32px;
+  background: rgba(255,255,255,.72);
+  box-shadow: 0 30px 80px rgba(16,26,34,.12);
+  backdrop-filter: blur(18px);
+  text-align: center;
+}
+
+.not-found-icon { width:54px; height:54px; display:grid; place-items:center; margin:0 auto 20px; border-radius:17px; background:#101a22; color:#fff; }
+.not-found-card > span { color:#1769e0; font-size:.62rem; font-weight:850; letter-spacing:.16em; }
+.not-found-card h1 { margin:14px 0 10px; font-size:clamp(2.6rem,6vw,4.8rem); line-height:.95; letter-spacing:-.055em; }
+.not-found-card p { max-width:470px; margin:0 auto 26px; color:#68757c; line-height:1.7; font-size:.82rem; }
+.not-found-link { display:inline-flex; align-items:center; gap:8px; padding:12px 16px; border-radius:999px; background:#101a22; color:#fff; text-decoration:none; font-size:.7rem; font-weight:800; transition:transform .25s ease, background .25s ease; }
+.not-found-link:hover { transform:translateY(-3px); background:#1769e0; }
+.not-found-orbit { position:absolute; border:1px solid rgba(23,105,224,.12); border-radius:50%; animation:notFoundOrbit 18s linear infinite; }
+.not-found-orbit.orbit-one { width:460px; height:460px; }
+.not-found-orbit.orbit-two { width:720px; height:720px; animation-duration:28s; animation-direction:reverse; }
+@keyframes notFoundOrbit { to { transform:rotate(360deg); } }
+@media (max-width:600px) { .not-found-card { padding:34px 22px; border-radius:24px; } }
+@media (prefers-reduced-motion:reduce) { .not-found-orbit { animation:none; } }
