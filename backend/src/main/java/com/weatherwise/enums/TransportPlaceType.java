@@ -1,0 +1,29 @@
+package com.weatherwise.enums;
+
+public enum TransportPlaceType {
+
+    AIRPORT,
+
+    RAILWAY_STATION,
+    METRO_STATION,
+    SUBWAY_STATION,
+    TRAM_STOP,
+    LIGHT_RAIL_STATION,
+    MONORAIL_STATION,
+
+    BUS_STOP,
+    BUS_TERMINAL,
+
+    COACH_STOP,
+    COACH_TERMINAL,
+
+    FERRY_TERMINAL,
+    PORT,
+
+    TAXI_STAND,
+
+    CAR_RENTAL,
+
+    BICYCLE_STATION,
+    SCOOTER_STATION
+}

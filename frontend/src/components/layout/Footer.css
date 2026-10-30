@@ -1,0 +1,1346 @@
+/* =========================================================
+   ROAMORA FOOTER
+   ========================================================= */
+
+.roamora-footer {
+  position: relative;
+  width: min(1380px, calc(100% - 56px));
+  margin: 120px auto 0;
+  padding-bottom: 34px;
+  color: #111820;
+}
+
+/* =========================================================
+   JOURNEY CTA
+   ========================================================= */
+
+.footer-journey {
+  position: relative;
+  min-height: 590px;
+  overflow: hidden;
+  border-radius: 34px;
+  background:
+    radial-gradient(
+      circle at 82% 45%,
+      rgba(48, 129, 218, .18),
+      transparent 31%
+    ),
+    radial-gradient(
+      circle at 8% 95%,
+      rgba(23, 105, 224, .10),
+      transparent 30%
+    ),
+    linear-gradient(135deg, #09151d 0%, #0d1c25 52%, #102733 100%);
+  color: #f8fafc;
+  isolation: isolate;
+  box-shadow:
+    0 42px 100px rgba(12, 29, 39, .16),
+    0 12px 35px rgba(12, 29, 39, .07);
+}
+
+.footer-journey-grid {
+  position: absolute;
+  inset: 0;
+  opacity: 0.4;
+
+  background-image:
+    linear-gradient(
+      rgba(255,255,255,0.035) 1px,
+      transparent 1px
+    ),
+    linear-gradient(
+      90deg,
+      rgba(255,255,255,0.035) 1px,
+      transparent 1px
+    );
+
+  background-size: 70px 70px;
+
+  mask-image: radial-gradient(
+    circle at 70% 50%,
+    black,
+    transparent 70%
+  );
+}
+
+/* subtle glow */
+
+.footer-journey::before {
+  content: "";
+  position: absolute;
+
+  width: 650px;
+  height: 650px;
+
+  right: -170px;
+  top: -180px;
+
+  border-radius: 50%;
+
+  background: radial-gradient(
+    circle,
+    rgba(77, 163, 255, 0.14),
+    transparent 65%
+  );
+
+  pointer-events: none;
+}
+
+/* =========================================================
+   CTA CONTENT
+   ========================================================= */
+
+.footer-journey-content {
+  position: relative;
+  z-index: 5;
+
+  width: min(610px, 91%);
+  padding: 88px 0 90px 78px;
+}
+
+.footer-kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+
+  color: #63adff;
+
+  font-size: 0.62rem;
+  font-weight: 800;
+  letter-spacing: 0.17em;
+}
+
+.footer-kicker::before {
+  content: "";
+  width: 5px;
+  height: 5px;
+
+  border-radius: 50%;
+  background: #63adff;
+
+  box-shadow:
+    0 0 0 5px rgba(99, 173, 255, 0.08),
+    0 0 16px rgba(99, 173, 255, 0.6);
+}
+
+.footer-journey h2 {
+  margin: 24px 0 24px;
+
+  max-width: 620px;
+
+  font-size: clamp(3.2rem, 6.1vw, 6rem);
+  line-height: .88;
+  letter-spacing: -.075em;
+  font-weight: 520;
+}
+
+.footer-journey h2 span {
+  color: #579fff;
+}
+
+.footer-journey-content p {
+  max-width: 510px;
+
+  margin: 0;
+
+  color: #91a3ad;
+
+  font-size: .82rem;
+  line-height: 1.85;
+}
+
+.footer-actions {
+  display: flex;
+  align-items: center;
+  gap: 26px;
+
+  margin-top: 32px;
+}
+
+.footer-main-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+
+  padding: 14px 19px;
+
+  border-radius: 12px;
+
+  background: #f7fafc;
+  color: #0c151c;
+
+  text-decoration: none;
+
+  font-size: .7rem;
+  font-weight: 850;
+
+  box-shadow:
+    0 12px 30px rgba(0,0,0,.16);
+
+  transition:
+    transform 280ms cubic-bezier(.22,1,.36,1),
+    background 220ms ease,
+    box-shadow 280ms ease;
+}
+
+.footer-main-button:hover {
+  transform: translateY(-4px);
+  background: #63adff;
+  box-shadow:
+    0 18px 38px rgba(36, 129, 220, .22);
+}
+
+.footer-main-button svg {
+  transition: transform 220ms ease;
+}
+
+.footer-main-button:hover svg {
+  transform: translate(3px, -3px);
+}
+
+.footer-explore-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  color: #a7b5bd;
+
+  text-decoration: none;
+
+  font-size: 0.75rem;
+  font-weight: 700;
+
+  transition:
+    color 200ms ease,
+    transform 200ms ease;
+}
+
+.footer-explore-link:hover {
+  color: #fff;
+  transform: translateX(4px);
+}
+
+/* =========================================================
+   ROUTE VISUAL
+   ========================================================= */
+
+.footer-route-visual {
+  position: absolute;
+
+  width: 650px;
+  height: 540px;
+
+  right: -18px;
+  top: 26px;
+
+  z-index: 2;
+
+  transform: translateZ(0);
+}
+
+/* rotating circles */
+
+.footer-orbit {
+  position: absolute;
+
+  left: 50%;
+  top: 50%;
+
+  transform: translate(-50%, -50%);
+
+  border: 1px solid rgba(96, 168, 255, .13);
+
+  border-radius: 50%;
+
+  box-shadow:
+    inset 0 0 35px rgba(60, 145, 225, .025);
+}
+
+.orbit-one {
+  width: 150px;
+  height: 150px;
+
+  animation: footerOrbit 18s linear infinite;
+}
+
+.orbit-two {
+  width: 290px;
+  height: 290px;
+
+  border-style: dashed;
+
+  animation: footerOrbitReverse 25s linear infinite;
+}
+
+.orbit-three {
+  width: 450px;
+  height: 450px;
+
+  opacity: 0.45;
+
+  animation: footerOrbit 35s linear infinite;
+}
+
+@keyframes footerOrbit {
+  from {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+
+  to {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+
+@keyframes footerOrbitReverse {
+  from {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+
+  to {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+}
+
+/* route */
+
+.footer-route-line {
+  position: absolute;
+
+  width: 420px;
+  height: 165px;
+
+  left: 105px;
+  top: 185px;
+
+  transform: rotate(-16deg);
+
+  border-top: 2px solid rgba(87, 159, 255, .9);
+
+  border-radius: 50%;
+
+  filter: drop-shadow(0 0 10px rgba(87,159,255,.18));
+}
+
+.footer-route-line::before {
+  content: "";
+
+  position: absolute;
+
+  left: 0;
+  top: -2px;
+
+  width: 100%;
+  height: 100%;
+
+  border-top: 1px dashed rgba(255,255,255,0.18);
+
+  transform: translateY(10px);
+}
+
+.route-dot {
+  position: absolute;
+
+  width: 9px;
+  height: 9px;
+
+  border-radius: 50%;
+
+  background: #62adff;
+
+  box-shadow:
+    0 0 0 7px rgba(98, 173, 255, 0.08),
+    0 0 18px rgba(98, 173, 255, 0.5);
+}
+
+.dot-one {
+  left: -3px;
+  top: -5px;
+}
+
+.dot-two {
+  left: 50%;
+  top: 35px;
+}
+
+.dot-three {
+  right: -3px;
+  top: 88px;
+}
+
+/* moving traveller */
+
+.route-traveller {
+  position: absolute;
+
+  width: 10px;
+  height: 10px;
+
+  left: 0;
+  top: -6px;
+
+  border-radius: 50%;
+
+  background: #fff;
+
+  box-shadow:
+    0 0 0 5px rgba(255,255,255,0.08),
+    0 0 25px rgba(255,255,255,0.7);
+
+  animation: routeTravel 5s ease-in-out infinite;
+}
+
+@keyframes routeTravel {
+  0% {
+    left: 0;
+    top: -6px;
+  }
+
+  45% {
+    left: 50%;
+    top: 34px;
+  }
+
+  100% {
+    left: calc(100% - 8px);
+    top: 87px;
+  }
+}
+
+/* =========================================================
+   LOCATIONS
+   ========================================================= */
+
+.footer-location {
+  position: absolute;
+
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+
+  padding: 10px 13px;
+
+  border: 1px solid rgba(255,255,255,.12);
+  border-radius: 11px;
+
+  background: rgba(7, 20, 28, .72);
+
+  backdrop-filter: blur(14px);
+
+  box-shadow:
+    0 18px 45px rgba(0,0,0,.24);
+
+  transition:
+    transform 300ms cubic-bezier(.22,1,.36,1),
+    border-color 300ms ease;
+}
+
+.footer-location:hover {
+  transform: translateY(-4px);
+  border-color: rgba(99,173,255,.32);
+}
+
+.footer-location span {
+  color: #637781;
+
+  font-size: 0.48rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+}
+
+.footer-location strong {
+  color: #e9f0f3;
+
+  font-size: 0.68rem;
+  letter-spacing: 0.03em;
+}
+
+.location-one {
+  left: 65px;
+  top: 120px;
+}
+
+.location-two {
+  right: 25px;
+  bottom: 95px;
+}
+
+/* =========================================================
+   COMPASS
+   ========================================================= */
+
+.footer-compass {
+  position: absolute;
+
+  left: 50%;
+  top: 50%;
+
+  width: 74px;
+  height: 74px;
+
+  display: grid;
+  place-items: center;
+
+  transform: translate(-50%, -50%);
+
+  border: 1px solid rgba(99,173,255,0.25);
+
+  border-radius: 50%;
+
+  background: rgba(12, 29, 39, 0.9);
+
+  color: #65aeff;
+
+  box-shadow:
+    0 0 50px rgba(52, 135, 211, 0.1);
+
+  animation: compassFloat 4s ease-in-out infinite;
+}
+
+@keyframes compassFloat {
+  0%,
+  100% {
+    transform: translate(-50%, -50%) translateY(0);
+  }
+
+  50% {
+    transform: translate(-50%, -50%) translateY(-8px);
+  }
+}
+
+/* =========================================================
+   MAIN FOOTER
+   ========================================================= */
+
+.footer-main {
+  display: grid;
+
+  grid-template-columns: 1.8fr repeat(3, 1fr);
+
+  gap: 70px;
+
+  padding: 76px 12px 58px;
+
+  border-bottom: 1px solid #e4e6e5;
+}
+
+.footer-brand-area {
+  max-width: 320px;
+}
+
+.footer-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 11px;
+
+  color: #101820;
+
+  text-decoration: none;
+}
+
+.footer-brand-mark {
+  width: 38px;
+  height: 38px;
+
+  display: grid;
+  place-items: center;
+
+  border: 1px solid #dce1df;
+  border-radius: 11px;
+
+  color: #2879d8;
+
+  font-size: 1rem;
+
+  transition:
+    transform 300ms ease,
+    border-color 300ms ease;
+}
+
+.footer-brand:hover .footer-brand-mark {
+  transform: rotate(12deg);
+  border-color: #2879d8;
+}
+
+.footer-brand strong {
+  display: block;
+
+  font-size: 1rem;
+  letter-spacing: -0.03em;
+}
+
+.footer-brand small {
+  display: block;
+
+  margin-top: 2px;
+
+  color: #8b9499;
+
+  font-size: 0.52rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.footer-brand-area > p {
+  margin: 20px 0;
+
+  color: #7a858b;
+
+  font-size: 0.76rem;
+  line-height: 1.8;
+}
+
+.footer-system-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  color: #68747a;
+
+  font-size: 0.62rem;
+}
+
+.footer-system-status i {
+  width: 6px;
+  height: 6px;
+
+  border-radius: 50%;
+
+  background: #36a269;
+
+  box-shadow: 0 0 12px rgba(54,162,105,0.45);
+}
+
+.footer-system-status b {
+  margin-left: 4px;
+
+  color: #36a269;
+
+  font-size: 0.52rem;
+  letter-spacing: 0.1em;
+}
+
+/* =========================================================
+   COLUMNS
+   ========================================================= */
+
+.footer-column {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 13px;
+
+  padding-left: 2px;
+}
+
+.footer-column h3 {
+  margin: 0 0 10px;
+
+  color: #111820;
+
+  font-size: .61rem;
+  font-weight: 850;
+
+  letter-spacing: .14em;
+  text-transform: uppercase;
+}
+
+.footer-column a {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+
+  color: #78838a;
+
+  text-decoration: none;
+
+  font-size: .7rem;
+
+  transition:
+    color 220ms ease,
+    transform 220ms cubic-bezier(.22,1,.36,1);
+}
+
+.footer-column a svg {
+  opacity: 0;
+
+  transform: translate(-3px, 3px);
+
+  transition:
+    opacity 180ms ease,
+    transform 180ms ease;
+}
+
+.footer-column a:hover {
+  color: #1472d1;
+  transform: translateX(3px);
+}
+
+.footer-column a:hover svg {
+  opacity: 1;
+  transform: translate(0, 0);
+}
+
+/* =========================================================
+   BOTTOM
+   ========================================================= */
+
+.footer-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 22px 12px 0;
+
+  color: #9aa2a6;
+
+  font-size: .55rem;
+}
+
+.footer-bottom-center {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  color: #a5adb1;
+
+  font-size: 0.48rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+}
+
+.footer-bottom-center i {
+  width: 3px;
+  height: 3px;
+
+  border-radius: 50%;
+
+  background: #c4c9cb;
+}
+
+.footer-tagline {
+  color: #727c81;
+}
+
+/* =========================================================
+   TABLET
+   ========================================================= */
+
+@media (max-width: 1050px) {
+
+  .footer-route-visual {
+    right: -150px;
+    opacity: 0.75;
+  }
+
+  .footer-journey-content {
+    padding-left: 50px;
+  }
+
+  .footer-main {
+    gap: 35px;
+  }
+}
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 800px) {
+
+  .roamora-footer {
+    width: calc(100% - 32px);
+    margin-top: 80px;
+  }
+
+  .footer-journey {
+    min-height: 680px;
+  }
+
+  .footer-journey-content {
+    width: calc(100% - 40px);
+    padding: 50px 20px;
+  }
+
+  .footer-journey h2 {
+    font-size: clamp(2.8rem, 13vw, 4.5rem);
+  }
+
+  .footer-route-visual {
+    width: 500px;
+    height: 420px;
+
+    right: 50%;
+    top: 300px;
+
+    transform: translateX(50%) scale(0.78);
+
+    opacity: 0.9;
+  }
+
+  .footer-main {
+    grid-template-columns: 1fr 1fr;
+    gap: 45px 25px;
+
+    padding-top: 55px;
+  }
+
+  .footer-brand-area {
+    grid-column: 1 / -1;
+    max-width: 450px;
+  }
+
+  .footer-bottom {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+  }
+}
+
+/* =========================================================
+   SMALL MOBILE
+   ========================================================= */
+
+@media (max-width: 500px) {
+
+  .roamora-footer {
+    width: calc(100% - 24px);
+  }
+
+  .footer-journey {
+    border-radius: 22px;
+    min-height: 650px;
+  }
+
+  .footer-journey-content {
+    padding: 40px 18px;
+  }
+
+  .footer-actions {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 18px;
+  }
+
+  .footer-route-visual {
+    top: 315px;
+
+    transform: translateX(50%) scale(0.62);
+  }
+
+  .footer-main {
+    grid-template-columns: 1fr 1fr;
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+
+  .footer-bottom {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+
+  .footer-bottom-center {
+    flex-wrap: wrap;
+  }
+}
+
+/* =========================================================
+   REDUCED MOTION
+   ========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+
+  .footer-orbit,
+  .route-traveller,
+  .footer-compass {
+    animation: none;
+  }
+
+  .footer-main-button,
+  .footer-explore-link,
+  .footer-column a,
+  .footer-brand-mark {
+    transition: none;
+  }
+}
+
+/* =========================================================
+   FOOTER POLISH / INTERACTION LAYER
+   ========================================================= */
+
+.footer-journey::after {
+  content: "";
+
+  position: absolute;
+  inset: 0;
+
+  background:
+    linear-gradient(
+      115deg,
+      transparent 25%,
+      rgba(255,255,255,.025) 48%,
+      transparent 68%
+    );
+
+  transform: translateX(-100%);
+
+  animation: footerSheen 9s ease-in-out infinite;
+
+  pointer-events: none;
+  z-index: 1;
+}
+
+@keyframes footerSheen {
+  0%,
+  55% {
+    transform: translateX(-100%);
+  }
+
+  78%,
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.footer-journey-content > * {
+  position: relative;
+}
+
+.footer-journey-content > p {
+  max-width: 480px;
+}
+
+.footer-actions {
+  position: relative;
+  z-index: 6;
+}
+
+.footer-explore-link svg {
+  transition: transform 240ms cubic-bezier(.22,1,.36,1);
+}
+
+.footer-explore-link:hover svg {
+  transform: translate(3px, -3px);
+}
+
+
+/* Small visual status line below the CTA */
+.footer-system-status {
+  padding: 7px 10px 7px 8px;
+
+  border: 1px solid #e8eceb;
+  border-radius: 999px;
+
+  background: rgba(248,250,249,.58);
+}
+
+.footer-system-status i {
+  animation: footerStatusPulse 2s ease-in-out infinite;
+}
+
+@keyframes footerStatusPulse {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgba(54,162,105,.25);
+  }
+
+  50% {
+    box-shadow: 0 0 0 6px rgba(54,162,105,.05);
+  }
+}
+
+
+/* Footer links feel like individual destinations */
+.footer-column a {
+  position: relative;
+}
+
+.footer-column a::before {
+  content: "";
+
+  position: absolute;
+
+  left: 0;
+  bottom: -5px;
+
+  width: 0;
+  height: 1px;
+
+  background: #1472d1;
+
+  transition: width 220ms ease;
+}
+
+.footer-column a:hover::before {
+  width: calc(100% - 18px);
+}
+
+
+/* Route visual reacts when the whole CTA is hovered */
+.footer-journey:hover .orbit-one {
+  animation-duration: 11s;
+}
+
+.footer-journey:hover .orbit-two {
+  animation-duration: 17s;
+}
+
+.footer-journey:hover .orbit-three {
+  animation-duration: 25s;
+}
+
+.footer-journey:hover .footer-route-line {
+  filter: drop-shadow(0 0 15px rgba(87,159,255,.25));
+}
+
+.footer-journey:hover .footer-compass {
+  box-shadow:
+    0 0 70px rgba(52,135,211,.18);
+}
+
+
+/* Better focus states */
+.footer-main-button:focus-visible,
+.footer-explore-link:focus-visible,
+.footer-column a:focus-visible,
+.footer-brand:focus-visible {
+  outline: 2px solid #2879d8;
+  outline-offset: 4px;
+}
+
+
+/* =========================================================
+   TABLET REFINEMENT
+   ========================================================= */
+
+@media (max-width: 1050px) {
+
+  .roamora-footer {
+    width: calc(100% - 40px);
+  }
+
+  .footer-journey {
+    min-height: 600px;
+  }
+
+  .footer-route-visual {
+    right: -150px;
+    opacity: .72;
+  }
+
+  .footer-journey-content {
+    width: min(560px, 85%);
+    padding-left: 52px;
+  }
+
+  .footer-main {
+    gap: 38px;
+  }
+}
+
+
+/* =========================================================
+   MOBILE REFINEMENT
+   ========================================================= */
+
+@media (max-width: 800px) {
+
+  .roamora-footer {
+    width: calc(100% - 28px);
+    margin-top: 80px;
+  }
+
+  .footer-journey {
+    min-height: 700px;
+    border-radius: 26px;
+  }
+
+  .footer-journey-content {
+    width: calc(100% - 36px);
+    padding: 54px 18px 50px;
+  }
+
+  .footer-journey h2 {
+    max-width: 460px;
+    font-size: clamp(2.8rem, 13vw, 4.7rem);
+  }
+
+  .footer-journey-content p {
+    max-width: 430px;
+    font-size: .76rem;
+  }
+
+  .footer-route-visual {
+    width: 520px;
+    height: 430px;
+
+    right: 50%;
+    top: 330px;
+
+    transform: translateX(50%) scale(.78);
+
+    opacity: .82;
+  }
+
+  .footer-main {
+    grid-template-columns: 1fr 1fr;
+    gap: 48px 25px;
+    padding-top: 58px;
+  }
+
+  .footer-brand-area {
+    grid-column: 1 / -1;
+    max-width: 500px;
+  }
+
+  .footer-bottom {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 14px;
+  }
+
+  .footer-bottom-center {
+    order: 3;
+  }
+}
+
+
+/* =========================================================
+   SMALL MOBILE
+   ========================================================= */
+
+@media (max-width: 500px) {
+
+  .roamora-footer {
+    width: calc(100% - 20px);
+  }
+
+  .footer-journey {
+    min-height: 690px;
+    border-radius: 22px;
+  }
+
+  .footer-journey-content {
+    padding: 42px 17px;
+  }
+
+  .footer-kicker {
+    font-size: .5rem;
+  }
+
+  .footer-journey h2 {
+    font-size: clamp(2.7rem, 14vw, 4rem);
+  }
+
+  .footer-actions {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 17px;
+  }
+
+  .footer-main-button {
+    padding: 13px 16px;
+  }
+
+  .footer-route-visual {
+    top: 330px;
+    transform: translateX(50%) scale(.61);
+  }
+
+  .footer-main {
+    grid-template-columns: 1fr 1fr;
+    gap: 40px 20px;
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+
+  .footer-brand-area > p {
+    font-size: .7rem;
+  }
+
+  .footer-bottom {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+
+  .footer-bottom-center {
+    flex-wrap: wrap;
+  }
+}
+
+
+/* =========================================================
+   REDUCED MOTION
+   ========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+
+  .footer-journey::after,
+  .footer-orbit,
+  .route-traveller,
+  .footer-compass,
+  .footer-system-status i {
+    animation: none;
+  }
+
+  .footer-main-button,
+  .footer-explore-link,
+  .footer-column a,
+  .footer-brand-mark,
+  .footer-location {
+    transition: none;
+  }
+}
+
+
+/* =========================================================
+   DARK FOOTER NAVIGATION — CONTRAST FIX
+   ========================================================= */
+
+/*
+  The CTA and navigation now share the dark Roamora footer surface.
+  These overrides intentionally make all text readable without changing
+  the Footer.jsx structure.
+*/
+
+.roamora-footer {
+  color: #eaf2f6;
+}
+
+
+/* Main navigation area */
+.footer-main {
+  color: #eaf2f6;
+  border-bottom-color: rgba(255,255,255,.14);
+}
+
+
+/* Brand */
+.footer-brand {
+  color: #f4f8fa;
+}
+
+.footer-brand strong {
+  color: #f4f8fa;
+}
+
+.footer-brand small {
+  color: #91a4ad;
+}
+
+.footer-brand-mark {
+  border-color: rgba(255,255,255,.24);
+  color: #63adff;
+  background: rgba(255,255,255,.035);
+}
+
+.footer-brand:hover .footer-brand-mark {
+  border-color: #63adff;
+  background: rgba(99,173,255,.07);
+}
+
+
+/* Description */
+.footer-brand-area > p {
+  color: #a9b8bf;
+}
+
+
+/* System status */
+.footer-system-status {
+  color: #b7c3c8;
+
+  border-color: rgba(255,255,255,.18);
+
+  background: rgba(255,255,255,.08);
+}
+
+.footer-system-status b {
+  color: #58d58c;
+}
+
+
+/* Column headings */
+.footer-column h3 {
+  color: #dce7eb;
+}
+
+
+/* Navigation links */
+.footer-column a {
+  color: #9eafb7;
+}
+
+.footer-column a:hover {
+  color: #63adff;
+}
+
+
+/* Animated link underline */
+.footer-column a::before {
+  background: #63adff;
+}
+
+
+/* Bottom row */
+.footer-bottom {
+  color: #91a1a9;
+}
+
+.footer-bottom-center {
+  color: #b7c4ca;
+}
+
+.footer-bottom-center i {
+  background: #687980;
+}
+
+.footer-tagline {
+  color: #91a1a9;
+}
+
+
+/* Make the footer divider subtle rather than bright */
+.footer-bottom {
+  border-top-color: transparent;
+}
+
+
+/* =========================================================
+   DARK FOOTER — MOBILE CONTRAST
+   ========================================================= */
+
+@media (max-width: 800px) {
+
+  .footer-column h3 {
+    color: #dce7eb;
+  }
+
+  .footer-column a {
+    color: #a5b5bc;
+  }
+
+  .footer-brand-area > p {
+    color: #a9b8bf;
+  }
+
+  .footer-bottom {
+    color: #91a1a9;
+  }
+}
+
+
+/* =========================================================
+   ACCESSIBLE CONTRAST / REDUCED MOTION
+   ========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+
+  .footer-system-status i {
+    animation: none;
+  }
+}
+.footer-photo-visual{position:relative;overflow:hidden;border-radius:18px;min-height:300px;background:#dfe8df}.footer-photo-visual img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}.footer-photo-visual>span{position:absolute;left:14px;right:14px;bottom:14px;padding:14px 16px;border-radius:10px;background:rgba(22,43,30,.78);color:#fff;font-size:.65rem;font-weight:850;letter-spacing:.12em;backdrop-filter:blur(8px)}
+/* Clean photo-led footer; no decorative orbital or graph-like visuals. */
+.footer-journey{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(260px,.8fr);align-items:center;gap:36px;min-height:0;padding:clamp(30px,5vw,62px);border-radius:24px;background:#203f30;box-shadow:none}.footer-journey-grid{display:none}.footer-journey-content{width:auto;max-width:620px;padding:0}.footer-kicker{color:#b7d2bc}.footer-kicker::before{background:#b7d2bc;box-shadow:none}.footer-journey h2 span{color:#b8d8bd}.footer-journey-content p{color:#d3ded5}.footer-photo-visual{position:relative;right:auto;top:auto;width:100%;max-width:430px;height:auto;min-height:0;aspect-ratio:4/5;justify-self:end;transform:none}.footer-photo-visual img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}.footer-system-status i{background:#739b7a;box-shadow:none}.footer-system-status b{color:#38694e;background:#e8f0e7}
+@media(max-width:760px){.roamora-footer{width:calc(100% - 30px);margin-top:55px}.footer-journey{grid-template-columns:1fr;gap:24px;padding:25px}.footer-journey-content{padding:0}.footer-photo-visual{width:100%;max-width:none;aspect-ratio:16/10;justify-self:stretch}.footer-main{grid-template-columns:1fr 1fr;gap:24px}}
+@media(max-width:900px){.footer-journey{grid-template-columns:minmax(0,1.1fr) minmax(220px,.8fr);padding:30px;gap:20px}.footer-journey-content{width:auto}.footer-photo-visual{width:100%;max-width:360px;aspect-ratio:4/5}}

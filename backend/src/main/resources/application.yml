@@ -1,0 +1,30 @@
+# Roamora global transport configuration.
+#
+# No single-city feed is enabled by default. Production deployments can
+# register GTFS/GTFS-RT feeds through the admin APIs or external mobility
+# integrations without shipping a region-specific default.
+roamora:
+  gtfs:
+    feeds: []
+
+  transport:
+    routing:
+      otp:
+        enabled: false
+        base-url: http://localhost:8081
+
+    mobility-database:
+      enabled: false
+      token: ${ROAMORA_MOBILITY_DATABASE_TOKEN:}
+
+    realtime:
+      enabled: false
+
+    flights:
+      enabled: false
+
+    marine:
+      enabled: false
+
+    gbfs:
+      enabled: false

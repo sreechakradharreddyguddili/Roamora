@@ -1,0 +1,2646 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+340002059MAR,,Marina,,51.61955,-1.1146,,,0,,,0
+340002059OPP,,Marina,,51.61977,-1.11448,,,0,,,0
+340025005DSE,,"Ascott View",,51.67374,-1.09903,,,0,,,0
+340025005DNW,,"Ascott View",,51.67383,-1.0996,,,0,,,0
+340025004EAS,,"Hayes End",,51.67173,-1.09256,,,0,,,0
+340025004WES,,"Hayes End",,51.67144,-1.09184,,,0,,,0
+340003278CNR,,"Quartermain Road",,51.66918,-1.08419,,,0,,,0
+340003278OPP,,"Quartermain Road",,51.66901,-1.0836,,,0,,,0
+340001594OUT,,"The Lamb",,51.67045,-1.08817,,,0,,,0
+340001594OPP,,"The Lamb",,51.67049,-1.08804,,,0,,,0
+340000177GRN,,"The Red Lion",,51.6674,-1.08051,,,0,,,0
+340000177OUT,,"The Red Lion",,51.66747,-1.08084,,,0,,,0
+340001694OUT,,"Whitehall Lane",,51.54401,-1.04128,,,0,,,0
+340001694OPP,,"Whitehall Lane",,51.54415,-1.04128,,,0,,,0
+340022026EAS,,"Beechwood Close",,51.51963,-1.0812,,,0,,,0
+340022026WES,,"Beechwood Close",,51.51957,-1.08142,,,0,,,0
+340000237NOR,,"Goffs Hill Top",,51.52019,-1.08335,,,0,,,0
+340000237SOU,,"Goffs Hill Top",,51.52011,-1.08313,,,0,,,0
+340001610SOU,,"Goring Road",,51.52054,-1.0834,,,0,,,0
+340001610NOR,,"Goring Road",,51.52048,-1.08347,,,0,,,0
+340017601OUT,,"Oratory Prep School",,51.51457,-1.08496,,,0,,,0
+340017601OPP,,"Oratory Prep School",,51.51473,-1.08507,,,0,,,0
+340001483ROU,,"Crowmarsh Roundabout S",,51.59623,-1.10387,,,0,,,0
+340001483COX,,"Crowmarsh Roundabout S",,51.59562,-1.10389,,,0,,,0
+340001608CNR,,"Exlade Street Turn",,51.53689,-1.05669,,,0,,,0
+340001608OPP,,"Exlade Street Turn",,51.53698,-1.05674,,,0,,,0
+340001898ELV,,"Elvendon Crossroads",,51.52929,-1.1327,,,0,,,0
+340001898OPE,,"Elvendon Crossroads",,51.52962,-1.13256,,,0,,,0
+340004539GFA,,"Grove Farm Turn",,51.54156,-1.12934,,,0,,,0
+340004539GFO,,"Grove Farm Turn",,51.54161,-1.12955,,,0,,,0
+340025016SOU,,"Milldown Avenue",,51.52547,-1.13348,,,0,,,0
+340025016NOR,,"Milldown Avenue",,51.5252,-1.13363,,,0,,,0
+340004272SPF,,"Spring Farm",,51.53713,-1.12903,,,0,,,0
+340004272SPO,,"Spring Farm",,51.53703,-1.12892,,,0,,,0
+340004472HTN,,"Wallingford Road",,51.53262,-1.13223,,,0,,,0
+340004472HTS,,"Wallingford Road",,51.53268,-1.13189,,,0,,,0
+340000367OST,,Hall,,51.54071,-0.962,,,0,,,0
+340000367SHT,,Hall,,51.54083,-0.96198,,,0,,,0
+340001973OYC,,"Deanfield Avenue HaR",,51.53646,-0.91107,,,0,,,0
+340001969OUT,,"Greys Road Shops",,51.52929,-0.91547,,,0,,,0
+34000197088,,"Greys Road Shops",,51.52922,-0.91548,,,0,,,0
+340001520CNR,,"The Close",,51.53203,-0.91007,,,0,,,0
+340001520OPP,,"The Close",,51.53191,-0.91027,,,0,,,0
+340001630OPP,,"Dove Lane",,51.53234,-0.99554,,,0,,,0
+340001630OUT,,"Dove Lane",,51.53235,-0.99525,,,0,,,0
+340001674CNR,,"Lime Avenue",,51.53354,-0.99948,,,0,,,0
+340001674OPP,,"Lime Avenue",,51.5335,-0.99922,,,0,,,0
+340003300CNR,,"Old Grouse and Claret",,51.53717,-1.00348,,,0,,,0
+340003300OPP,,"Old Grouse and Claret",,51.53756,-1.0042,,,0,,,0
+340004135NOR,,"Mongewell Turn",,51.58574,-1.11138,,,0,,,0
+340004135SOU,,"Mongewell Turn",,51.58573,-1.11109,,,0,,,0
+340000579CL,,"Cook Lane",,51.57069,-1.11637,,,0,,,0
+340000579WHI,,"Cook Lane",,51.57001,-1.11652,,,0,,,0
+340021026NOR,,"The Springs",,51.57227,-1.11574,,,0,,,0
+340021026SOU,,"The Springs",,51.57207,-1.11564,,,0,,,0
+340017602EAS,,Cottages,,51.5156,-1.0689,,,0,,,0
+340017602WES,,Cottages,,51.51552,-1.06893,,,0,,,0
+340001648NOR,,"Peppard Cricket Club",,51.52797,-0.98902,,,0,,,0
+340001648SOU,,"Peppard Cricket Club",,51.52818,-0.98956,,,0,,,0
+340003252OUT,,"Peppard Stores",,51.52597,-0.98619,,,0,,,0
+340003252OPP,,"Peppard Stores",,51.52595,-0.98598,,,0,,,0
+340001675OPP,,"The Unicorn",,51.53092,-0.99208,,,0,,,0
+340000607UNI,,"The Unicorn",,51.53047,-0.99134,,,0,,,0
+340001485OPB,,"Benson Lane",,51.60781,-1.10605,,,0,,,0
+340000638COT,,"St Nicholas Church",,51.53525,-0.95389,,,0,,,0
+340000638CHU,,"St Nicholas Church",,51.53532,-0.95385,,,0,,,0
+340000639RL,,"Red Lion PH",,51.53134,-0.97836,,,0,,,0
+340000639DOG,,"Red Lion PH",,51.53202,-0.97788,,,0,,,0
+340001646WOO,,"Brinds Corner",,51.51843,-0.97786,,,0,,,0
+340001631PEP,,"Gravel Hill Top",,51.52395,-0.98314,,,0,,,0
+340001631OBC,,"Gravel Hill Top",,51.52365,-0.98326,,,0,,,0
+340001631BLO,,"Gravel Hill Top",,51.5235,-0.98277,,,0,,,0
+340001636HCE,,"Health Centre",,51.51632,-0.9827,,,0,,,0
+340001632CNR,,"Kidmore End Turn",,51.5147,-0.98466,,,0,,,0
+340001636BIL,,Library,,51.51632,-0.97945,,,0,,,0
+340001637OUT,,"Post Office",,51.51708,-0.98186,,,0,,,0
+340001647CHU,,"Sedgewell Road",,51.521,-0.98081,,,0,,,0
+340001647OPP,,"Sedgewell Road",,51.52065,-0.98,,,0,,,0
+340000686OUT,,"Freedom Cottages",,51.55041,-1.13215,,,0,,,0
+340000686OPP,,"Freedom Cottages",,51.55029,-1.1323,,,0,,,0
+340001492OUT,,"Glebe Cottages",,51.54601,-1.13153,,,0,,,0
+340001492OPP,,"Glebe Cottages",,51.54649,-1.13149,,,0,,,0
+340004763TUA,,"Little Stoke Turn",,51.55842,-1.12808,,,0,,,0
+340004763TUO,,"Little Stoke Turn",,51.55823,-1.12799,,,0,,,0
+340001679PIC,,"Piccadilly Cottage",,51.6807,-1.11319,,,0,,,0
+340001679POP,,"Piccadilly Cottage",,51.6808,-1.11302,,,0,,,0
+340000699CNR,,"School Lane",,51.68269,-1.13021,,,0,,,0
+340000699GRN,,"School Lane",,51.68195,-1.1306,,,0,,,0
+340001672OUT,,"Cherry Tree",,51.55077,-1.01528,,,0,,,0
+340001672OPP,,"Cherry Tree",,51.55079,-1.01609,,,0,,,0
+340000715OCV,,"Church View",,51.5511,-1.02292,,,0,,,0
+340001673OUT,,"Stag Hall",,51.54567,-1.01246,,,0,,,0
+340001673OPP,,"Stag Hall",,51.54566,-1.01269,,,0,,,0
+340000791OCH,,"St Lawrence Church",,51.63829,-1.13647,,,0,,,0
+340000791CH,,"St Lawrence Church",,51.6383,-1.13662,,,0,,,0
+340000820CHU,,"Oakdown Close",,51.50661,-1.0757,,,0,,,0
+340001609BF,,"Orchard Combe",,51.50485,-1.07998,,,0,,,0
+340000820WE,,"The Sun",,51.5087,-1.07368,,,0,,,0
+340000833OUT,,"Langtree School",,51.53377,-1.06654,,,0,,,0
+340000833SCH,,"Langtree School",,51.53384,-1.0672,,,0,,,0
+340003295CNR,,"The Close",,51.53111,-1.07202,,,0,,,0
+340003295OPP,,"The Close",,51.53144,-1.07225,,,0,,,0
+340004146CNR,,"Tidmore Lane",,51.53514,-1.06148,,,0,,,0
+340004146OPP,,"Tidmore Lane",,51.53502,-1.06151,,,0,,,0
+340001902OUT,,"War Memorial",,51.53378,-1.07216,,,0,,,0
+340001902OPP,,"War Memorial",,51.53371,-1.07203,,,0,,,0
+340003294CNR,,"West Chiltern",,51.53001,-1.07179,,,0,,,0
+340003294OPP,,"West Chiltern",,51.52994,-1.07164,,,0,,,0
+34000000005,,"Oxford City Centre, Gloucester Green",,51.753941,-1.262512,,,0,,,0
+340001989S4,,"Oxford City Centre, Westgate",,51.748714,-1.261959,,,0,,,0
+340001989S2,,"Oxford City Centre, Speedwell Street",,51.748473,-1.258023,,,0,,,0
+340001992K5,,"Oxford City Centre, Queens Lane",,51.752716,-1.250696,,,0,,,0
+340001317OUT,,"St Clements, St Clements Street",,51.750606,-1.239953,,,0,,,0
+340001313EAS,,"Headington, Brookes University",,51.756053,-1.224606,,,0,,,0
+340001309COO,,"Headington, Headington Shops",,51.760636,-1.209444,,,0,,,0
+340001310NRC,,"Headington, Green Road Roundabout",,51.762634,-1.199064,,,0,,,0
+340000009PR4,,"Thornhill, Park and Ride",,51.76198,-1.181137,,,0,,,0
+340001811CHN,,"Lewknor, Lewknor Turn M40 J6",,51.673274,-0.958743,,,0,,,0
+040000000902,,"High Wycombe, Coachway",,51.614145,-0.764005,,,0,,,0
+490008016CS,,"Heathrow Airport, Central Bus Station",,51.471414,-0.453008,,,0,,,0
+490005530W,,"Heathrow Airport, Compass Centre",,51.481494,-0.469488,,,0,,,0
+49001643010,,"Heathrow Airport, Terminal 5",,51.471368,-0.489523,,,0,,,0
+4400CY0361,,"Gatwick Airport, South Terminal",,51.156879,-0.159553,,,0,,,0
+4400CY0375,,"Gatwick Airport, North Terminal",,51.160484,-0.176657,,,0,,,0
+490010197E,,"Heathrow Airport, Compass Centre",,51.481097,-0.465929,,,0,,,0
+340001811WAT,,"Lewknor, Lewknor Turn M40 J6",,51.671403,-0.963775,,,0,,,0
+340000009PR3,,"Thornhill, Park and Ride",,51.761665,-1.181027,,,0,,,0
+340001308CNR,,"Headington, Gladstone Road",,51.76197,-1.203248,,,0,,,0
+340001309COI,,"Headington, Headington Shops",,51.760265,-1.210393,,,0,,,0
+340001313WES,,"Headington, Brookes University",,51.755314,-1.227154,,,0,,,0
+340001126DAW,,"St Clements, St Clements Street",,51.750179,-1.242046,,,0,,,0
+340001992J1,,"Oxford City Centre, Queens Lane",,51.752591,-1.250872,,,0,,,0
+340000004H5,,"Oxford City Centre, St Aldates",,51.750299,-1.256762,,,0,,,0
+036006009010,,"Maidenhead, Frascati Way",,51.521134,-0.723788,,,0,,,0
+036006008008,,"Maidenhead, Broadway",,51.521388,-0.720667,,,0,,,0
+036006007007,,"Maidenhead, Market Street",,51.522873,-0.719963,,,0,,,0
+036006005005,,"Maidenhead, Library",,51.522485,-0.718143,,,0,,,0
+036006002166,,"Maidenhead, Queen Street",,51.520106,-0.720992,,,0,,,0
+036006003004,,"Maidenhead, Railway Station",,51.519107,-0.721755,,,0,,,0
+036006001003,,"Maidenhead, Grenfell Park",,51.519027,-0.724351,,,0,,,0
+036000000005,,"Maidenhead, Valley Walk",,51.51991,-0.727829,,,0,,,0
+036006002061,,"Maidenhead, Boyn Hill Avenue",,51.520995,-0.731705,,,0,,,0
+036006002062,,"Maidenhead, All Saints' Church",,51.519433,-0.736029,,,0,,,0
+036000000107,,"Rutland Road",,51.520335,-0.737171,,,0,,,0
+036000000007,,"Maidenhead, All Saints Avenue",,51.522878,-0.738701,,,0,,,0
+036006065067,,"Maidenhead, St Mark's Hospital",,51.524001,-0.743643,,,0,,,0
+036006002448,,"Maidenhead, Clara Court",,51.521353,-0.744927,,,0,,,0
+036006002438,,"Maidenhead, Badminton Road",,51.518629,-0.746601,,,0,,,0
+036000000008,,"Maidenhead, Wootton Way",,51.516678,-0.744089,,,0,,,0
+036006001469,,"Maidenhead, Haddon Road",,51.515108,-0.745257,,,0,,,0
+036000000012,,"Maidenhead, Great Hill Crescent",,51.515218,-0.747992,,,0,,,0
+036006045045,,"Maidenhead, Altwood School",,51.515759,-0.754102,,,0,,,0
+036006721721,,"Maidenhead, Bannard Road",,51.515687,-0.759177,,,0,,,0
+036000000014,,"Maidenhead, Barley Mead",,51.513509,-0.762335,,,0,,,0
+036006001437,,"Thatched Cottage",,51.510359,-0.762074,,,0,,,0
+036006003011,,"Maidenhead, Cannon Lane",,51.509775,-0.762119,,,0,,,0
+036006042042,,"Maidenhead, Highfield Lane",,51.509717,-0.760103,,,0,,,0
+036006044044,,"Maidenhead, Farmers Way",,51.510621,-0.758018,,,0,,,0
+036006003072,,"Maidenhead, Copthorn Close",,51.512041,-0.759622,,,0,,,0
+036006825825,,"White Waltham, Heywood Park",,51.497176,-0.765399,,,0,,,0
+036006826826,,"White Waltham, Church View",,51.492956,-0.77031,,,0,,,0
+036006006410,,"White Waltham, Grove Park",,51.49003,-0.773442,,,0,,,0
+036006827827,,"White Waltham, Primary School",,51.489048,-0.776623,,,0,,,0
+036006828828,,"White Waltham, Beehive PH",,51.487062,-0.778548,,,0,,,0
+036000000013,,"Maidenhead, Barley Mead",,51.513069,-0.762476,,,0,,,0
+036006001070,,"Maidenhead, Bannard Road",,51.51583,-0.759072,,,0,,,0
+036006045046,,"Maidenhead, Altwood School",,51.515704,-0.752245,,,0,,,0
+036000000011,,"Maidenhead, Great Hill Crescent",,51.515418,-0.749024,,,0,,,0
+036000000010,,"Maidenhead, Norden Farm",,51.515191,-0.746379,,,0,,,0
+036000000009,,"Maidenhead, Wootton Way",,51.516507,-0.74408,,,0,,,0
+036006003010,,"Maidenhead, Badminton Road",,51.517776,-0.745918,,,0,,,0
+036006001448,,"Maidenhead, Clara Court",,51.521548,-0.74544,,,0,,,0
+036006068068,,"Maidenhead, St Mark's Hospital",,51.524118,-0.743597,,,0,,,0
+036006001052,,"Maidenhead, All Saints Avenue",,51.523327,-0.739496,,,0,,,0
+036000000108,,"Rutland Road",,51.520288,-0.736942,,,0,,,0
+036006001062,,"Maidenhead, All Saints' Church",,51.519315,-0.736796,,,0,,,0
+036006001061,,"Maidenhead, Boyn Hill Avenue",,51.520972,-0.732051,,,0,,,0
+036000000006,,"Maidenhead, Valley Walk",,51.520154,-0.727923,,,0,,,0
+036006737737,,"Maidenhead, Grenfell Park",,51.519203,-0.723986,,,0,,,0
+036006001379,,"White Waltham, Ormandy House",,51.486233,-0.76977,,,0,,,0
+036006826827,,"White Waltham, Church View",,51.49302,-0.770409,,,0,,,0
+036006825826,,"White Waltham, Heywood Park",,51.497169,-0.765615,,,0,,,0
+036006811811,,"White Waltham Airfield",,51.500138,-0.76408,,,0,,,0
+036000000367,,"Cannon Lane",,51.503762,-0.76329,,,0,,,0
+036006006006,,"Maidenhead, Bridge Avenue",,51.522178,-0.716408,,,0,,,0
+036006140141,,"Maidenhead, Saint-Cloud Way",,51.524553,-0.718979,,,0,,,0
+036006097097,,"St Joseph's Church",,51.526815,-0.721092,,,0,,,0
+036000000031,,"Ray Mill, Fullbrook Close",,51.529612,-0.71702,,,0,,,0
+036000000029,,"Ray Mill, Boulters Meadow",,51.527975,-0.7145,,,0,,,0
+036000000035,,"Ray Mill, Moorfield Terrace",,51.526674,-0.711481,,,0,,,0
+036006002028,,"Ray Mill, Juniper Drive",,51.525935,-0.708907,,,0,,,0
+036006001029,,"Ray Mill, Somerford Close",,51.526806,-0.705495,,,0,,,0
+036006115115,,"Ray Mill, Addison Court",,51.530807,-0.707154,,,0,,,0
+036006001030,,"Ray Mill, Ray Mill Road East",,51.532412,-0.706676,,,0,,,0
+036006002030,,"Ray Mill, Boulters Gardens",,51.532813,-0.701518,,,0,,,0
+036006747747,,"Maidenhead Riverside, Boulters Lock",,51.533157,-0.700052,,,0,,,0
+036006002031,,"Maidenhead Court, Court Road",,51.53796,-0.701026,,,0,,,0
+036006117117,,"Maidenhead Court, Islet Road",,51.540712,-0.702634,,,0,,,0
+036000000033,,"Maidenhead Court, Whitebrook Park",,51.542647,-0.702796,,,0,,,0
+036006002032,,"Maidenhead Court, Park",,51.543917,-0.703841,,,0,,,0
+036006754754,,"Maidenhead Court, Sheephouse Farm",,51.540568,-0.705119,,,0,,,0
+036006002033,,"Maidenhead Court, Poplars Grove",,51.536866,-0.706132,,,0,,,0
+036006001034,,"Maidenhead Court, Thames Crescent",,51.534629,-0.707147,,,0,,,0
+036006002034,,"Ray Mill, Summerleaze Road",,51.532421,-0.707541,,,0,,,0
+036000000028,,"Ray Mill, Addison Court",,51.530986,-0.707077,,,0,,,0
+036000000037,,"Ray Mill, Somerford Close",,51.527273,-0.705481,,,0,,,0
+036000000034,,"Ray Mill, Juniper Drive",,51.52592,-0.70836,,,0,,,0
+036000000038,,"Ray Mill, Moorfield Terrace",,51.526618,-0.712145,,,0,,,0
+036000000030,,"Ray Mill, Boulters Meadow",,51.527716,-0.714709,,,0,,,0
+036006002447,,"Ray Mill, Fullbrook Close",,51.529516,-0.715682,,,0,,,0
+036006001036,,"North Town, North Town Road",,51.529329,-0.71994,,,0,,,0
+036006097098,,"St Joseph's Church",,51.526432,-0.720598,,,0,,,0
+036006002168,,"Waldeck Road",,51.523813,-0.711389,,,0,,,0
+036006726726,,"Maidenhead Bridge",,51.523933,-0.705144,,,0,,,0
+036006765765,,"Ray Mill, Lakeside",,51.533926,-0.711074,,,0,,,0
+036006003035,,"Ray Mill, Summerleaze Park",,51.533717,-0.713329,,,0,,,0
+036006002035,,"Ray Mill, Lonsdale Close",,51.532606,-0.714528,,,0,,,0
+036006001447,,"Ray Mill, Stores",,51.530765,-0.714724,,,0,,,0
+036000000366,,"Maidenhead, Grenfell Road",,51.521556,-0.731185,,,0,,,0
+036006002053,,"Maidenhead, Raymond Road",,51.522551,-0.73417,,,0,,,0
+036006070071,,"Maidenhead, All Saints Avenue",,51.523006,-0.738006,,,0,,,0
+036006081082,,"Maidenhead, St Marks Crescent",,51.525277,-0.751161,,,0,,,0
+036006002045,,"Pinkneys Green, Farm Road",,51.524095,-0.754163,,,0,,,0
+036006083084,,"Pinkneys Green, Newlands Girls' School",,51.523464,-0.758202,,,0,,,0
+036006820820,,"Pinkneys Green, Headington Road",,51.524919,-0.759719,,,0,,,0
+036006821821,,"Pinkneys Green, Camley Gardens",,51.526804,-0.759452,,,0,,,0
+036006091091,,"Pinkneys Green, Pinkneys Road",,51.527025,-0.75649,,,0,,,0
+036000000032,,"Maidenhead, Pinkneys Road",,51.527752,-0.755562,,,0,,,0
+036006088088,,"Maidenhead, Halifax Road",,51.528931,-0.755689,,,0,,,0
+036006001455,,"Maidenhead, Winston Court",,51.529943,-0.753585,,,0,,,0
+036006089089,,"Maidenhead, Blenheim Road",,51.528402,-0.752388,,,0,,,0
+036006002464,,"Maidenhead, Lancaster Road",,51.526995,-0.752844,,,0,,,0
+036006085085,,"Maidenhead, Alwyn Road",,51.525559,-0.753964,,,0,,,0
+036006818819,,"Maidenhead, St Marks Crescent",,51.525392,-0.748448,,,0,,,0
+036006001043,,"Maidenhead, St Mark's Corner",,51.524799,-0.745971,,,0,,,0
+036006001053,,"Maidenhead, Wellington Road",,51.522688,-0.734425,,,0,,,0
+036006001450,,"Maidenhead, Raymond Road",,51.522515,-0.732527,,,0,,,0
+036006001464,,"Australia Avenue",,51.530065,-0.723077,,,0,,,0
+036006100100,,"Moor Lane",,51.532227,-0.725107,,,0,,,0
+036006102102,,"Maidenhead, Aldebury Road",,51.536155,-0.725848,,,0,,,0
+036006108108,,"Spencers Bridge",,51.537256,-0.729479,,,0,,,0
+036006002009,,"Gardner Road",,51.537331,-0.733947,,,0,,,0
+036006001009,,"Cannon Court Road",,51.53647,-0.737489,,,0,,,0
+036006001007,,"Furze Platt, Brompton Drive",,51.535175,-0.744186,,,0,,,0
+036006002007,,"Furze Platt, Cranbrook Drive",,51.532225,-0.746603,,,0,,,0
+036006001008,,"Furze Platt, Dorchester Close",,51.532314,-0.749931,,,0,,,0
+036006003009,,"Cannon Court Road",,51.536594,-0.737327,,,0,,,0
+036006004009,,"Gardner Road",,51.53743,-0.733916,,,0,,,0
+036006001010,,"Spencers Bridge",,51.537334,-0.729218,,,0,,,0
+036006001011,,"Maidenhead, Aldebury Road",,51.5358,-0.725468,,,0,,,0
+036006100101,,"Moor Lane",,51.53246,-0.725028,,,0,,,0
+036006099099,,"Australia Avenue",,51.530335,-0.723113,,,0,,,0
+036006218220,,"Theatre Royal",,51.484213,-0.6076,,,0,,,0
+036006216217,,"Windsor, Parish Church",,51.481757,-0.606696,,,0,,,0
+036006755755,,"Windsor, Sheet Street",,51.478974,-0.60632,,,0,,,0
+036006001157,,"Windsor, Queens Terrace",,51.473452,-0.605495,,,0,,,0
+036006379379,,"Windsor, Albert Road",,51.467827,-0.599087,,,0,,,0
+036006230231,,"Datchet, The Green",,51.484075,-0.579564,,,0,,,0
+036006746746,,"Datchet, Montrose Avenue",,51.485602,-0.57279,,,0,,,0
+036006001192,,"Datchet, Major's Farm Road",,51.486326,-0.566531,,,0,,,0
+036006451452,,"Datchet, Ditton Road",,51.484028,-0.565365,,,0,,,0
+036006740740,,"Datchet Common, Old Plough Corner",,51.481133,-0.567572,,,0,,,0
+036006453453,,"Datchet Common, Penn Road",,51.480069,-0.565186,,,0,,,0
+036006455455,,"Datchet Common, Mill Place",,51.478508,-0.563219,,,0,,,0
+036006456456,,"Datchet Common, Lakeside",,51.475049,-0.559123,,,0,,,0
+036006466466,,"Sunnymeads, Noble Palace",,51.472627,-0.555902,,,0,,,0
+036006457457,,"Sunnymeads, Park Avenue",,51.466092,-0.561205,,,0,,,0
+036006459459,,"Sunnymeads, The Drive",,51.463158,-0.561772,,,0,,,0
+036000000058,,"Wraysbury, Old Ferry Drive",,51.460972,-0.561654,,,0,,,0
+036006002213,,"Wraysbury, Poulcott",,51.458013,-0.561632,,,0,,,0
+036006002455,,"Wraysbury, George Inn",,51.456888,-0.55863,,,0,,,0
+036006465465,,"Wraysbury, High Street",,51.455808,-0.555627,,,0,,,0
+036006761761,,"Wraysbury, Broadwater Close",,51.45261,-0.555124,,,0,,,0
+036006467468,,"Wraysbury, Magna Carta Lane",,51.450457,-0.554127,,,0,,,0
+036006761762,,"Wraysbury, Silver Wing Lake",,51.447104,-0.546908,,,0,,,0
+036006760760,,"Hythe End, Staines Road",,51.445579,-0.542164,,,0,,,0
+036006776776,,"Hythe End, Feathers Lane",,51.444256,-0.537717,,,0,,,0
+036006774775,,"Hythe End, Deepdene",,51.44235,-0.532684,,,0,,,0
+036006002212,,"Hythe End, Gloucester Drive",,51.439901,-0.528892,,,0,,,0
+036000000054,,"Hythe End, Lammas Drive",,51.43844,-0.525644,,,0,,,0
+40004402135B,,"Staines, Vicarage Road",,51.436993,-0.517173,,,0,,,0
+40004402130B,,"Staines, Bridge Street",,51.434375,-0.515632,,,0,,,0
+40004402129A,,"Staines, Staines Bridge",,51.433932,-0.51546,,,0,,,0
+40004402208A,,"Staines, Thames Street",,51.433053,-0.512079,,,0,,,0
+40004402126E,,"Staines, Elmsleigh Bus Station",,51.432648,-0.509229,,,0,,,0
+40004402129B,,"Staines, Staines Bridge",,51.433438,-0.513375,,,0,,,0
+40004402135A,,"Staines, Vicarage Road",,51.437014,-0.518093,,,0,,,0
+036000000055,,"Hythe End, Lammas Drive",,51.438387,-0.525775,,,0,,,0
+036006775775,,"Hythe End, Gloucester Drive",,51.439923,-0.529222,,,0,,,0
+036006774774,,"Hythe End, Deepdene",,51.442509,-0.533197,,,0,,,0
+036006470471,,"Hythe End, Feathers Lane",,51.443935,-0.538677,,,0,,,0
+036006001209,,"Hythe End, Staines Road",,51.445094,-0.541489,,,0,,,0
+036006003208,,"Wraysbury, Silver Wing Lake",,51.447082,-0.547311,,,0,,,0
+036006001208,,"Wraysbury, Magna Carta Lane",,51.45006,-0.554024,,,0,,,0
+036006465466,,"Wraysbury, Broadwater Close",,51.453119,-0.555626,,,0,,,0
+036000000057,,"Wraysbury, High Street",,51.455408,-0.555985,,,0,,,0
+036006464464,,"Wraysbury, Windsor Road",,51.456275,-0.556275,,,0,,,0
+036006002454,,"Wraysbury, George Inn",,51.456838,-0.558977,,,0,,,0
+036006462463,,"Wraysbury, Poulcott",,51.457404,-0.561809,,,0,,,0
+036006461461,,"Wraysbury, Old Ferry Drive",,51.460398,-0.561787,,,0,,,0
+036006459460,,"Sunnymeads, The Drive",,51.462854,-0.561897,,,0,,,0
+036006457458,,"Sunnymeads, Park Avenue",,51.46555,-0.561769,,,0,,,0
+036006466467,,"Sunnymeads, Noble Palace",,51.472868,-0.555765,,,0,,,0
+036006456457,,"Datchet Common, Lakeside",,51.475164,-0.55971,,,0,,,0
+036006455456,,"Datchet Common, Mill Place",,51.478101,-0.563059,,,0,,,0
+036006453454,,"Datchet Common, Penn Road",,51.479898,-0.565163,,,0,,,0
+036006450450,,"Datchet Common, Old Plough Corner",,51.481676,-0.567887,,,0,,,0
+036006451451,,"Datchet, Ditton Road",,51.484235,-0.565358,,,0,,,0
+036006746747,,"Datchet, Major's Farm Road",,51.486226,-0.567139,,,0,,,0
+036006484484,,"Datchet, Montrose Avenue",,51.485739,-0.570741,,,0,,,0
+036006230230,,"Datchet, The Green",,51.48392,-0.580087,,,0,,,0
+036006003018,,"Datchet, Queen's Road",,51.483541,-0.582245,,,0,,,0
+036006381381,,"Old Windsor, Clayhall Lane roundabout",,51.464802,-0.588267,,,0,,,0
+036006379380,,"Windsor, Albert Road",,51.467635,-0.598776,,,0,,,0
+036006002157,,"Windsor, Queens Terrace",,51.473481,-0.60571,,,0,,,0
+036000000068,,"Windsor, Sheet Street",,51.479351,-0.606308,,,0,,,0
+036006216216,,"Windsor, Parish Church",,51.481542,-0.606746,,,0,,,0
+036000000052,,"Horton, Horton Gardens",,51.473618,-0.55387,,,0,,,0
+036006002197,,"Horton, Champney Hall",,51.473126,-0.541762,,,0,,,0
+036006762762,,"Horton, Berkyn Manor",,51.471656,-0.534868,,,0,,,0
+036000000050,,"Horton, Colne Bank",,51.47051,-0.531709,,,0,,,0
+036006503504,,"Horton, Poyle Poplars",,51.469574,-0.530227,,,0,,,0
+036006002200,,"Horton, Coppermill Brookside",,51.466177,-0.531776,,,0,,,0
+036006501502,,"Horton, Coppermill Road Pier",,51.464164,-0.533381,,,0,,,0
+036006478478,,"Horton, Coppermill Road",,51.462349,-0.534893,,,0,,,0
+036006002456,,"Wraysbury, Rail Station",,51.458829,-0.539597,,,0,,,0
+036000000059,,"Wraysbury, Station Road",,51.458275,-0.544955,,,0,,,0
+036006002204,,"Wraysbury, Douglas Lane",,51.458485,-0.550303,,,0,,,0
+036006475476,,"Wraysbury, The Perseverance",,51.45763,-0.552403,,,0,,,0
+036006473474,,"Wraysbury, The Perseverance",,51.457403,-0.553734,,,0,,,0
+036006763763,,"Wraysbury, Douglas Lane",,51.458938,-0.548389,,,0,,,0
+036006477477,,"Wraysbury, Rail Station",,51.458868,-0.539884,,,0,,,0
+036006478479,,"Horton, Coppermill Road",,51.462742,-0.534708,,,0,,,0
+036006501501,,"Horton, Coppermill Pier",,51.464371,-0.533345,,,0,,,0
+036006001200,,"Horton, Coppermill Brookside",,51.466268,-0.531917,,,0,,,0
+036006503503,,"Horton, Poyle Poplars",,51.469666,-0.530368,,,0,,,0
+036000000051,,"Horton, Colne Bank",,51.470306,-0.531211,,,0,,,0
+036006001198,,"Horton, Berkyn Manor",,51.471799,-0.535541,,,0,,,0
+036006001197,,"Horton, Champney Hall",,51.473095,-0.542166,,,0,,,0
+036000000053,,"Horton, Horton Gardens",,51.473517,-0.553729,,,0,,,0
+03700556,,"Slough, Wellington Street",,51.510228,-0.592613,,,0,,,0
+03700443,,"Slough, Landmark Place",,51.508781,-0.595641,,,0,,,0
+03700316,,"Chalvey, Albert Street",,51.505189,-0.59833,,,0,,,0
+03700318,,"Chalvey, Windsor Road McDonalds",,51.502843,-0.599857,,,0,,,0
+036006757758,,"Eton, Willowbrook",,51.496818,-0.604378,,,0,,,0
+036006739739,,"Eton, Eton College",,51.491833,-0.60937,,,0,,,0
+036006487487,,"Eton, High Street",,51.489683,-0.609306,,,0,,,0
+036006002179,,"Eton, Windsor Bridge",,51.486243,-0.609627,,,0,,,0
+036006488488,,"Eton, High Street",,51.489324,-0.609375,,,0,,,0
+036006736738,,"Eton, Keats Lane",,51.491391,-0.611545,,,0,,,0
+036006489489,,"Eton, Broken Furlong",,51.493764,-0.618373,,,0,,,0
+036006491491,,"Eton Wick, Bunces Close",,51.494276,-0.622102,,,0,,,0
+036006493494,,"Eton Wick, The Walk",,51.496182,-0.632043,,,0,,,0
+036000000071,,"Eton Wick, Haywards Mead",,51.497118,-0.635242,,,0,,,0
+036006496496,,"Eton Wick, Moores Lane",,51.497738,-0.637528,,,0,,,0
+036006500500,,"Eton Wick, Tilstone Avenue",,51.498487,-0.640834,,,0,,,0
+040000001925,,"Dorney, The Palmer Arms PH",,51.503173,-0.661298,,,0,,,0
+040000001909,,"Taplow, Sainsburys",,51.521244,-0.668897,,,0,,,0
+040000001907,,"Hag Hill Lane",,51.52155,-0.674539,,,0,,,0
+040000001992,,"Bishops Centre",,51.521909,-0.677613,,,0,,,0
+040000001905,,"Marsh Lane",,51.522088,-0.681586,,,0,,,0
+040000001903,,"The Dumb Bell PH",,51.522873,-0.691466,,,0,,,0
+040000001901,,"Ellington Road",,51.523815,-0.697666,,,0,,,0
+036006114114,,"Maidenhead Bridge",,51.52375,-0.704846,,,0,,,0
+036006119120,,"Waldeck Road",,51.523663,-0.710831,,,0,,,0
+040000001902,,"Ellington Road",,51.523791,-0.697119,,,0,,,0
+040000001904,,"The Dumb Bell PH",,51.522878,-0.691048,,,0,,,0
+040000001906,,"Bishops Centre",,51.521977,-0.677236,,,0,,,0
+040000001910,,"Taplow, Sainsburys",,51.521341,-0.668707,,,0,,,0
+040000001926,,"Dorney, The Palmer Arms PH",,51.503249,-0.660806,,,0,,,0
+036006497497,,"Eton Wick, Moores Lane",,51.498369,-0.639224,,,0,,,0
+036006495495,,"Eton Wick, Haywards Mead",,51.497264,-0.635425,,,0,,,0
+036006493493,,"Eton Wick, The Walk",,51.496316,-0.631995,,,0,,,0
+036006491492,,"Eton Wick, Bunces Close",,51.494496,-0.622485,,,0,,,0
+036006489490,,"Eton, Broken Furlong",,51.493926,-0.619073,,,0,,,0
+036006736736,,"Eton, Keats Lane",,51.491698,-0.611679,,,0,,,0
+036006739740,,"Eton, Eton College",,51.492078,-0.609622,,,0,,,0
+036006757757,,"Eton, Willowbrook",,51.497116,-0.604484,,,0,,,0
+03700319,,"Chalvey, Windsor Road McDonalds",,51.503026,-0.600126,,,0,,,0
+03700317,,"Chalvey, Albert Street",,51.505192,-0.598546,,,0,,,0
+03700334,,"Slough, Landmark Place",,51.507902,-0.596561,,,0,,,0
+03700324,,"Slough, Wellington Street",,51.510629,-0.593783,,,0,,,0
+040000002965,,"High Wycombe, Bus Station",,51.631453,-0.756224,,,0,,,0
+040000003058,,"High Wycombe, Oxford Street",,51.630937,-0.753406,,,0,,,0
+040000003054,,"High Wycombe, High Street",,51.628651,-0.748918,,,0,,,0
+040000003243,,"High Wycombe, Trinity Church",,51.626896,-0.742927,,,0,,,0
+040000003253,,"High Wycombe, Gordon Road",,51.62614,-0.735305,,,0,,,0
+040000003163,,"High Wycombe, Chichester Close",,51.627616,-0.7346,,,0,,,0
+040000003183,,"Bowerdean Crossroads",,51.631159,-0.734588,,,0,,,0
+040000003185,,"Totteridge, Rowan Avenue",,51.631953,-0.732355,,,0,,,0
+040000003187,,"Totteridge, Elora Road",,51.63288,-0.728269,,,0,,,0
+040000003189,,"Totteridge, Turners Drive",,51.634819,-0.724675,,,0,,,0
+040000003221,,"Totteridge, Hollis Road",,51.634227,-0.722351,,,0,,,0
+040000003194,,"Totteridge, Holywell Gardens",,51.631872,-0.72324,,,0,,,0
+040000003944,,"High Wycombe, Wingate Avenue",,51.630526,-0.722657,,,0,,,0
+040000003946,,"High Wycombe, Highcrest School",,51.627984,-0.722945,,,0,,,0
+040000003204,,"High Wycombe, Hillary Road",,51.625988,-0.722914,,,0,,,0
+040000003251,,"Wycombe Marsh, Post Office",,51.620542,-0.719918,,,0,,,0
+040000003951,,"High Wycombe, Bank Street",,51.620029,-0.716552,,,0,,,0
+040000003952,,"High Wycombe, Orchard Road",,51.618374,-0.71319,,,0,,,0
+040000003171,,"High Wycombe, Bowerdean Crossroads",,51.631061,-0.735501,,,0,,,0
+040000003173,,"High Wycombe, Acorn Close",,51.633464,-0.734914,,,0,,,0
+040000003175,,"High Wycombe, The Happy Wanderer PH",,51.636151,-0.733958,,,0,,,0
+040000003177,,"High Wycombe, Mayhew Crescent",,51.637817,-0.734981,,,0,,,0
+040000003179,,"High Wycombe, Sheraton Drive",,51.639952,-0.735355,,,0,,,0
+040000002990,,"Totteridge, Walton Drive",,51.640454,-0.731078,,,0,,,0
+040000003197,,"Totteridge, Walton Close",,51.63977,-0.728524,,,0,,,0
+040000003199,,"Totteridge, Hardenwaye",,51.638732,-0.725678,,,0,,,0
+040000003164,,"Totteridge, Totteridge Lane",,51.637118,-0.722746,,,0,,,0
+040000003257,,"Wycombe Marsh, The King George V PH",,51.616437,-0.712884,,,0,,,0
+040000003259,,"High Wycombe, Hammersley Lane",,51.615637,-0.709671,,,0,,,0
+040000003131,,"High Wycombe, The Rise",,51.615693,-0.703314,,,0,,,0
+040000003133,,"High Wycombe, Magpie Wood",,51.614288,-0.701448,,,0,,,0
+040000002982,,"High Wycombe, Rayners Avenue",,51.612667,-0.702895,,,0,,,0
+040000003236,,"High Wycombe, Hammersley Lane",,51.615014,-0.708606,,,0,,,0
+040000003234,,"Wycombe Marsh, The King George V PH",,51.616096,-0.712085,,,0,,,0
+040000003232,,"Wycombe Marsh, Ford Street",,51.618366,-0.716585,,,0,,,0
+040000003230,,"Wycombe Marsh, Post Office",,51.620819,-0.721427,,,0,,,0
+040000003231,,"High Wycombe, Hillary Road",,51.626793,-0.723325,,,0,,,0
+040000003229,,"High Wycombe, Highcrest School",,51.628803,-0.722951,,,0,,,0
+040000003225,,"Totteridge, Holywell Gardens",,51.632679,-0.723868,,,0,,,0
+040000003192,,"Totteridge, Hollis Road",,51.634553,-0.722515,,,0,,,0
+040000003166,,"Totteridge, Turners Drive",,51.634537,-0.725188,,,0,,,0
+040000003168,,"Totteridge, Elora Road",,51.632494,-0.728395,,,0,,,0
+040000003170,,"Totteridge, Rowan Avenue",,51.631718,-0.733055,,,0,,,0
+040000003188,,"High Wycombe, Bowerdean Crossroads",,51.630479,-0.734968,,,0,,,0
+040000003190,,"High Wycombe, Chichester Close",,51.627775,-0.734306,,,0,,,0
+040000003246,,"High Wycombe, Cricket Ground",,51.625444,-0.736668,,,0,,,0
+040000003244,,"High Wycombe, Trinity Church",,51.626798,-0.743002,,,0,,,0
+040000003055,,"High Wycombe, High Street",,51.628654,-0.749264,,,0,,,0
+040000003061,,"High Wycombe, Oxford Street",,51.630756,-0.75331,,,0,,,0
+040000003191,,"Totteridge, Totteridge Drive",,51.637672,-0.724942,,,0,,,0
+040000003193,,"Totteridge, The Parade",,51.638081,-0.728658,,,0,,,0
+040000003195,,"Totteridge, Kingston Road",,51.638882,-0.730399,,,0,,,0
+040000002989,,"Totteridge, Walton Drive",,51.64042,-0.731209,,,0,,,0
+040000003178,,"High Wycombe, Sheraton Drive",,51.640656,-0.7348,,,0,,,0
+040000003182,,"High Wycombe, The Happy Wanderer PH",,51.635385,-0.733777,,,0,,,0
+040000003184,,"High Wycombe, Acorn Close",,51.633863,-0.734354,,,0,,,0
+040000002964,,"High Wycombe, Bus Station",,51.631426,-0.756268,,,0,,,0
+040000003025,,Morrisons,,51.63403,-0.752541,,,0,,,0
+040000003267,,"The Beaconsfield Arms PH",,51.638166,-0.75078,,,0,,,0
+040000003277,,"High Wycombe, Hughenden Avenue",,51.638723,-0.751588,,,0,,,0
+040000003281,,"High Wycombe, Telford Way",,51.638469,-0.757318,,,0,,,0
+040000003283,,"High Wycombe, Brunel Road",,51.638327,-0.760024,,,0,,,0
+040000003285,,"High Wycombe, Brindley Avenue",,51.637863,-0.762103,,,0,,,0
+040000003287,,"High Wycombe, The Pastures",,51.638798,-0.765517,,,0,,,0
+040000003289,,"High Wycombe, Pastures Church",,51.640315,-0.768655,,,0,,,0
+040000003085,,"Downley, Downs Park",,51.641788,-0.771058,,,0,,,0
+040000003291,,"Downley, Hillfield Close",,51.643458,-0.773455,,,0,,,0
+040000003297,,"High Wycombe, Plomer Green Avenue",,51.644449,-0.774454,,,0,,,0
+040000003299,,"Downley, Cross Court Shops",,51.644911,-0.77739,,,0,,,0
+040000003301,,"Downley, Grays Lane",,51.645915,-0.778013,,,0,,,0
+040000003303,,"Downley, Taylors Turn",,51.647916,-0.77676,,,0,,,0
+040000003286,,"Downley, Memorial Hall",,51.649089,-0.774517,,,0,,,0
+040000003284,,"Downley, Commonside",,51.649094,-0.770715,,,0,,,0
+040000003282,,"Downley, Littleworth Road",,51.646214,-0.770403,,,0,,,0
+040000003280,,"Downley, Hithercroft Road",,51.644685,-0.771225,,,0,,,0
+040000003278,,"Downley, Tinkers Wood Road",,51.642712,-0.769226,,,0,,,0
+040000003276,,"High Wycombe, Pastures Church",,51.640083,-0.767982,,,0,,,0
+040000003274,,"High Wycombe, The Pastures",,51.638784,-0.765069,,,0,,,0
+040000003272,,"High Wycombe, Brindley Avenue",,51.638,-0.762302,,,0,,,0
+040000003270,,"High Wycombe, Brunel Road",,51.63868,-0.76026,,,0,,,0
+040000003268,,"High Wycombe, Telford Way Spur",,51.63946,-0.759227,,,0,,,0
+040000003266,,"High Wycombe, Telford Way",,51.638995,-0.75687,,,0,,,0
+040000003264,,"High Wycombe, Hughenden Avenue",,51.639111,-0.753442,,,0,,,0
+040000003254,,"The Beaconsfield Arms PH",,51.637529,-0.750956,,,0,,,0
+040000003026,,"Temple End",,51.633136,-0.752204,,,0,,,0
+040000003056,,Frogmoor,,51.631776,-0.752747,,,0,,,0
+040000002955,,"High Wycombe, Bus Station",,51.631224,-0.756678,,,0,,,0
+040000003052,,"High Wycombe, Castle Street",,51.629729,-0.747992,,,0,,,0
+040000003165,,"High Wycombe, Railway Station",,51.630258,-0.746215,,,0,,,0
+040000003167,,"High Wycombe, Duke Street",,51.629727,-0.74191,,,0,,,0
+040000003169,,"High Wycombe, Lucas Road",,51.62951,-0.738477,,,0,,,0
+040000003941,,"High Wycombe, Windsor Drive",,51.641401,-0.734635,,,0,,,0
+040000003109,,"Terriers, Crossroads",,51.64427,-0.732171,,,0,,,0
+040000003113,,"Terriers, De Havilland Drive",,51.646761,-0.724788,,,0,,,0
+040000003115,,"Hazlemere, St John's Road",,51.64787,-0.720883,,,0,,,0
+040000003117,,"Hazlemere, Holy Trinity Church",,51.649949,-0.716141,,,0,,,0
+040000003135,,"Hazlemere, Crossroads",,51.651511,-0.711804,,,0,,,0
+040000003137,,"Hazlemere, Rose Avenue",,51.650438,-0.708264,,,0,,,0
+040000003139,,"Tylers Green, William Ramsay School",,51.647735,-0.710177,,,0,,,0
+040000003141,,"Tylers Green, Pine Walk",,51.646582,-0.707564,,,0,,,0
+040000003143,,"Tylers Green, Rose Avenue Shops",,51.644326,-0.703567,,,0,,,0
+040000003145,,"Tylers Green, Curzon Avenue",,51.64623,-0.698483,,,0,,,0
+040000003147,,"Tylers Green, Hazlemere Road",,51.645877,-0.696643,,,0,,,0
+040000003149,,"Tylers Green, Coppice Farm Road",,51.643252,-0.695057,,,0,,,0
+040000005003,,"Penn, The Red Lion",,51.634893,-0.690571,,,0,,,0
+040000003159,,"Penn, The Pond",,51.634803,-0.691325,,,0,,,0
+040000003151,,"Tylers Green, Potters Cross",,51.639311,-0.694057,,,0,,,0
+040000003153,,"Penn, Hillcroft Road",,51.638105,-0.698008,,,0,,,0
+040000003155,,"Penn, Church Road",,51.636473,-0.700887,,,0,,,0
+040000003157,,"Penn, School Road",,51.635502,-0.694325,,,0,,,0
+040000003961,,"Penn, The Pond",,51.634909,-0.691221,,,0,,,0
+040000002206,,"Knotty Green, The Red Lion PH",,51.622518,-0.654553,,,0,,,0
+040000005005,,"Beaconsfield, Seeleys Road",,51.614269,-0.648009,,,0,,,0
+040000001224,,"Beaconsfield, Waitrose",,51.611973,-0.646979,,,0,,,0
+040000001222,,"Beaconsfield, Post Office",,51.6108,-0.645787,,,0,,,0
+040000001220,,"Beaconsfield, Candlemas Lane",,51.607095,-0.641146,,,0,,,0
+040000001218,,"Beaconsfield Old Town, Aylesbury End",,51.602849,-0.637821,,,0,,,0
+040000001216,,"Beaconsfield Old Town, The Saracen's Head PH",,51.601598,-0.637729,,,0,,,0
+040000001199,,"Beaconsfield, High School",,51.603646,-0.643025,,,0,,,0
+040000003154,,"Penn, School Road",,51.635412,-0.694371,,,0,,,0
+040000003152,,"Penn, New Road",,51.636893,-0.701409,,,0,,,0
+040000003150,,"Penn, Hillcroft Road",,51.638055,-0.698385,,,0,,,0
+040000003148,,"Tylers Green, Potters Cross",,51.639513,-0.693632,,,0,,,0
+040000003146,,"Tylers Green, Coppice Farm Road",,51.643959,-0.695614,,,0,,,0
+040000003144,,"Tylers Green, Hazlemere Road",,51.645543,-0.696552,,,0,,,0
+040000003142,,"Tylers Green, Curzon Avenue",,51.646251,-0.697977,,,0,,,0
+040000003140,,"Tylers Green, Rose Avenue Shops",,51.644007,-0.701524,,,0,,,0
+040000003138,,"Tylers Green, Pine Walk",,51.64611,-0.707188,,,0,,,0
+040000003136,,"Tylers Green, William Ramsay School",,51.648432,-0.710663,,,0,,,0
+040000003134,,"Hazlemere, Rose Avenue",,51.650245,-0.708674,,,0,,,0
+040000003116,,"Hazlemere, Crossroads",,51.65078,-0.714007,,,0,,,0
+040000003114,,"Hazlemere, Holy Trinity Church",,51.649063,-0.718175,,,0,,,0
+040000003112,,"Hazlemere, St John's Road",,51.647524,-0.721297,,,0,,,0
+040000003110,,"Terriers, De Havilland Drive",,51.646765,-0.724311,,,0,,,0
+040000003108,,"Terriers, Crossroads",,51.644136,-0.732261,,,0,,,0
+040000003942,,"High Wycombe, Windsor Drive",,51.641381,-0.734491,,,0,,,0
+040000003180,,"High Wycombe, Mayhew Crescent",,51.638602,-0.735233,,,0,,,0
+040000003172,,"High Wycombe, Bowerdean Crossroads",,51.630522,-0.735559,,,0,,,0
+040000003174,,"High Wycombe, Lucas Road",,51.629408,-0.738162,,,0,,,0
+040000003176,,"High Wycombe, Duke Street",,51.629733,-0.742458,,,0,,,0
+040000002972,,"High Wycombe, Station Interchange",,51.629744,-0.746056,,,0,,,0
+040000003053,,"High Wycombe, Castle Street",,51.629592,-0.747851,,,0,,,0
+040000001217,,"Beaconsfield Old Town, Aylesbury End",,51.602888,-0.63808,,,0,,,0
+040000001219,,"Beaconsfield, Candlemas Lane",,51.606287,-0.640462,,,0,,,0
+040000001221,,"Beaconsfield, Post Office",,51.610675,-0.64592,,,0,,,0
+040000001223,,"Beaconsfield, Waitrose",,51.611868,-0.647185,,,0,,,0
+040000005004,,"Beaconsfield, Seeleys Road",,51.614253,-0.648197,,,0,,,0
+040000002205,,"Knotty Green, The Red Lion PH",,51.621812,-0.654155,,,0,,,0
+040000003385,,"Cressex, Empire Cinema",,51.613324,-0.772288,,,0,,,0
+040000003384,,"Booker, ASDA",,51.6122,-0.780132,,,0,,,0
+040000003382,,"Booker, Alford Road",,51.612803,-0.786211,,,0,,,0
+040000003380,,"Booker, Westwood",,51.61297,-0.789369,,,0,,,0
+040000003378,,"Booker, Holmers Court",,51.613714,-0.791704,,,0,,,0
+040000003374,,"Lansdell Avenue",,51.615367,-0.788121,,,0,,,0
+040000003372,,"Turnpike Corner West",,51.616461,-0.783499,,,0,,,0
+040000003368,,"High Wycombe, Squirrel Lane",,51.620941,-0.784549,,,0,,,0
+040000003366,,"High Wycombe, Edmunds Close",,51.622876,-0.785537,,,0,,,0
+040000003364,,"High Wycombe, Field Road",,51.62511,-0.787717,,,0,,,0
+040000003948,,"High Wycombe, Mentmore Road",,51.627414,-0.787006,,,0,,,0
+040000003362,,"High Wycombe, Roundwood Road",,51.628314,-0.785407,,,0,,,0
+040000003360,,"High Wycombe, New Road",,51.629146,-0.78498,,,0,,,0
+040000003352,,"Sands, The Hour Glass PH",,51.63281,-0.784506,,,0,,,0
+040000003350,,"Sands, The Hour Glass PH",,51.633287,-0.783699,,,0,,,0
+040000003348,,"Sands, Dashwood Avenue",,51.634486,-0.78056,,,0,,,0
+040000003346,,"High Wycombe, Prestwood Close",,51.634102,-0.776453,,,0,,,0
+040000003344,,"High Wycombe, The Half Moon PH",,51.633585,-0.771698,,,0,,,0
+040000003342,,"High Wycombe, Oakridge Road",,51.63326,-0.768124,,,0,,,0
+040000003340,,"High Wycombe, Green Street",,51.632269,-0.76542,,,0,,,0
+040000003338,,"High Wycombe, Cedar Terrace",,51.632177,-0.763544,,,0,,,0
+040000003336,,"High Wycombe, St John's Church",,51.631409,-0.760574,,,0,,,0
+040000002954,,"High Wycombe, Bus Station",,51.631201,-0.75672,,,0,,,0
+040000003245,,"High Wycombe, Cricket Ground",,51.624971,-0.734486,,,0,,,0
+040000003247,,"High Wycombe, Chestnut Avenue",,51.623654,-0.731561,,,0,,,0
+040000003249,,"High Wycombe, London Road Lidl",,51.622798,-0.727236,,,0,,,0
+040000003097,,"Wycombe Marsh, Micklefield Road",,51.62108,-0.718978,,,0,,,0
+040000003241,,"Micklefield, Hawthorne Road",,51.624765,-0.717184,,,0,,,0
+040000003213,,"Micklefield, Herbert Road South",,51.627692,-0.71427,,,0,,,0
+040000003215,,"Micklefield, Buckingham Drive",,51.630284,-0.711177,,,0,,,0
+040000003233,,"Micklefield, Ash Hill School",,51.632108,-0.710273,,,0,,,0
+040000003217,,"Micklefield, Ashdown Road",,51.632694,-0.713681,,,0,,,0
+040000003219,,"Micklefield, Woodside Road",,51.635094,-0.716951,,,0,,,0
+040000003206,,"Micklefield, Woodside Road",,51.634887,-0.71687,,,0,,,0
+040000003208,,"Micklefield, Ashdown Road",,51.632903,-0.714744,,,0,,,0
+040000003210,,"Micklefield, Ash Hill School",,51.63216,-0.710113,,,0,,,0
+040000003212,,"Micklefield, Buckingham Drive",,51.629701,-0.711367,,,0,,,0
+040000003214,,"Micklefield, Herbert Road South",,51.627737,-0.71346,,,0,,,0
+040000003216,,"Micklefield, Hawthorne Road",,51.624343,-0.717211,,,0,,,0
+040000003096,,"Wycombe Marsh, Micklefield Road",,51.620899,-0.718853,,,0,,,0
+040000003250,,"High Wycombe, London Road Lidl",,51.62276,-0.727873,,,0,,,0
+040000003248,,"High Wycombe, Chestnut Avenue",,51.623288,-0.731022,,,0,,,0
+040000002962,,"High Wycombe, Bus Station",,51.631386,-0.756354,,,0,,,0
+040000003347,,"High Wycombe, St John's Church",,51.631206,-0.760146,,,0,,,0
+040000003349,,"High Wycombe, Cedar Terrace",,51.631958,-0.763232,,,0,,,0
+040000003351,,"High Wycombe, Green Street",,51.63288,-0.767122,,,0,,,0
+040000003353,,"High Wycombe, Oakridge Road",,51.633223,-0.768876,,,0,,,0
+040000003355,,"High Wycombe, The Half Moon PH",,51.633495,-0.77173,,,0,,,0
+040000003357,,"High Wycombe, Prestwood Close",,51.633873,-0.77604,,,0,,,0
+040000003359,,"Sands, Dashwood Avenue",,51.634169,-0.781999,,,0,,,0
+040000003361,,"Sands, The Hour Glass PH",,51.632664,-0.784294,,,0,,,0
+040000003369,,"High Wycombe, New Road",,51.629325,-0.78486,,,0,,,0
+040000003371,,"High Wycombe, Roundwood Road",,51.628212,-0.785121,,,0,,,0
+040000003947,,"High Wycombe, Mentmore Road",,51.626223,-0.787471,,,0,,,0
+040000003373,,"High Wycombe, Field Road",,51.624246,-0.787625,,,0,,,0
+040000003375,,"High Wycombe, Edmunds Close",,51.622966,-0.785564,,,0,,,0
+040000003377,,"High Wycombe, Squirrel Lane",,51.620705,-0.78431,,,0,,,0
+040000003379,,"Booker, Turnpike Corner",,51.617213,-0.783146,,,0,,,0
+040000003381,,"Booker, Nancy Hall Court",,51.614349,-0.780912,,,0,,,0
+040000003383,,"Cressex, John Hall Way",,51.613425,-0.775073,,,0,,,0
+040000002948,,"Micklefield, Petrol Station",,51.626879,-0.716374,,,0,,,0
+040000003252,,"High Wycombe, Misbourne Avenue",,51.627315,-0.717589,,,0,,,0
+040000003445,,"High Wycombe, Hennerton Way North",,51.628814,-0.719844,,,0,,,0
+040000003447,,"High Wycombe, Brow Of The Hill",,51.627389,-0.72026,,,0,,,0
+040000003449,,"High Wycombe, St Hugh's Avenue",,51.625404,-0.720518,,,0,,,0
+040000003451,,"High Wycombe, Hennerton Way South",,51.624635,-0.72093,,,0,,,0
+040000003235,,"High Wycombe, Horsenden Road",,51.624104,-0.720049,,,0,,,0
+040000003099,,"High Wycombe, Gynant Road",,51.625381,-0.719161,,,0,,,0
+040000003237,,"High Wycombe, Roebuck Avenue",,51.626961,-0.717354,,,0,,,0
+040000003437,,"Desborough Castle, Whitelands Road",,51.630813,-0.774027,,,0,,,0
+040000003439,,"Desborough Castle, Link Road",,51.628368,-0.775018,,,0,,,0
+040000002925,,"Desborough Castle, Chairborough Road",,51.625722,-0.776476,,,0,,,0
+040000003441,,"Desborough Castle, Pettifer Way",,51.624016,-0.777562,,,0,,,0
+040000003426,,"Desborough Castle, The Jolly Bodger PH",,51.622961,-0.779844,,,0,,,0
+040000003428,,"Desborough Castle, Laburnum Road",,51.62377,-0.781599,,,0,,,0
+040000003430,,"Desborough Castle, Methodist Church",,51.625943,-0.780471,,,0,,,0
+040000003432,,"Desborough Castle, Cross Road",,51.628822,-0.780597,,,0,,,0
+040000003434,,"Desborough Castle, Spearing Road",,51.630705,-0.780994,,,0,,,0
+040000003436,,"Desborough Castle, Grenfell Avenue",,51.631469,-0.778286,,,0,,,0
+040000003438,,"Desborough Castle, Copyground Lane",,51.632872,-0.774044,,,0,,,0
+040000002957,,"High Wycombe, Bus Station",,51.631271,-0.756588,,,0,,,0
+040000003201,,"Totteridge, Totteridge Lane",,51.637505,-0.722793,,,0,,,0
+040000003203,,"Totteridge, The Dolphin PH",,51.638876,-0.722336,,,0,,,0
+040000003160,,"Totteridge, Tyzack Road",,51.6416,-0.723126,,,0,,,0
+040000003162,,"Totteridge, The Dolphin PH",,51.639457,-0.722016,,,0,,,0
+040000002963,,"High Wycombe, Bus Station",,51.631412,-0.75631,,,0,,,0
+040000002960,,"High Wycombe, Bus Station",,51.631338,-0.756443,,,0,,,0
+040000003418,,"High Wycombe, General Hospital",,51.627103,-0.752196,,,0,,,0
+040000000903,,"High Wycombe, Coachway",,51.614271,-0.763725,,,0,,,0
+040000003417,,"High Wycombe, Marlow Hill Schools",,51.61811,-0.763161,,,0,,,0
+040000003419,,"Whincup Close",,51.617785,-0.765596,,,0,,,0
+040000003396,,"High Wycombe, Rupert Avenue",,51.6178,-0.766968,,,0,,,0
+040000003411,,"Cressex, Lancaster Road",,51.619429,-0.769668,,,0,,,0
+040000003413,,"Cressex, Lincoln Road",,51.621427,-0.774179,,,0,,,0
+040000003415,,"Cressex, Halifax Road",,51.620073,-0.778029,,,0,,,0
+040000003971,,"Cressex, Coronation Road",,51.617081,-0.778239,,,0,,,0
+040000002940,,"Cressex, Link Road",,51.615832,-0.77833,,,0,,,0
+040000002906,,"Booker, YMCA",,51.612999,-0.779129,,,0,,,0
+040000003397,,"Limmer Lane",,51.613643,-0.792688,,,0,,,0
+040000003545,,"Booker, Clayhill",,51.609193,-0.798929,,,0,,,0
+040000003543,,"Lane End, Marlow Road",,51.617156,-0.83064,,,0,,,0
+040000003563,,"Lane End, Simmons Way",,51.618745,-0.828605,,,0,,,0
+040000003561,,"Lane End, Slayter Road",,51.620335,-0.827496,,,0,,,0
+040000002913,,"Lane End, Tapping Road",,51.621002,-0.829457,,,0,,,0
+040000003559,,"Lane End, Archers Way",,51.621079,-0.831781,,,0,,,0
+040000003555,,"Lane End, Wrights Close",,51.622725,-0.834527,,,0,,,0
+040000003557,,"Lane End, The Row",,51.619585,-0.834347,,,0,,,0
+040000003442,,"High Wycombe, Olympic Way",,51.624495,-0.711385,,,0,,,0
+040000003950,,"High Wycombe, Cock Lane",,51.622845,-0.713454,,,0,,,0
+040000003220,,"High Wycombe, Hicks Farm Rise",,51.629842,-0.720104,,,0,,,0
+040000003222,,"Totteridge, Baring Road",,51.63276,-0.722218,,,0,,,0
+040000003544,,"Lane End, Marlow Road",,51.617154,-0.830394,,,0,,,0
+040000003546,,"Booker, Clayhill",,51.608837,-0.79927,,,0,,,0
+040000003376,,"Limmer Lane",,51.613733,-0.792685,,,0,,,0
+040000003395,,"Booker, Holmers Court",,51.613793,-0.791557,,,0,,,0
+040000003393,,"Booker, Westwood",,51.613029,-0.788934,,,0,,,0
+040000003391,,"Booker, Alford Road",,51.612924,-0.785774,,,0,,,0
+040000003389,,"Booker, ASDA",,51.613082,-0.7793,,,0,,,0
+040000002939,,"Cressex, Link Road",,51.61518,-0.778695,,,0,,,0
+040000003400,,"Cressex, Halifax Road",,51.620156,-0.778171,,,0,,,0
+040000003402,,"Cressex, Lincoln Road",,51.621278,-0.773663,,,0,,,0
+040000003406,,"Cressex, Lancaster Road",,51.619416,-0.769351,,,0,,,0
+040000003421,,"Rupert Avenue",,51.617825,-0.766794,,,0,,,0
+040000003422,,"Whincup Close",,51.617831,-0.76571,,,0,,,0
+040000003420,,"High Wycombe, Marlow Hill Schools",,51.618493,-0.761966,,,0,,,0
+040000003433,,"High Wycombe, Wycombe General Hospital",,51.627057,-0.752111,,,0,,,0
+040000002958,,"High Wycombe, Bus Station",,51.631298,-0.756544,,,0,,,0
+040000003207,,"Totteridge, Baring Road",,51.632387,-0.721824,,,0,,,0
+040000003209,,"High Wycombe, Hicks Farm Rise",,51.629478,-0.719739,,,0,,,0
+040000003949,,"High Wycombe, Cock Lane",,51.62321,-0.713111,,,0,,,0
+040000003429,,"High Wycombe, West End Road",,51.630535,-0.762996,,,0,,,0
+040000003427,,"High Wycombe, Plumer Road",,51.628989,-0.763847,,,0,,,0
+04000HAR0388,,"High Wycombe, Deeds Grove",,51.623391,-0.767697,,,0,,,0
+040000003891,,"High Wycombe, Deeds Grove",,51.624865,-0.769377,,,0,,,0
+040000003425,,"High Wycombe, The Wendover Arms PH",,51.626168,-0.764935,,,0,,,0
+040000003423,,"High Wycombe, Carver Hill Road",,51.622752,-0.76588,,,0,,,0
+040000003890,,"High Wycombe, Shelley Road",,51.622673,-0.763542,,,0,,,0
+040000002946,,"High Wycombe, Kingsley Crescent",,51.624567,-0.760645,,,0,,,0
+040000003101,,"High Wycombe, Maybrook Gardens",,51.634906,-0.742734,,,0,,,0
+040000003103,,"High Wycombe, Amersham Hill Drive",,51.637559,-0.740291,,,0,,,0
+040000003105,,"High Wycombe, Royal Grammar School",,51.641008,-0.737392,,,0,,,0
+040000003119,,"Hazlemere, Holmer Green Road",,51.652251,-0.712896,,,0,,,0
+040000003087,,"Hazlemere, Park Lane",,51.65508,-0.711746,,,0,,,0
+040000003121,,"Hazlemere, Park Parade",,51.657015,-0.709407,,,0,,,0
+040000003739,,"Widmer End, Western Dene",,51.661068,-0.712516,,,0,,,0
+040000003737,,"Widmer End, Primrose Hill",,51.664846,-0.715142,,,0,,,0
+040000003093,,"Widmer End, Honeysuckle Road",,51.664124,-0.717288,,,0,,,0
+040000003091,,"Widmer End, George's Hill",,51.663312,-0.720405,,,0,,,0
+040000002013,,"Heath End, Copes Road",,51.673332,-0.719023,,,0,,,0
+040000002015,,"Heath End, Spurlands End Road",,51.676892,-0.721396,,,0,,,0
+040000002017,,"Heath End, Heath End Road",,51.677997,-0.722971,,,0,,,0
+040000002019,,"Great Kingshill, Stag Lane",,51.675226,-0.727011,,,0,,,0
+040000002021,,"Great Kingshill, The Common",,51.675023,-0.733149,,,0,,,0
+040000002027,,"Cherry Tree Close",,51.677924,-0.734558,,,0,,,0
+040000002029,,"Peterley Corner",,51.684675,-0.734413,,,0,,,0
+040000002031,,"Holy Trinity Church",,51.689389,-0.736235,,,0,,,0
+040000002033,,"Hildreth Road",,51.692905,-0.739652,,,0,,,0
+040000002035,,"Sixty Acres Road",,51.696582,-0.742907,,,0,,,0
+040000002037,,"Prestwood, Village Hall",,51.698972,-0.742783,,,0,,,0
+040000002039,,"Blacksmith Lane",,51.699799,-0.737724,,,0,,,0
+040000002041,,"The Traveller's Rest PH",,51.699708,-0.733429,,,0,,,0
+040000002043,,"The Green Man PH",,51.700281,-0.729,,,0,,,0
+040000002045,,"Broomfield Hill",,51.701719,-0.724792,,,0,,,0
+040000002047,,"Martinsend Lane",,51.702411,-0.719056,,,0,,,0
+040000002048,,"Great Missenden, Railway Station",,51.703724,-0.709208,,,0,,,0
+040000002049,,Library,,51.704456,-0.70703,,,0,,,0
+040000002724,,"Hyde Heath, The Green",,51.693802,-0.654264,,,0,,,0
+040000002229,,"Hyde Heath, Keepers Lane",,51.690247,-0.643041,,,0,,,0
+040000002209,,"Chesham Bois, Copperkins Lane",,51.684381,-0.619594,,,0,,,0
+040000002162,,"Amersham, Hervines Road",,51.679302,-0.608308,,,0,,,0
+040000002213,,"Amersham, Railway Station",,51.674546,-0.607571,,,0,,,0
+040000002046,,"Martinsend Lane",,51.702506,-0.717809,,,0,,,0
+040000002044,,"Broomfield Hill",,51.701627,-0.72465,,,0,,,0
+040000002042,,"The Green Man PH",,51.700173,-0.728988,,,0,,,0
+040000002040,,"The Traveller's Rest PH",,51.69964,-0.733807,,,0,,,0
+040000002038,,"Blacksmith Lane",,51.699706,-0.737438,,,0,,,0
+040000002036,,"Prestwood, Village Hall",,51.699104,-0.74249,,,0,,,0
+040000002034,,"Sixty Acres Road",,51.695911,-0.742405,,,0,,,0
+040000002032,,"Hildreth Road",,51.69334,-0.739959,,,0,,,0
+040000002030,,"Holy Trinity Church",,51.68965,-0.736285,,,0,,,0
+040000002028,,"Peterley Corner",,51.683906,-0.733957,,,0,,,0
+040000002026,,"Cherry Tree Close",,51.677374,-0.734385,,,0,,,0
+040000002020,,"Great Kingshill, The Common",,51.675061,-0.733321,,,0,,,0
+040000002011,,"Great Kingshill, Stag Lane",,51.675268,-0.727531,,,0,,,0
+040000002018,,"Heath End, Fernside",,51.675604,-0.726162,,,0,,,0
+040000002016,,"Heath End, Heath End Road",,51.678264,-0.722789,,,0,,,0
+040000002014,,"Heath End, Spurlands End Road",,51.675612,-0.720348,,,0,,,0
+040000002012,,"Heath End, Copes Road",,51.673493,-0.718932,,,0,,,0
+040000003082,,"Widmer End, George's Hill",,51.663382,-0.720244,,,0,,,0
+040000003083,,"Widmer End, Honeysuckle Road",,51.664489,-0.716974,,,0,,,0
+040000003720,,"Widmer End, Primrose Hill",,51.664671,-0.714771,,,0,,,0
+040000003722,,"Widmer End, Western Dene",,51.66112,-0.71237,,,0,,,0
+040000003120,,"Hazlemere, Park Parade",,51.657825,-0.708676,,,0,,,0
+040000003118,,"Hazlemere, Park Lane",,51.654758,-0.711885,,,0,,,0
+040000003106,,"High Wycombe, Royal Grammar School",,51.640952,-0.73722,,,0,,,0
+040000003104,,"High Wycombe, Amersham Hill Drive",,51.637709,-0.739969,,,0,,,0
+040000003102,,"High Wycombe, Maybrook Gardens",,51.634341,-0.742851,,,0,,,0
+040000002153,,"Amersham, Railway Station",,51.674965,-0.607715,,,0,,,0
+040000002155,,"Amersham, Oakfield Corner",,51.676381,-0.607703,,,0,,,0
+040000002161,,"Amersham, Hervines Road",,51.679792,-0.608654,,,0,,,0
+040000002163,,"Amersham, Copperkins Lane",,51.681812,-0.609923,,,0,,,0
+040000002212,,"Chesham Bois, Copperkins Lane",,51.684345,-0.619653,,,0,,,0
+040000002723,,"Hyde Heath, The Green",,51.693445,-0.653753,,,0,,,0
+040000002050,,Library,,51.704216,-0.707312,,,0,,,0
+040000002173,,"Chesham, Broadway",,51.706345,-0.612514,,,0,,,0
+040000002701,,"Chesham, Police Station",,51.70882,-0.610456,,,0,,,0
+040000002703,,"Chesham, The Jolly Sportsman PH",,51.710732,-0.609355,,,0,,,0
+040000002731,,"Chesham, Hilltop Allotments",,51.711713,-0.602652,,,0,,,0
+040000002733,,"Chesham, Taylors Road",,51.713308,-0.602169,,,0,,,0
+040000002735,,"Chesham, Sayward Path",,51.715716,-0.602022,,,0,,,0
+040000002737,,"Chesham, Nalders Road",,51.715736,-0.59917,,,0,,,0
+040000002739,,"Chesham, Hawthorn Way",,51.71329,-0.596915,,,0,,,0
+040000002741,,"Chesham, Manor Way",,51.71119,-0.59947,,,0,,,0
+040000002743,,"Chesham, Codmore Cross",,51.7098,-0.599846,,,0,,,0
+040000002188,,"Chesham, Grammar School",,51.709145,-0.600691,,,0,,,0
+040000002705,,"Chesham, Berkhampstead Road",,51.713801,-0.608089,,,0,,,0
+040000002699,,"Chesham, Lansdowne Road",,51.715242,-0.611316,,,0,,,0
+040000002759,,"Chesham, Lynton Road",,51.719156,-0.611572,,,0,,,0
+040000002758,,"Chesham, Greenway",,51.721382,-0.615051,,,0,,,0
+040000002182,,"Chesham, Hope Church",,51.721303,-0.618253,,,0,,,0
+040000002598,,"Great Hivings, Little Hivings",,51.72562,-0.620597,,,0,,,0
+040000002640,,"Great Hivings, Marston Close",,51.7239,-0.621171,,,0,,,0
+040000002638,,"Great Hivings, Mount Nugent",,51.721643,-0.619647,,,0,,,0
+040000002180,,"Chesham, Hivings Hill",,51.717064,-0.618657,,,0,,,0
+040000002178,,"Chesham, Fire Station",,51.713244,-0.614981,,,0,,,0
+040000002826,,"Chesham, Deansway",,51.713226,-0.617254,,,0,,,0
+040000002657,,"Chesham, Poles Hill",,51.71693,-0.624133,,,0,,,0
+040000002827,,"Chesham, Darvell Drive",,51.715398,-0.623051,,,0,,,0
+040000002828,,"Chesham, Chapmans Crescent",,51.713317,-0.621985,,,0,,,0
+040000002764,,"Chesham, Chiltern Hills Academy",,51.70999,-0.621956,,,0,,,0
+040000002762,,"Chesham, Park Road",,51.707514,-0.616372,,,0,,,0
+040000002761,,"Chesham, Park Road",,51.707268,-0.616075,,,0,,,0
+040000002763,,"Chesham, Chiltern Hills Academy",,51.709275,-0.620848,,,0,,,0
+040000002177,,"Chesham, Fire Station",,51.713429,-0.615424,,,0,,,0
+040000002813,,"Chesham, Valley View",,51.716316,-0.617826,,,0,,,0
+040000002179,,"Chesham, Hivings Hill",,51.716856,-0.618606,,,0,,,0
+040000002181,,"Chesham, Hope Church",,51.721286,-0.617602,,,0,,,0
+040000002757,,"Chesham, Greenway",,51.721456,-0.615237,,,0,,,0
+040000002760,,"Chesham, Lynton Road",,51.719172,-0.611398,,,0,,,0
+040000002099,,"Chesham, Lansdowne Road",,51.71524,-0.611186,,,0,,,0
+040000002698,,"Chesham, Addison Road",,51.71468,-0.609451,,,0,,,0
+040000002706,,"Chesham, Berkhampstead Road",,51.713448,-0.607955,,,0,,,0
+040000002601,,"Leisure Centre",,51.676576,-0.60291,,,0,,,0
+040000002603,,"Green Lane",,51.675832,-0.598579,,,0,,,0
+040000002605,,"Plantation Road",,51.673654,-0.593093,,,0,,,0
+040000002609,,"Amersham, Village Hall",,51.671797,-0.585978,,,0,,,0
+040000002611,,"Amersham, The Pineapple PH",,51.671128,-0.582716,,,0,,,0
+040000002613,,"Amersham, Chiltern Heights",,51.67044,-0.579324,,,0,,,0
+040000002007,,"Little Chalfont, Cavendish Close",,51.671085,-0.571018,,,0,,,0
+040000002008,,"Little Chalfont, Latimer Close",,51.67111,-0.565681,,,0,,,0
+040000002009,,"Little Chalfont, Elizabeth Avenue",,51.670313,-0.561555,,,0,,,0
+040000002620,,"Little Chalfont, Chalfont & Latimer Station",,51.667162,-0.563448,,,0,,,0
+040000002595,,"Little Chalfont, Nightingales Lane",,51.661821,-0.569357,,,0,,,0
+040000000359,,"Chalfont St Giles, Deadhearn Lane",,51.640047,-0.556444,,,0,,,0
+040000002228,,"Chalfont St Giles, Vache Lane",,51.634616,-0.565286,,,0,,,0
+040000002483,,"Chalfont St Giles, London Road",,51.633658,-0.566357,,,0,,,0
+040000002481,,"Chalfont St Giles, King's Road",,51.631433,-0.564534,,,0,,,0
+040000002479,,"Chalfont St Giles, Green Meadows",,51.626831,-0.562483,,,0,,,0
+040000002477,,"Chalfont Common, Cherry Acre",,51.623298,-0.559633,,,0,,,0
+040000002475,,"Chalfont Common, Misbourne Avenue",,51.619669,-0.557683,,,0,,,0
+040000002473,,"Chalfont Common, Deanacre Close",,51.615128,-0.557018,,,0,,,0
+040000002457,,"Chalfont Common, The Waggon & Horses PH",,51.611592,-0.556061,,,0,,,0
+040000002455,,"Chalfont St Peter, Market Place",,51.606876,-0.557915,,,0,,,0
+040000002453,,"Chalfont St Peter, Lansdown Road",,51.606026,-0.562678,,,0,,,0
+040000002451,,"Chalfont St Peter, Glebe Road",,51.60722,-0.568374,,,0,,,0
+040000002452,,"Chalfont St Peter, Glebe Road",,51.607492,-0.569289,,,0,,,0
+040000002441,,"Chalfont St Peter, Leachcroft",,51.60672,-0.570137,,,0,,,0
+040000002449,,"Chalfont St Peter, Gold Hill West",,51.605169,-0.567557,,,0,,,0
+040000002447,,"Chalfont St Peter, The Jolly Farmer",,51.602964,-0.565201,,,0,,,0
+040000002445,,"Chalfont St Peter, St Joseph's Church",,51.600189,-0.561837,,,0,,,0
+040000002443,,"Chalfont St Peter, Austenwood Common",,51.597089,-0.556867,,,0,,,0
+040000001441,,"Gerrards Cross, St Mary's School",,51.593286,-0.554028,,,0,,,0
+040000001443,,"Gerrards Cross, South Park Crescent",,51.591012,-0.552599,,,0,,,0
+040000001439,,"Gerrards Cross, Railway Station",,51.588204,-0.553194,,,0,,,0
+040000001437,,"Gerrards Cross, The Packhorse PH",,51.586589,-0.554934,,,0,,,0
+040000001335,,"Gerrards Cross, Windsor Road",,51.582547,-0.557501,,,0,,,0
+040000001333,,"Gerrards Cross, East Common",,51.579767,-0.553722,,,0,,,0
+040000001331,,"Gerrards Cross, Gaviots Close",,51.577625,-0.549142,,,0,,,0
+040000001329,,"Tatling End, Heusden Way",,51.575965,-0.541431,,,0,,,0
+040000001327,,"Tatling End, Fulmer Lane",,51.574951,-0.537293,,,0,,,0
+040000001325,,"Tatling End, Pinstone Way",,51.573976,-0.531192,,,0,,,0
+040000001323,,"Tatling End, Toby Carvery",,51.573228,-0.526771,,,0,,,0
+040000001321,,"Tatling End, Mount Lane",,51.571654,-0.519607,,,0,,,0
+040000001307,,"Denham, Denham Avenue",,51.568235,-0.50389,,,0,,,0
+040000001305,,"Denham, Springbridge Nurseries",,51.566064,-0.500758,,,0,,,0
+040000001303,,"New Denham, Knighton Way Lane",,51.556172,-0.49087,,,0,,,0
+040000001301,,"New Denham, Oakside",,51.552803,-0.487592,,,0,,,0
+490015585E,,"Uxbridge, Belmont Road",,51.547432,-0.479737,,,0,,,0
+490005185V,,"Uxbridge, York Road",,51.547253,-0.476296,,,0,,,0
+040000002600,,"Amersham, Stanley Hill Schools",,51.668075,-0.595001,,,0,,,0
+490005185N,,"Uxbridge, York Road",,51.547528,-0.476763,,,0,,,0
+490013969A,,"Uxbridge, High Street",,51.548092,-0.481417,,,0,,,0
+040000001302,,"New Denham, Oakside",,51.553416,-0.488437,,,0,,,0
+040000001304,,"New Denham, Knighton Way Lane",,51.555738,-0.490683,,,0,,,0
+040000001306,,"Denham, Springbridge Nurseries",,51.565945,-0.501252,,,0,,,0
+040000001322,,"Tatling End, Mount Lane",,51.571495,-0.520536,,,0,,,0
+040000001324,,"Tatling End, Toby Carvery",,51.572931,-0.526737,,,0,,,0
+040000001326,,"Tatling End, Pinstone Way",,51.573985,-0.532634,,,0,,,0
+040000001300,,"Tatling End, Fulmer Lane",,51.574845,-0.537455,,,0,,,0
+040000001328,,"Tatling End, Heusden Way",,51.576035,-0.542064,,,0,,,0
+040000001330,,"Gerrards Cross, Gaviots Close",,51.577348,-0.548588,,,0,,,0
+040000001332,,"Gerrards Cross, East Common",,51.579872,-0.554209,,,0,,,0
+040000001334,,"Gerrards Cross, Windsor Road",,51.582241,-0.55741,,,0,,,0
+040000001438,,"Gerrards Cross, The Packhorse PH",,51.58684,-0.554868,,,0,,,0
+040000001440,,"Gerrards Cross, Railway Station",,51.58903,-0.55233,,,0,,,0
+040000001444,,"Gerrards Cross, South Park Crescent",,51.590841,-0.55259,,,0,,,0
+040000001442,,"Gerrards Cross, St Mary's School",,51.593994,-0.554555,,,0,,,0
+040000002444,,"Chalfont St Peter, Austenwood Common",,51.597339,-0.557495,,,0,,,0
+040000002446,,"Chalfont St Peter, St Joseph's Church",,51.600146,-0.562012,,,0,,,0
+040000002448,,"Chalfont St Peter, The Jolly Farmer",,51.602938,-0.565288,,,0,,,0
+040000002450,,"Chalfont St Peter, Gold Hill West",,51.605272,-0.567929,,,0,,,0
+040000002440,,"Chalfont St Peter, Leachcroft",,51.606721,-0.570252,,,0,,,0
+040000002454,,"Chalfont St Peter, Lansdown Road",,51.606123,-0.561029,,,0,,,0
+040000002456,,"Chalfont St Peter, Market Place",,51.607148,-0.557357,,,0,,,0
+040000002458,,"Chalfont Common, The Waggon & Horses PH",,51.6119,-0.556282,,,0,,,0
+040000002472,,"Chalfont Common, Deanacre Close",,51.615519,-0.557366,,,0,,,0
+040000002474,,"Chalfont Common, Misbourne Avenue",,51.619013,-0.557747,,,0,,,0
+040000002476,,"Chalfont Common, Cherry Acre",,51.623952,-0.560147,,,0,,,0
+040000002478,,"Chalfont St Giles, Green Meadows",,51.626933,-0.56274,,,0,,,0
+040000002480,,"Chalfont St Giles, King's Road",,51.630612,-0.564285,,,0,,,0
+040000002482,,"Chalfont St Giles, London Road",,51.633018,-0.566203,,,0,,,0
+040000002227,,"Chalfont St Giles, Vache Lane",,51.635009,-0.565057,,,0,,,0
+040000000358,,"Chalfont St Giles, Deadhearn Lane",,51.640083,-0.556471,,,0,,,0
+040000002594,,"Little Chalfont, Nightingales Lane",,51.661894,-0.569427,,,0,,,0
+040000002619,,"Little Chalfont, Chalfont & Latimer Station",,51.667571,-0.562308,,,0,,,0
+040000002192,,"Little Chalfont, Elizabeth Avenue",,51.670224,-0.561587,,,0,,,0
+040000002193,,"Little Chalfont, Latimer Close",,51.67101,-0.565554,,,0,,,0
+040000002194,,"Little Chalfont, Cavendish Close",,51.671013,-0.57102,,,0,,,0
+040000002616,,"Amersham, The White Lion PH",,51.669915,-0.577562,,,0,,,0
+040000002614,,"Amersham, Chiltern Heights",,51.6704,-0.57973,,,0,,,0
+040000002612,,"Amersham, The Pineapple PH",,51.671203,-0.583711,,,0,,,0
+040000002610,,"Amersham, Village Hall",,51.67189,-0.586973,,,0,,,0
+040000002608,,"Amersham, Blackhorse Bridge",,51.672544,-0.591262,,,0,,,0
+040000002606,,"Amersham, Plantation Road",,51.673956,-0.594327,,,0,,,0
+040000002604,,"Amersham, Green Lane",,51.676166,-0.599408,,,0,,,0
+040000002602,,"Amersham, Leisure Centre",,51.676672,-0.602661,,,0,,,0
+040000002607,,"Amersham, Blackhorse Bridge",,51.672745,-0.592297,,,0,,,0
+040000000441,,"High Wycombe, Bus Station",,51.631144,-0.756781,,,0,,,0
+040000003255,,"Wycombe Marsh, Ford Street",,51.61798,-0.715816,,,0,,,0
+040000003261,,"Loudwater, Rayners Avenue",,51.611693,-0.702605,,,0,,,0
+040000003263,,"Loudwater, Loudwater Turn",,51.610042,-0.699648,,,0,,,0
+040000003265,,"Loudwater, The Papermill",,51.607629,-0.69615,,,0,,,0
+040000003047,,"Loudwater, Tesco",,51.605308,-0.691163,,,0,,,0
+040000003049,,"Wooburn Moor, Whitehouse Lane",,51.602186,-0.685376,,,0,,,0
+040000001207,,"Holtspur, The King's Head PH",,51.599737,-0.668322,,,0,,,0
+040000001209,,"Holtspur, North Drive",,51.599546,-0.665021,,,0,,,0
+040000001211,,"Holtspur, Burkes Road",,51.599369,-0.65811,,,0,,,0
+040000001213,,"Beaconsfield, Butlers Court Road",,51.59945,-0.648709,,,0,,,0
+040000001225,,"Beaconsfield, Maxwell Road",,51.610304,-0.643389,,,0,,,0
+040000001227,,"Beaconsfield, St Mary's School",,51.610603,-0.63886,,,0,,,0
+040000001229,,"Beaconsfield, Waller Road",,51.610876,-0.63374,,,0,,,0
+040000001231,,"Beaconsfield, Ronald Road",,51.606247,-0.633099,,,0,,,0
+040000001233,,"Beaconsfield Old Town, Cricket Ground",,51.601938,-0.629849,,,0,,,0
+040000001347,,"Bulstrode Park, Potkiln Lane",,51.598016,-0.606823,,,0,,,0
+040000001345,,"Bulstrode Park, Crowne Plaza",,51.595205,-0.595763,,,0,,,0
+040000001343,,"Bulstrode Park, Mumfords Lane",,51.591863,-0.5826,,,0,,,0
+040000001341,,"Gerrards Cross, Bulstrode Park",,51.591486,-0.575985,,,0,,,0
+040000001339,,"Gerrards Cross, The Bull Hotel",,51.587803,-0.563672,,,0,,,0
+040000001337,,"Gerrards Cross, Bulstrode Court",,51.584649,-0.560192,,,0,,,0
+490013396E,,"Pield Heath, The Greenway",,51.537421,-0.471217,,,0,,,0
+490009070S,,"Hillingdon Heath, Lees Road",,51.525175,-0.449399,,,0,,,0
+490018251S,,"Stockley Park, Stockley Road",,51.503065,-0.450899,,,0,,,0
+490008016S,,"Heathrow Airport, Central Bus Station",,51.471543,-0.452586,,,0,,,0
+4900801620,,"Heathrow Airport, Central Bus Station",,51.471369,-0.4537,,,0,,,0
+490018251N,,"Stockley Park, Stockley Road",,51.503421,-0.451261,,,0,,,0
+490007815N1,,"Hillingdon Heath, Lees Road",,51.525965,-0.450655,,,0,,,0
+490013396N,,"Pield Heath, The Greenway",,51.536579,-0.470784,,,0,,,0
+040000001336,,"Gerrards Cross, Bulstrode Court",,51.583694,-0.559313,,,0,,,0
+040000001338,,"Gerrards Cross, The Bull Hotel",,51.586758,-0.562781,,,0,,,0
+040000001340,,"Gerrards Cross, Bulstrode Park",,51.591324,-0.575947,,,0,,,0
+040000001342,,"Bulstrode Park, Mumfords Lane",,51.591672,-0.583169,,,0,,,0
+040000001344,,"Bulstrode Park, Crowne Plaza",,51.594696,-0.59536,,,0,,,0
+040000001346,,"Bulstrode Park, Potkiln Lane",,51.598002,-0.60795,,,0,,,0
+040000001234,,"Beaconsfield Old Town, Cricket Ground",,51.601967,-0.630845,,,0,,,0
+040000001232,,"Beaconsfield, Ronald Road",,51.606742,-0.633156,,,0,,,0
+040000001230,,"Beaconsfield, Waller Road",,51.610775,-0.633584,,,0,,,0
+040000001228,,"Beaconsfield, St Mary's School",,51.61051,-0.638646,,,0,,,0
+040000001226,,"Beaconsfield, Maxwell Road",,51.610141,-0.644001,,,0,,,0
+040000001214,,"Beaconsfield, Butlers Court Road",,51.599093,-0.64973,,,0,,,0
+040000001212,,"Holtspur, Burkes Road",,51.599263,-0.659904,,,0,,,0
+040000001210,,"Holtspur, North Drive",,51.599386,-0.664362,,,0,,,0
+040000001208,,"Holtspur, The King's Head PH",,51.599427,-0.670324,,,0,,,0
+040000003050,,"Wooburn Moor, Whitehouse Lane",,51.602305,-0.686354,,,0,,,0
+040000003048,,"Loudwater, Tesco",,51.605109,-0.691067,,,0,,,0
+040000003242,,"Loudwater, The Papermill",,51.607466,-0.696025,,,0,,,0
+040000003240,,"Loudwater, Loudwater Turn",,51.610495,-0.700805,,,0,,,0
+040000003238,,"Loudwater, Rayners Avenue",,51.611689,-0.70301,,,0,,,0
+040000000331,,"Beaconsfield, Wilton Park",,51.603888,-0.62361,,,0,,,0
+040000001235,,"Beaconsfield Services",,51.589489,-0.629545,,,0,,,0
+040000001237,,"Beaconsfield, Bower Wood",,51.582783,-0.62891,,,0,,,0
+040000001239,,"Farnham Common, Harehatch Lane",,51.57514,-0.623512,,,0,,,0
+040000001241,,"Farnham Common, The Yew Tree PH",,51.572334,-0.621244,,,0,,,0
+040000001243,,"Hedgerley, Clare Drive",,51.566083,-0.617249,,,0,,,0
+040000001253,,"Farnham Common, Hedgerley Corner",,51.562848,-0.615111,,,0,,,0
+040000001255,,"Farnham Common, The Royal Oak PH",,51.559702,-0.615221,,,0,,,0
+040000001257,,"Farnham Common, Templewood Lane",,51.55748,-0.615159,,,0,,,0
+040000001259,,"Farnham Common, The Forester's Arms",,51.553966,-0.615295,,,0,,,0
+040000001261,,"Farnham Common, Kennedy Close",,51.550132,-0.615007,,,0,,,0
+040000001263,,"Farnham Royal, Farnham Park Lane",,51.546619,-0.615244,,,0,,,0
+040000001265,,"Farnham Royal, Fairfield Lane",,51.541442,-0.616237,,,0,,,0
+040000001267,,"Farnham Royal, The Farnham Pump PH",,51.538481,-0.616817,,,0,,,0
+03700374,,"Britwell, St Anthonys RC Church",,51.534463,-0.617645,,,0,,,0
+03700373,,"Britwell, Crofthill Road",,51.531647,-0.617514,,,0,,,0
+03700376,,"Britwell, Farnham Road Lidl",,51.52698,-0.615998,,,0,,,0
+03700377,,"Slough Trading Estate, Farnham Road PO",,51.523401,-0.615184,,,0,,,0
+03700379,,"Slough Trading Estate, Buckingham Avenue Centre",,51.519559,-0.614983,,,0,,,0
+03700380,,"Slough Trading Estate, Salt Hill Three Tuns",,51.513413,-0.61236,,,0,,,0
+03700381,,"Baylis, Slough Ice Arena",,51.511871,-0.608991,,,0,,,0
+03700382,,"Chalvey, Salt Hill Park",,51.511661,-0.604141,,,0,,,0
+03700337,,"Slough, Wellington Street",,51.51066,-0.59664,,,0,,,0
+03700340,,"Slough, Wellington Street",,51.511436,-0.59285,,,0,,,0
+03700338,,"Slough, Wellington Street",,51.510171,-0.593076,,,0,,,0
+036006001251,,"Windsor, Boys School",,51.483504,-0.62211,,,0,,,0
+036006212213,,"Windsor, Arthur Road",,51.482711,-0.613623,,,0,,,0
+036006001458,,"Windsor, Charles Street",,51.48078,-0.61227,,,0,,,0
+036006224225,,"Windsor, William Street",,51.479919,-0.610957,,,0,,,0
+036006226226,,"Windsor, Bachelors Acre",,51.48007,-0.608519,,,0,,,0
+03700311,,"Slough, Sorting Office",,51.509293,-0.585826,,,0,,,0
+03700309,,"Langley, Uxbridge Road Sainsbury's",,51.506754,-0.578859,,,0,,,0
+03700140,,"Langley, St Bernards Convent",,51.505703,-0.573056,,,0,,,0
+03700137,,"Langley, Hempson Avenue",,51.505824,-0.569003,,,0,,,0
+03700135,,"Langley, Middlegreen Road",,51.506215,-0.563429,,,0,,,0
+03700133,,"Langley, Hillary Road",,51.50545,-0.558972,,,0,,,0
+03700131,,"Langley, St Marys Road",,51.504874,-0.553068,,,0,,,0
+03700127,,"Langley, Spencer Road North",,51.504043,-0.54772,,,0,,,0
+03700120,,"Langley, Harrow Market",,51.50392,-0.542825,,,0,,,0
+03700116,,"Langley, Marish Court",,51.501794,-0.54259,,,0,,,0
+03700471,,"Langley, Parlaunt Road",,51.499671,-0.543234,,,0,,,0
+03700469,,"Langley, High Street",,51.497601,-0.543098,,,0,,,0
+03700105,,"Langley, Cheviot Road",,51.496091,-0.541648,,,0,,,0
+03700108,,"Langley, Parlaunt Flats",,51.49584,-0.538833,,,0,,,0
+03700101,,"Langley, Humber Way",,51.499015,-0.537492,,,0,,,0
+03700475,,"Langley, Leisure Centre",,51.499673,-0.536852,,,0,,,0
+03700099,,"Langley, Market Lane",,51.50103,-0.531794,,,0,,,0
+03700474,,"Langley, Sutton Lane North Park",,51.501425,-0.52952,,,0,,,0
+03700096,,"Langley, Sutton Lane North",,51.500332,-0.527754,,,0,,,0
+03700476,,"Langley, Sutton Court Farm",,51.49636,-0.529395,,,0,,,0
+03700094,,"Langley, Axis Park",,51.495317,-0.53228,,,0,,,0
+036006218218,,"Windsor, Barclays Bank",,51.482661,-0.607849,,,0,,,0
+036006215215,,"Windsor, WH Smith",,51.483278,-0.608378,,,0,,,0
+036006212212,,"Windsor, Arthur Road",,51.482604,-0.613669,,,0,,,0
+036006209209,,"Windsor, Boys School",,51.483345,-0.622432,,,0,,,0
+03700336,,"Slough, Wellington Street",,51.510393,-0.596629,,,0,,,0
+03700429,,"Elliman, Salt Hill Care Centre",,51.510863,-0.601312,,,0,,,0
+03700430,,"Chalvey, Salt Hill Park",,51.511281,-0.604729,,,0,,,0
+03700431,,"Baylis, Slough Ice Arena",,51.51178,-0.609585,,,0,,,0
+03700256,,"Slough Trading Estate, Salt Hill Three Tuns",,51.513471,-0.612704,,,0,,,0
+03700369,,"Slough Trading Estate, Buckingham Avenue Centre",,51.520534,-0.615357,,,0,,,0
+03700370,,"Slough Trading Estate, Farnham Road PO",,51.524701,-0.615649,,,0,,,0
+03700371,,"Britwell, Farnham Road Lidl",,51.526425,-0.616202,,,0,,,0
+03700372,,"Britwell, Crofthill Road",,51.531271,-0.617656,,,0,,,0
+03700375,,"Britwell, St Anthonys RC Church",,51.534746,-0.617997,,,0,,,0
+040000001268,,"Farnham Royal, The Farnham Pump PH",,51.53851,-0.61696,,,0,,,0
+040000001266,,"Farnham Royal, Fairfield Lane",,51.54253,-0.616233,,,0,,,0
+040000001264,,"Farnham Royal, Farnham Park Lane",,51.546683,-0.6154,,,0,,,0
+040000001262,,"Farnham Common, Kennedy Close",,51.550803,-0.615492,,,0,,,0
+040000001260,,"Farnham Common, The Forester's Arms",,51.553716,-0.615432,,,0,,,0
+040000001258,,"Farnham Common.Templewood Lane",,51.558364,-0.615377,,,0,,,0
+040000001256,,"Farnham Common, The Royal Oak PH",,51.561177,-0.615306,,,0,,,0
+040000001254,,"Farnham Common, Hedgerley Corner",,51.563255,-0.615315,,,0,,,0
+040000001244,,"Hedgerley, Clare Drive",,51.5668,-0.61779,,,0,,,0
+040000001242,,"Farnham Common, The Yew Tree PH",,51.572318,-0.621404,,,0,,,0
+040000001240,,"Farnham Common, Harehatch Lane",,51.574888,-0.623519,,,0,,,0
+040000001238,,"Beaconsfield, Bower Wood",,51.582785,-0.629083,,,0,,,0
+040000001236,,"Beaconsfield Services",,51.591497,-0.629774,,,0,,,0
+040000000347,,"Beaconsfield, Wilton Park",,51.603616,-0.624167,,,0,,,0
+03700477,,"Langley, Sutton Court Farm",,51.496603,-0.529372,,,0,,,0
+03700095,,"Langley, Sutton Lane North",,51.500442,-0.527923,,,0,,,0
+03700097,,"Langley, Sutton Lane North Park",,51.501365,-0.529075,,,0,,,0
+03700098,,"Langley, Market Lane",,51.500884,-0.531612,,,0,,,0
+03700100,,"Langley, Leisure Centre",,51.499493,-0.536814,,,0,,,0
+03700102,,"Langley, Humber Way",,51.498779,-0.537298,,,0,,,0
+03700107,,"Langley, Parlaunt Flats",,51.496457,-0.537877,,,0,,,0
+03700106,,"Langley, Cheviot Road",,51.496139,-0.541877,,,0,,,0
+03700470,,"Langley, High Street",,51.497522,-0.543202,,,0,,,0
+03700472,,"Langley, Parlaunt Road",,51.499378,-0.543474,,,0,,,0
+03700115,,"Langley, Marish Court",,51.502047,-0.542611,,,0,,,0
+03700118,,"Langley, Harrow Market",,51.503697,-0.545209,,,0,,,0
+03700126,,"Langley, Spencer Road North",,51.504015,-0.548369,,,0,,,0
+03700130,,"Langley, St Marys Road",,51.504758,-0.554613,,,0,,,0
+03700134,,"Langley, Hillary Road",,51.505196,-0.558058,,,0,,,0
+03700136,,"Langley, Middlegreen Road",,51.505774,-0.56484,,,0,,,0
+03700138,,"Langley, Hempson Avenue",,51.505758,-0.569495,,,0,,,0
+03700139,,"Langley, St Bernards Convent",,51.5055,-0.57335,,,0,,,0
+03700308,,"Langley, Slough Grammar School",,51.505953,-0.577371,,,0,,,0
+03700518,,"Langley, Uxbridge Road Sainsbury's",,51.507315,-0.579922,,,0,,,0
+03700310,,"Slough, Sorting Office",,51.509053,-0.585329,,,0,,,0
+040000001201,,"Beaconsfield, Hinton House",,51.614684,-0.625652,,,0,,,0
+040000002222,,"Seer Green, Bottom Lane",,51.613658,-0.615631,,,0,,,0
+040000002520,,"Seer Green, Railway Station",,51.611355,-0.608668,,,0,,,0
+040000002518,,"Seer Green, Stable Lane",,51.615674,-0.606629,,,0,,,0
+040000002516,,"Seer Green, Orchard Road",,51.617857,-0.605696,,,0,,,0
+040000002514,,"Seer Green, Manor Road",,51.62058,-0.603359,,,0,,,0
+040000002512,,"Seer Green, Chalfont Road",,51.623658,-0.600548,,,0,,,0
+040000002220,,"Seer Green, Newbarn Lane",,51.624979,-0.594469,,,0,,,0
+040000002510,,"Butlers Cross, Twitchell's Lane",,51.625457,-0.589325,,,0,,,0
+040000002508,,"Chalfont St Giles, Three Households",,51.626873,-0.58671,,,0,,,0
+040000002506,,"Chalfont St Giles, Narcot Lane",,51.62911,-0.582812,,,0,,,0
+040000002504,,"Chalfont St Giles, Dean Way",,51.629693,-0.578921,,,0,,,0
+040000002502,,"Chalfont St Giles, Milton Hill",,51.630365,-0.573598,,,0,,,0
+040000002500,,"Chalfont St Giles, High Street",,51.632015,-0.570266,,,0,,,0
+040000002501,,"Chalfont St Giles, High Street",,51.631701,-0.570291,,,0,,,0
+040000002503,,"Chalfont St Giles, Milton Hill",,51.630362,-0.573309,,,0,,,0
+040000002505,,"Chalfont St Giles, Dean Way",,51.629563,-0.57933,,,0,,,0
+040000002507,,"Chalfont St Giles, Narcot Lane",,51.62843,-0.583815,,,0,,,0
+040000002218,,"Chalfont St Giles, Three Households",,51.62667,-0.586976,,,0,,,0
+040000002509,,"Butlers Cross, Twitchell's Lane",,51.625172,-0.58958,,,0,,,0
+040000002219,,"Seer Green, Newbarn Lane",,51.624883,-0.594703,,,0,,,0
+040000002511,,"Seer Green, Chalfont Road",,51.623318,-0.600674,,,0,,,0
+040000002513,,"Seer Green, Manor Road",,51.620322,-0.603583,,,0,,,0
+040000002515,,"Seer Green, Orchard Road",,51.617163,-0.605616,,,0,,,0
+040000002517,,"Seer Green, Stable Lane",,51.615064,-0.606763,,,0,,,0
+040000002519,,"Seer Green, Railway Station",,51.611371,-0.609245,,,0,,,0
+040000002221,,"Seer Green, Bottom Lane",,51.613833,-0.616767,,,0,,,0
+040000001200,,"Beaconsfield, Hinton House",,51.614952,-0.62628,,,0,,,0
+040000001197,,"Beaconsfield, Whipass Hill",,51.616385,-0.631191,,,0,,,0
+040000002203,,"Coleshill, Magpie Lane",,51.637744,-0.620693,,,0,,,0
+040000002201,,"Coleshill, Chalk Hill",,51.642027,-0.631705,,,0,,,0
+040000002189,,"Coleshill, The Red Lion PH",,51.647063,-0.631727,,,0,,,0
+040000002199,,"Coleshill, Hill Meadow",,51.652202,-0.62797,,,0,,,0
+040000002197,,"Coleshill, Water Tower",,51.652419,-0.617689,,,0,,,0
+040000002195,,"Quarrendon Farm",,51.655641,-0.614829,,,0,,,0
+040000002145,,"Old Amersham, Gore Hill",,51.664867,-0.612596,,,0,,,0
+040000002499,,"Amersham, The Chequers PH",,51.664346,-0.606611,,,0,,,0
+040000002157,,"Amersham, Sycamore Road",,51.678275,-0.605895,,,0,,,0
+040000002668,,"Amersham, Blackhorse Close",,51.674593,-0.591907,,,0,,,0
+040000002664,,"Amersham, New Road",,51.677654,-0.59375,,,0,,,0
+040000002662,,"Amersham, Cherry Orchard",,51.679981,-0.592825,,,0,,,0
+040000002660,,"Amersham, The Gowers",,51.680465,-0.595688,,,0,,,0
+040000002658,,"Chesham Bois, Chestnut Lane",,51.681799,-0.602011,,,0,,,0
+040000002799,,"Chesham Bois, Woodside Avenue",,51.68439,-0.600658,,,0,,,0
+040000002797,,"Chesham Moor, Bois Moor Road",,51.692852,-0.602235,,,0,,,0
+040000002795,,"Chesham Moor, The Unicorn",,51.694217,-0.604334,,,0,,,0
+040000002790,,"Chesham, Five Acres",,51.698095,-0.603014,,,0,,,0
+040000002833,,"Chesham, Woodland View",,51.69909,-0.601276,,,0,,,0
+040000002835,,"Chesham, Chessmount Rise",,51.69578,-0.601928,,,0,,,0
+040000002787,,"Waterside, Trapps Lane",,51.697475,-0.606101,,,0,,,0
+040000002785,,"Waterside, Hospital Hill",,51.700034,-0.608033,,,0,,,0
+040000002171,,"Chesham, Red Lion Street",,51.702846,-0.612419,,,0,,,0
+040000002651,,"Chesham Bois, Amersham Road",,51.683591,-0.612111,,,0,,,0
+040000002167,,"Chesham Bois, The Beacon School",,51.689395,-0.613973,,,0,,,0
+040000002169,,"Chesham, The Wild Rover PH",,51.701231,-0.611166,,,0,,,0
+040000002769,,"Chesham, Berkeley Stores",,51.713247,-0.625953,,,0,,,0
+040000002771,,"Chesham, Pulpit Close",,51.714892,-0.62667,,,0,,,0
+040000002773,,"Chesham, Longfield Road",,51.71669,-0.629757,,,0,,,0
+040000002775,,"Chesham, The Warren",,51.718699,-0.633185,,,0,,,0
+040000002777,,"Chesham, Buslins Lane",,51.72072,-0.637641,,,0,,,0
+040000002779,,"Chartridge, Old Sax Lane",,51.722234,-0.642576,,,0,,,0
+040000002781,,"Chartridge, The Bell PH",,51.724184,-0.651885,,,0,,,0
+040000002783,,"Chartridge, Cogdell's Lane",,51.725478,-0.654916,,,0,,,0
+040000002784,,"Chartridge, Village Hall",,51.72543,-0.655439,,,0,,,0
+040000002147,,"Station Road",,51.665898,-0.607793,,,0,,,0
+040000002149,,"Beech Grove",,51.669259,-0.60688,,,0,,,0
+040000002151,,"The Rise",,51.671512,-0.607317,,,0,,,0
+040000002150,,"The Rise",,51.671646,-0.607241,,,0,,,0
+040000002148,,"Beech Grove",,51.669347,-0.606733,,,0,,,0
+040000002146,,"Station Road",,51.665379,-0.607997,,,0,,,0
+040000002144,,"Old Amersham, Gore Hill",,51.664864,-0.612365,,,0,,,0
+040000002196,,"Quarrendon Farm",,51.655836,-0.614592,,,0,,,0
+040000002198,,"Coleshill, Water Tower",,51.652551,-0.618176,,,0,,,0
+040000002200,,"Coleshill, Hill Meadow",,51.651644,-0.628221,,,0,,,0
+040000002190,,"Coleshill, The Red Lion PH",,51.646728,-0.631593,,,0,,,0
+040000002202,,"Coleshill, Chalk Hill",,51.642417,-0.631982,,,0,,,0
+040000002204,,"Coleshill, Magpie Lane",,51.637557,-0.620048,,,0,,,0
+040000002174,,"Chesham, Broadway",,51.706304,-0.612878,,,0,,,0
+040000002172,,"Chesham, Red Lion Street",,51.702323,-0.611538,,,0,,,0
+040000002786,,"Waterside, Hospital Hill",,51.69994,-0.607747,,,0,,,0
+040000002788,,"Waterside, Trapps Lane",,51.697465,-0.605985,,,0,,,0
+040000002794,,"Chesham Moor, The Unicorn",,51.694452,-0.604457,,,0,,,0
+040000002798,,"Chesham Moor, Bois Moor Road",,51.691494,-0.600671,,,0,,,0
+040000002800,,"Chesham Bois, Woodside Avenue",,51.684432,-0.600411,,,0,,,0
+040000002160,,"Chesham Bois, Anne's Corner",,51.682238,-0.602663,,,0,,,0
+040000002659,,"Amersham, The Gowers",,51.680571,-0.595598,,,0,,,0
+040000002661,,"Amersham, Cherry Orchard",,51.679827,-0.592786,,,0,,,0
+040000002663,,"Amersham, New Road",,51.67778,-0.593804,,,0,,,0
+040000002669,,"Amersham, Blackhorse Close",,51.675156,-0.591629,,,0,,,0
+040000002158,,"Amersham, Sycamore Road",,51.678068,-0.605872,,,0,,,0
+040000002156,,"Amersham, Oakfield Corner",,51.676298,-0.607517,,,0,,,0
+040000002782,,"Chartridge, Cogdells Lane",,51.725492,-0.654626,,,0,,,0
+040000002780,,"Chartridge, The Bell PH",,51.723997,-0.651239,,,0,,,0
+040000002778,,"Chartridge, Old Sax Lane",,51.722474,-0.643119,,,0,,,0
+040000002776,,"Chesham, Buslins Lane",,51.720671,-0.637252,,,0,,,0
+040000002774,,"Chesham, The Warren",,51.718588,-0.63287,,,0,,,0
+040000002768,,"Chesham, Chartridge Lane",,51.71506,-0.631051,,,0,,,0
+040000002766,,"Chesham, Berkeley Avenue",,51.712415,-0.62634,,,0,,,0
+040000002170,,"Chesham, The Wild Rover PH",,51.700986,-0.610985,,,0,,,0
+040000002168,,"Chesham Bois, The Beacon School",,51.688865,-0.614004,,,0,,,0
+040000002166,,"Chesham Bois, Bois Avenue",,51.685634,-0.61458,,,0,,,0
+040000002652,,"Chesham Bois, Amersham Road",,51.683598,-0.611937,,,0,,,0
+040000002164,,"Amersham, Copperkins Lane",,51.682366,-0.610441,,,0,,,0
+040000002498,,"Amersham, The Chequers PH",,51.664126,-0.606242,,,0,,,0
+03700051,,"Wexham Court, Wexham Park Hospital",,51.532406,-0.57571,,,0,,,0
+03700048,,"Wexham Court, Wexham Post Office",,51.529617,-0.578623,,,0,,,0
+03700046,,"Wexham Court, Extra Care Centre",,51.526206,-0.58056,,,0,,,0
+03700053,,"Wexham Court, Knolton Way North",,51.522323,-0.579224,,,0,,,0
+03700055,,"Wexham Court, Prestwood",,51.520984,-0.578545,,,0,,,0
+03700057,,"Wexham Court, Sheehy Way",,51.519283,-0.574736,,,0,,,0
+03700466,,"Wexham Court, Knolton Way",,51.518948,-0.571546,,,0,,,0
+03700036,,"Wexham Court, Dornels",,51.520248,-0.569805,,,0,,,0
+03700038,,"Wexham Court, Berryfield",,51.522277,-0.57101,,,0,,,0
+03700040,,"Wexham Court, Knolton Way Shops",,51.522985,-0.57449,,,0,,,0
+03700042,,"Wexham Court, The Normans",,51.523161,-0.577887,,,0,,,0
+03700044,,"Wexham Court, The Frithe",,51.523015,-0.579952,,,0,,,0
+03700069,,"Wexham Court, Borderside",,51.520686,-0.579953,,,0,,,0
+03700067,,"Wexham Court, Mirador Crescent Roundabout",,51.517707,-0.578215,,,0,,,0
+03700061,,"Upton Lea, Carlton Road",,51.515768,-0.578463,,,0,,,0
+03700468,,"Upton Lea, Beresford Avenue",,51.514623,-0.574564,,,0,,,0
+03700032,,"Upton Lea, Goodman Park",,51.511912,-0.574894,,,0,,,0
+03700456,,"Slough, Diamond Road",,51.509131,-0.579188,,,0,,,0
+040000002466,,"Chalfont Common, Bus Shelter",,51.618086,-0.549644,,,0,,,0
+040000002468,,"Chalfont Common, The Pyghtle",,51.616321,-0.552387,,,0,,,0
+040000002470,,"Chalfont Common, Hillside Close",,51.614495,-0.553774,,,0,,,0
+040000001435,,"Gerrards Cross, Camp Road",,51.582378,-0.559094,,,0,,,0
+040000001433,,"Gerrards Cross, Manor Lane",,51.579012,-0.562477,,,0,,,0
+040000001431,,"Gerrards Cross, Hedgerley Lane",,51.577288,-0.564148,,,0,,,0
+040000001429,,"Gerrards Cross, Dukes Kiln Drive",,51.575035,-0.568952,,,0,,,0
+040000001427,,"Stoke Poges, Mount Hill Farm",,51.57185,-0.576887,,,0,,,0
+040000001425,,"Stoke Poges, Parkside Cemetery",,51.566855,-0.581761,,,0,,,0
+040000001423,,"Stoke Poges, The Fox & Pheasant PH",,51.560973,-0.583892,,,0,,,0
+040000001421,,"Stoke Poges, Larchmoor Park",,51.559132,-0.584036,,,0,,,0
+040000001419,,"Stoke Poges, Vine Road",,51.554451,-0.584369,,,0,,,0
+040000001417,,"Stoke Poges, Pennylets Green",,51.550345,-0.584626,,,0,,,0
+040000000326,,"Stoke Poges, Khalsa Secondary Academy",,51.548262,-0.57745,,,0,,,0
+040000001277,,"Wexham Street, The Stag PH",,51.544672,-0.571404,,,0,,,0
+040000001275,,"Wexham Street, Plough Lane",,51.542072,-0.573519,,,0,,,0
+040000001273,,"Wexham Street, Berry Farm",,51.537249,-0.575415,,,0,,,0
+03700457,,"Slough, Diamond Road",,51.509612,-0.57877,,,0,,,0
+03700031,,"Upton Lea, Goodman Park",,51.512059,-0.575134,,,0,,,0
+03700060,,"Upton Lea, Beresford Avenue",,51.514355,-0.573895,,,0,,,0
+03700494,,"Upton Lea, Carlton Road",,51.515306,-0.577497,,,0,,,0
+03700065,,"Upton Lea, Lea School",,51.516608,-0.578783,,,0,,,0
+03700066,,"Wexham Court, Mirador Crescent Roundabout",,51.518285,-0.578413,,,0,,,0
+03700068,,"Wexham Court, Borderside",,51.520362,-0.579876,,,0,,,0
+03700045,,"Wexham Court, Norway Drive",,51.525008,-0.581145,,,0,,,0
+03700506,,"Wexham Court, Extra Care Centre",,51.526948,-0.580191,,,0,,,0
+03700047,,"Wexham Court, Wexham Post Office",,51.530095,-0.578709,,,0,,,0
+040000001274,,"Wexham Street, Berry Farm",,51.537871,-0.575597,,,0,,,0
+040000001276,,"Wexham Street, Plough Lane",,51.542369,-0.573467,,,0,,,0
+040000001278,,"Wexham Street, The Stag PH",,51.545379,-0.571079,,,0,,,0
+040000001280,,"Wexham Street, Hollybush Hill",,51.547717,-0.569636,,,0,,,0
+040000000325,,"Stoke Poges, Khalsa Secondary Academy",,51.548217,-0.577466,,,0,,,0
+040000001416,,"Stoke Poges, Pennylets Green",,51.550428,-0.584811,,,0,,,0
+040000001418,,"Stoke Poges, Vine Road",,51.554453,-0.584513,,,0,,,0
+040000001420,,"Stoke Poges, Larchmoor Park",,51.559403,-0.584157,,,0,,,0
+040000001422,,"Stoke Poges, The Fox & Pheasant PH",,51.561434,-0.584022,,,0,,,0
+040000001424,,"Stoke Poges, Parkside Cemetery",,51.566134,-0.582375,,,0,,,0
+040000001426,,"Stoke Poges, Mount Hill Farm",,51.571582,-0.577805,,,0,,,0
+040000001428,,"Gerrards Cross, Dukes Kiln Drive",,51.575048,-0.569269,,,0,,,0
+040000001430,,"Gerrards Cross, Hedgerley Lane",,51.577628,-0.563993,,,0,,,0
+040000001432,,"Gerrards Cross, Manor Lane",,51.578774,-0.562874,,,0,,,0
+040000001434,,"Gerrards Cross, Camp Road",,51.581741,-0.559908,,,0,,,0
+040000002460,,"Chalfont Common, Copthall Lane",,51.611835,-0.551721,,,0,,,0
+040000002462,,"Chalfont Common, Ninnings Road",,51.611811,-0.546825,,,0,,,0
+040000002464,,"Chalfont Common, Denham Walk",,51.615398,-0.54752,,,0,,,0
+040000001299,,"Gerrards Cross, Gaviots Green",,51.576335,-0.551045,,,0,,,0
+040000001297,,"Gerrards Cross, St Hubert's Close",,51.573114,-0.550137,,,0,,,0
+040000001295,,"Gerrards Cross, Fulmer Drive",,51.568592,-0.550209,,,0,,,0
+040000001293,,"Gerrards Cross, Oldhouse Farm",,51.566097,-0.552092,,,0,,,0
+040000001291,,"Fulmer, Old Post Office",,51.562388,-0.556841,,,0,,,0
+040000001289,,"Fulmer, The Black Horse PH",,51.560977,-0.5613,,,0,,,0
+040000001287,,"Fulmer, Windmill Road",,51.558278,-0.564847,,,0,,,0
+040000001285,,"Fulmer, Fulmer Common Road",,51.556594,-0.566069,,,0,,,0
+040000001283,,"Fulmer, Mill House Farm",,51.552079,-0.567451,,,0,,,0
+040000001281,,"Wexham Street, Fulmer Grange",,51.550358,-0.567909,,,0,,,0
+040000001279,,"Wexham Street, Hollybush Hill",,51.548288,-0.569286,,,0,,,0
+040000001415,,"Stoke Poges, Sefton Park",,51.548219,-0.585052,,,0,,,0
+040000001411,,"Stoke Poges, Rogers Lane South",,51.542497,-0.587811,,,0,,,0
+040000001409,,"Stoke Poges, Church Lane",,51.538566,-0.586159,,,0,,,0
+040000001407,,"Stoke Poges, Park Road",,51.535906,-0.585564,,,0,,,0
+040000001405,,"Stoke Poges, Stoke House",,51.532811,-0.585444,,,0,,,0
+040000001450,,"Stoke Poges, Wexham Roundabout",,51.530868,-0.579377,,,0,,,0
+040000001404,,"Stoke Poges, Stoke House",,51.532328,-0.58566,,,0,,,0
+040000001406,,"Stoke Poges, Park Road",,51.535405,-0.585825,,,0,,,0
+040000001408,,"Stoke Poges, Church Lane",,51.53825,-0.586039,,,0,,,0
+040000001410,,"Stoke Poges, Rogers Lane South",,51.543081,-0.587764,,,0,,,0
+040000001412,,"Stoke Poges, Decies Way",,51.545399,-0.586077,,,0,,,0
+040000001414,,"Stoke Poges, Sefton Park",,51.547367,-0.585295,,,0,,,0
+040000001282,,"Wexham Street, Fulmer Grange",,51.549488,-0.568816,,,0,,,0
+040000001284,,"Fulmer, Mill House Farm",,51.552438,-0.567469,,,0,,,0
+040000001286,,"Fulmer, Fulmer Common Road",,51.556649,-0.566197,,,0,,,0
+040000001288,,"Fulmer, Windmill Road",,51.558528,-0.564724,,,0,,,0
+040000001290,,"Fulmer, The Black Horse PH",,51.561286,-0.560814,,,0,,,0
+040000001292,,"Fulmer, Old Post Office",,51.562296,-0.557406,,,0,,,0
+040000001294,,"Gerrards Cross, Oldhouse Farm",,51.566117,-0.55225,,,0,,,0
+040000001360,,"Gerrards Cross, Fulmer Drive",,51.569038,-0.549906,,,0,,,0
+040000001296,,"Gerrards Cross, St Hubert's Close",,51.573134,-0.550296,,,0,,,0
+040000001298,,"Gerrards Cross, Gaviots Green",,51.577028,-0.551759,,,0,,,0
+340000799LIB,,"Watlington, Library",,51.645543,-1.00648,,,0,,,0
+340001591ENT,,Gorwell,,51.644502,-1.008786,,,0,,,0
+340000416SOU,,"Howe Hill, Crossroads",,51.614402,-0.991229,,,0,,,0
+340000229V,,"Cookley Green, The Green Bus Shelter",,51.606121,-0.996553,,,0,,,0
+340000603T,,"Park Corner, Turn Bus Shelter",,51.594017,-1.002768,,,0,,,0
+340000564COM,,"Nettlebed, The Green",,51.57537,-0.988226,,,0,,,0
+340000400X,,"Highmoor Cross, Holly Close",,51.552789,-0.990011,,,0,,,0
+340000648OPP,,"Satwell, Pillar Box",,51.545597,-0.982873,,,0,,,0
+340001652EAS,,"Shepherds Green, Satwell Close",,51.543073,-0.976945,,,0,,,0
+340003253OUT,,"Sonning Common, Reddish Manor",,51.514136,-0.975748,,,0,,,0
+340001654OPP,,"Sonning Common, Bird Wood Court",,51.50951,-0.97212,,,0,,,0
+340001635OPP,,"Chalkhouse Green, Abbey Rugby Club",,51.499254,-0.964369,,,0,,,0
+039027580002,,"Emmer Green, Tower Close",,51.492946,-0.961833,,,0,,,0
+039027150001,,"Emmer Green, Rose Hill",,51.490611,-0.962203,,,0,,,0
+039028110002,,"Emmer Green, Courtenay Drive",,51.489089,-0.961834,,,0,,,0
+039026480003,,"Emmer Green, Kiln Road",,51.48576,-0.9607,,,0,,,0
+039025440001,,"Emmer Green, Cavendish Road",,51.483638,-0.962721,,,0,,,0
+039027520002,,"Emmer Green, The Pond",,51.48203,-0.963867,,,0,,,0
+039025370001,,"Emmer Green, Buckingham Drive",,51.479289,-0.965109,,,0,,,0
+039027400002,,"Emmer Green, Surley Row",,51.476614,-0.966639,,,0,,,0
+039025110002,,"Caversham, Balmore Drive",,51.473452,-0.967948,,,0,,,0
+039026770002,,"Caversham, Newlands Avenue",,51.471268,-0.969092,,,0,,,0
+039027000002,,"Caversham, Prospect Street",,51.468353,-0.971951,,,0,,,0
+039025600002,,"Caversham, Church Street",,51.467476,-0.973525,,,0,,,0
+039025290001,,"Caversham, Bridge Street",,51.466866,-0.97672,,,0,,,0
+039027500001,,"Reading, The Moderation",,51.464143,-0.976896,,,0,,,0
+039027410001,,"Reading, Swansea Road",,51.462654,-0.975303,,,0,,,0
+039025470001,,"Reading, Caversham Road Fire Station",,51.460231,-0.975875,,,0,,,0
+039026100002,,"Central Reading, Friar Street",,51.456665,-0.975207,,,0,,,0
+039028160001,,"Central Reading, Forbury Road",,51.457976,-0.969852,,,0,,,0
+039027410002,,"Reading, Swansea Road",,51.462647,-0.975505,,,0,,,0
+039027500002,,"Reading, The Moderation",,51.464571,-0.977549,,,0,,,0
+039025290002,,"Caversham, Bridge Street",,51.46649,-0.976959,,,0,,,0
+039025600001,,"Caversham, Church Street",,51.467763,-0.975491,,,0,,,0
+039027000001,,"Caversham, Prospect Street",,51.468594,-0.971744,,,0,,,0
+039026770001,,"Caversham, Newlands Avenue",,51.471466,-0.969174,,,0,,,0
+039025110001,,"Caversham, Balmore Drive",,51.47306,-0.968389,,,0,,,0
+039027400001,,"Emmer Green, Surley Row",,51.476983,-0.966602,,,0,,,0
+039025370002,,"Emmer Green, Buckingham Drive",,51.479165,-0.965299,,,0,,,0
+039027520001,,"Emmer Green, The Pond",,51.482246,-0.963934,,,0,,,0
+039025440002,,"Emmer Green, Cavendish Road",,51.483193,-0.963149,,,0,,,0
+039026480002,,"Emmer Green, Kiln Road",,51.487033,-0.961262,,,0,,,0
+039028110001,,"Emmer Green, Courtenay Drive",,51.489072,-0.962036,,,0,,,0
+039027150002,,"Emmer Green, Rose Hill",,51.491054,-0.962409,,,0,,,0
+340001635ENT,,"Chalkhouse Green, Abbey Rugby Club",,51.499173,-0.964429,,,0,,,0
+340001653OUT,,"Sonning Common, Bird Wood Court",,51.509728,-0.972475,,,0,,,0
+340003253OPP,,"Sonning Common, Reddish Manor",,51.514345,-0.975989,,,0,,,0
+340001652WES,,"Shepherds Green, Satwell Close",,51.542954,-0.976659,,,0,,,0
+340000648LAM,,"Satwell, Pillar Box",,51.545509,-0.983033,,,0,,,0
+340000400OPP,,"Highmoor Cross, Holly Close",,51.552791,-0.990184,,,0,,,0
+340000564K,,"Nettlebed, The Green",,51.575245,-0.98833,,,0,,,0
+340000603OPP,,"Park Corner, Turn Bus Shelter",,51.594056,-1.00307,,,0,,,0
+340000229OPP,,"Cookley Green, The Green Bus Shelter",,51.606157,-0.996582,,,0,,,0
+340000416XRD,,"Howe Hill, Crossroads",,51.614376,-0.991374,,,0,,,0
+340000715CHV,,"Stoke Row, Church View Bus Shelter",,51.551438,-1.022607,,,0,,,0
+340000299SE,,"Exlade Street, Exlade Street",,51.53268,-1.052088,,,0,,,0
+340023041WES,,"Gallowstree Common, Orchard Field",,51.516796,-1.002668,,,0,,,0
+340001644CNR,,"Gallowstree Common, Hazelmoor Lane",,51.516413,-1.005256,,,0,,,0
+340001644SOU,,"Gallowstree Common, Wood Lane",,51.51386,-1.009563,,,0,,,0
+340000430OPP,,"Kidmore End, St Johns Church",,51.508678,-0.994473,,,0,,,0
+340000178CNR,,"Chalkhouse, Green Lane",,51.497413,-0.981136,,,0,,,0
+039025490002,,"Emmer Green, Chalgrove Way",,51.484745,-0.964784,,,0,,,0
+039025490001,,"Emmer Green, Chalgrove Way",,51.48564,-0.965355,,,0,,,0
+340000178T,,"Chalkhouse, Green Lane",,51.497424,-0.98128,,,0,,,0
+340000430CHU,,"Kidmore End, St Johns Church",,51.508681,-0.994776,,,0,,,0
+340001644NOR,,"Gallowstree Common, Wood Lane",,51.513918,-1.010037,,,0,,,0
+340000299HIG,,"Exlade Street, Exlade Street",,51.532672,-1.052261,,,0,,,0
+340003301OPP,,"Highmoor Cross, Green",,51.553868,-0.992121,,,0,,,0
+340001640OPL,,"Hurdlers Green",,51.645868,-1.011965,,,0,,,0
+340001640PAD,,"Bucklands Paddock",,51.647088,-1.013673,,,0,,,0
+340000249OPP,,"The Half Moon",,51.652596,-1.034889,,,0,,,0
+340001724WST,,Marlbrook,,51.652531,-1.039067,,,0,,,0
+340001592OET,,"Gregory Estate",,51.653365,-1.0421,,,0,,,0
+340001593FAR,,"Fairfax Road",,51.664891,-1.074404,,,0,,,0
+340003279CNR,,"Church Lane",,51.665309,-1.077316,,,0,,,0
+340001678OPP,,"Stadhampton, Green",,51.684331,-1.127441,,,0,,,0
+340001692OF,,"Little Milton, Old Field",,51.706022,-1.10397,,,0,,,0
+340000474PO,,"Little Milton, Old Chapel",,51.702921,-1.105262,,,0,,,0
+340000472NTH,,"Little Haseley, Green",,51.700981,-1.073045,,,0,,,0
+340003280OPP,,"Great Haseley, Latchford Lane",,51.709392,-1.070153,,,0,,,0
+340001695OBT,,"Great Haseley, Back Way East",,51.711774,-1.072405,,,0,,,0
+340000356HC,,"Great Haseley, Horse Close Cottages",,51.711234,-1.07686,,,0,,,0
+340001696OBW,,"Great Haseley, Back Way West",,51.712087,-1.080157,,,0,,,0
+340003281OPP,,"Great Milton, Lych Gate Lane",,51.718019,-1.092645,,,0,,,0
+340001697OUT,,"Great Milton, The Bull",,51.720387,-1.089528,,,0,,,0
+340001467FUL,,"Great Milton, Fullers Field",,51.720569,-1.087541,,,0,,,0
+340001689FF,,"Great Milton, Chilworth Road",,51.720654,-1.085745,,,0,,,0
+340001690TRE,,"Great Milton, Thame Road",,51.720667,-1.082704,,,0,,,0
+340001720CDR,,"Milton Common, Old Three Pigeons",,51.725581,-1.054923,,,0,,,0
+340001985BS,,"Moreton, War Memorial",,51.736518,-0.994653,,,0,,,0
+340001658OPP,,"Lord Williams Upper School",,51.747386,-0.994441,,,0,,,0
+340000115OUS,,"Sycamore Drive",,51.748331,-0.988177,,,0,,,0
+340001657OUT,,"Cuttle Brook",,51.749467,-0.985428,,,0,,,0
+340001656OUT,,Museum,,51.749105,-0.980989,,,0,,,0
+340000749TH,,"Thame, Town Hall",,51.7475,-0.978374,,,0,,,0
+340000749OPP,,"Thame, Town Hall",,51.747711,-0.978906,,,0,,,0
+340001656OPP,,Museum,,51.749283,-0.981811,,,0,,,0
+340001657OPP,,"Cuttle Brook",,51.749403,-0.98527,,,0,,,0
+340000115WUS,,"Sycamore Drive",,51.747997,-0.989082,,,0,,,0
+340001658CNR,,"Lord Williams Upper School",,51.746963,-0.995349,,,0,,,0
+340001720ODR,,"Milton Common, Old Three Pigeons",,51.72557,-1.054691,,,0,,,0
+340001690TRW,,"Great Milton, Thame Road",,51.720576,-1.082605,,,0,,,0
+340001689OFF,,"Great Milton, Chilworth Road",,51.720564,-1.085732,,,0,,,0
+340001467OPF,,"Great Milton, Fullers Field",,51.720461,-1.087486,,,0,,,0
+340001697OPP,,"Great Milton, The Bull",,51.720349,-1.089326,,,0,,,0
+340003281CNR,,"Great Milton, Lych Gate Lane",,51.718237,-1.0917,,,0,,,0
+340022008MAN,,"Great Milton, Le Manoir",,51.715574,-1.091536,,,0,,,0
+340001696BWC,,"Great Haseley, Back Way West",,51.712104,-1.080041,,,0,,,0
+340000356OHC,,"Great Haseley, Horse Close Cottages",,51.71135,-1.076741,,,0,,,0
+340001695BT,,"Great Haseley, Back Way East",,51.711864,-1.072403,,,0,,,0
+340003280CNR,,"Great Haseley, Latchford Lane",,51.709336,-1.06998,,,0,,,0
+340000472WST,,"Little Haseley, Green",,51.700935,-1.073017,,,0,,,0
+340000474OPO,,"Little Milton, Old Chapel",,51.702895,-1.105479,,,0,,,0
+340001678OUT,,"Stadhampton, Green",,51.684276,-1.127326,,,0,,,0
+340003279OPP,,"Church Lane",,51.665252,-1.076927,,,0,,,0
+340001593OPF,,"Fairfax Road",,51.665328,-1.074033,,,0,,,0
+340001592ETN,,"Gregory Estate",,51.653147,-1.041786,,,0,,,0
+340001724EST,,Marlbrook,,51.652453,-1.038274,,,0,,,0
+340000249OUT,,"The Half Moon",,51.652677,-1.034887,,,0,,,0
+340001640PYL,,"Bucklands Paddock",,51.647086,-1.013499,,,0,,,0
+340003260OPP,,"Watlington, Shirburn Street Church",,51.645377,-1.003839,,,0,,,0
+340001649LLN,,"Watlington, Love Lane",,51.646901,-1.002201,,,0,,,0
+340001650ENT,,"Pyrton, Turn",,51.650791,-0.998675,,,0,,,0
+340001651CNR,,"Shirburn, Castle Road",,51.657138,-0.991192,,,0,,,0
+340000462T,,"Lewknor, Ye Olde Leathern Bottel",,51.671842,-0.968682,,,0,,,0
+340000687CNR,,"South Weston, Rectory Lane",,51.679269,-0.987272,,,0,,,0
+340000618NE,,"Postcombe, Salt Lane",,51.690114,-0.975008,,,0,,,0
+340003258CNR,,"Oak Farm Close",,51.707368,-1.003172,,,0,,,0
+340000747GRN,,"Tetsworth, The Green",,51.711042,-1.008085,,,0,,,0
+340000543WST,,"Common Cottage",,51.723978,-1.051322,,,0,,,0
+340000543EST,,"Common Cottage",,51.723859,-1.049964,,,0,,,0
+340000747SWA,,"Tetsworth, The Green",,51.711048,-1.007738,,,0,,,0
+340003258OPP,,"Oak Farm Close",,51.707622,-1.003413,,,0,,,0
+340000618SW,,"Postcombe, Salt Lane",,51.690068,-0.974865,,,0,,,0
+340000687OPP,,"South Weston, Rectory Lane",,51.67934,-0.987271,,,0,,,0
+340000462LB,,"Lewknor, Ye Olde Leathern Bottel",,51.671786,-0.96848,,,0,,,0
+340001651OPP,,"Shirburn, Castle Road",,51.656879,-0.991414,,,0,,,0
+340001650OPP,,"Pyrton, Turn",,51.650567,-0.998724,,,0,,,0
+340001649OPP,,"Watlington, Love Lane",,51.646552,-1.002411,,,0,,,0
+340003260OUT,,"Watlington, Shirburn Street Church",,51.645296,-1.003811,,,0,,,0
+036000000004,,"Pinkneys Green, Newlands Girls' School",,51.523025,-0.756628,,,0,,,0
+036000000002,,"Highway, Marlborough Road",,51.520199,-0.754745,,,0,,,0
+036006079079,,"Highway, Highway Avenue",,51.519077,-0.75492,,,0,,,0
+036006002059,,"Highway, Newlands Drive",,51.51923,-0.760911,,,0,,,0
+036006150150,,"Maidenhead, Thicket Corner",,51.518029,-0.767257,,,0,,,0
+036006152153,,"Maidenhead, Shire Horse PH",,51.51607,-0.776836,,,0,,,0
+036006154154,,"Littlewick Green, Westacott Way Roundabout",,51.515494,-0.781059,,,0,,,0
+036006156157,,"Littlewick Green, Green Lane",,51.515155,-0.791733,,,0,,,0
+036006002077,,"Knowl Hill, Frogmore Farm",,51.514642,-0.803968,,,0,,,0
+036006723724,,"Knowl Hill, Bottle Lane",,51.513266,-0.808413,,,0,,,0
+036006160160,,"Knowl Hill, Square Deal Cafe",,51.509126,-0.813363,,,0,,,0
+035090560002,,"Knowl Hill, Old Devil Inn",,51.506331,-0.81796,,,0,,,0
+035090540002,,"Knowl Hill, Bird In Hand",,51.503492,-0.820886,,,0,,,0
+035090520002,,"Kiln Green, Castle Royale Golf Club",,51.501096,-0.824924,,,0,,,0
+035090500002,,"Kiln Green, The Forge",,51.498925,-0.829936,,,0,,,0
+035090480002,,"Hare Hatch, Grange",,51.496947,-0.836253,,,0,,,0
+035090460002,,"Hare Hatch, Horse and Groom",,51.49451,-0.844425,,,0,,,0
+035091280002,,"Ruscombe, Twyford Orchards Caravan Park",,51.489071,-0.853709,,,0,,,0
+035091340002,,"Ruscombe, Northbury Farm Bridleway",,51.486354,-0.855376,,,0,,,0
+035091320002,,"Twyford, Pennfields",,51.483273,-0.859457,,,0,,,0
+035091300002,,"Twyford, Loddon Hall Road",,51.481522,-0.861502,,,0,,,0
+035091200002,,"Twyford, Springfield Park",,51.478891,-0.863771,,,0,,,0
+035091100003,,"Twyford, Waitrose",,51.477891,-0.865452,,,0,,,0
+035091100002,,"Twyford, Cross Roads",,51.47735,-0.86715,,,0,,,0
+035059870001,,"Twyford, Old Silk Mill",,51.47777,-0.870595,,,0,,,0
+035091060002,,"Twyford, Waggon and Horses",,51.478132,-0.872703,,,0,,,0
+035091040002,,"Charvil, Chiltern Drive",,51.477313,-0.883005,,,0,,,0
+035091020002,,"Charvil, Park View Drive South",,51.476299,-0.885031,,,0,,,0
+035090260004,,"Charvil, Wee Waif",,51.474518,-0.889768,,,0,,,0
+035090260002,,"Charvil, Milestone Avenue",,51.473803,-0.892161,,,0,,,0
+035090240002,,"Sonning, Model Farm",,51.471512,-0.895212,,,0,,,0
+035090220002,,"Sonning, Hawthorn Way",,51.46836,-0.903307,,,0,,,0
+035086680002,,"Butts Hill, Mustard Lane",,51.464835,-0.902283,,,0,,,0
+035085580001,,"Woodley, Ravensbourne Drive",,51.458042,-0.898977,,,0,,,0
+035085600001,,"Woodley, Wilmington Close",,51.455999,-0.89786,,,0,,,0
+035085620001,,"Woodley, Headley Road Circle",,51.454181,-0.899573,,,0,,,0
+035085640001,,"Woodley, Chequers",,51.453714,-0.907342,,,0,,,0
+035085660001,,"Woodley, Woodwaye",,51.453765,-0.908982,,,0,,,0
+035085680001,,"Woodley, Beaufield Close",,51.454055,-0.913062,,,0,,,0
+035085700001,,"Woodley, Chequers Way",,51.455124,-0.914865,,,0,,,0
+035085720001,,"Woodley, Howth Drive Top",,51.45815,-0.914419,,,0,,,0
+035085740001,,"Woodley, Hanwood Close",,51.458708,-0.917442,,,0,,,0
+035090160002,,"North Earley, Shepherds Hill Top",,51.458951,-0.920387,,,0,,,0
+035090140002,,"North Earley, Earley Power Station",,51.457844,-0.92607,,,0,,,0
+035090120002,,"North Earley, Shepherds House Lane",,51.456782,-0.930931,,,0,,,0
+035090100002,,"North Earley, London Road - The Drive",,51.455757,-0.934927,,,0,,,0
+039026570002,,"New Town, Liverpool Road",,51.45467,-0.941976,,,0,,,0
+039025550002,,"New Town, Cholmeley Road",,51.453961,-0.945159,,,0,,,0
+039025480001,,"Reading, Cemetery Junction",,51.453063,-0.951224,,,0,,,0
+039027450001,,"Reading, Reading College",,51.453545,-0.955862,,,0,,,0
+039025980001,,"Reading, Eldon Road",,51.453869,-0.960014,,,0,,,0
+039026050006,,"Reading, Huntley and Palmers",,51.455325,-0.962946,,,0,,,0
+039028160002,,"Central Reading, Forbury Road",,51.457897,-0.970098,,,0,,,0
+039028170001,,"Central Reading, Friar Street",,51.456646,-0.97099,,,0,,,0
+039028150002,,"Central Reading, Blagrave Street",,51.457629,-0.970378,,,0,,,0
+039025920002,,"Reading, Kings Road",,51.454995,-0.968321,,,0,,,0
+039026410005,,"Reading, Huntley and Palmers",,51.45506,-0.96144,,,0,,,0
+039025980002,,"Reading, Eldon Road",,51.453854,-0.957251,,,0,,,0
+039027450002,,"Reading, Reading College",,51.453451,-0.95346,,,0,,,0
+039025480003,,"Reading, Cemetery Junction",,51.453096,-0.949871,,,0,,,0
+039025550001,,"New Town, Cholmeley Road",,51.453695,-0.946561,,,0,,,0
+039026570001,,"New Town, Liverpool Road",,51.454991,-0.940702,,,0,,,0
+035090100001,,"North Earley, London Road - The Drive",,51.456132,-0.934631,,,0,,,0
+035090120001,,"North Earley, Shepherds House Lane",,51.456976,-0.931459,,,0,,,0
+035090140001,,"North Earley, Earley Power Station",,51.458059,-0.926007,,,0,,,0
+035090160001,,"North Earley, Shepherds Hill Top",,51.459368,-0.921644,,,0,,,0
+035085740002,,"Woodley, Hanwood Close",,51.458825,-0.917368,,,0,,,0
+035085720002,,"Woodley, Howth Drive Top",,51.457616,-0.914057,,,0,,,0
+035085700002,,"Woodley, Chequers Way",,51.455715,-0.914678,,,0,,,0
+035085680002,,"Woodley, Beaufield Close",,51.454176,-0.913477,,,0,,,0
+035085660002,,"Woodley, Woodwaye",,51.453932,-0.909539,,,0,,,0
+035085640002,,"Woodley, Chequers",,51.453721,-0.905154,,,0,,,0
+035085620002,,"Woodley, Headley Road Circle",,51.454248,-0.899068,,,0,,,0
+035085600002,,"Woodley, Wilmington Close",,51.456181,-0.898057,,,0,,,0
+035086680001,,"Butts Hill, Mustard Lane",,51.464539,-0.902434,,,0,,,0
+035090220001,,"Sonning, Hawthorn Way",,51.46869,-0.902996,,,0,,,0
+035090240001,,"Sonning, Model Farm",,51.471659,-0.895482,,,0,,,0
+035090260003,,"Charvil, Wee Waif",,51.474746,-0.889187,,,0,,,0
+035091020001,,"Charvil, Park View Drive South",,51.476114,-0.885496,,,0,,,0
+035091040001,,"Charvil, Chiltern Drive",,51.477705,-0.882563,,,0,,,0
+035091060001,,"Twyford, Waggon and Horses",,51.478218,-0.872298,,,0,,,0
+035059870002,,"Twyford, Old Silk Mill",,51.477822,-0.870378,,,0,,,0
+035091100001,,"Twyford, Waitrose",,51.478044,-0.865477,,,0,,,0
+035091200001,,"Twyford, Springfield Park",,51.479079,-0.863694,,,0,,,0
+035091300001,,"Twyford, Loddon Hall Road",,51.481845,-0.861436,,,0,,,0
+035091320001,,"Twyford, Pennfields",,51.483497,-0.859336,,,0,,,0
+035091280001,,"Ruscombe, Twyford Orchards Caravan Park",,51.489484,-0.853612,,,0,,,0
+035090460001,,"Hare Hatch, Horse and Groom",,51.494716,-0.846149,,,0,,,0
+035090480001,,"Hare Hatch, Grange",,51.497285,-0.835913,,,0,,,0
+035090500001,,"Hare Hatch, The Forge",,51.499034,-0.83002,,,0,,,0
+035090520001,,"Kiln Green, Castle Royale Golf Club",,51.500994,-0.825532,,,0,,,0
+035090540001,,"Knowl Hill, Bird In Hand",,51.504495,-0.820414,,,0,,,0
+036006161161,,"Knowl Hill, Square Deal Cafe",,51.508221,-0.815447,,,0,,,0
+036006723723,,"Knowl Hill, Bottle Lane",,51.513208,-0.808919,,,0,,,0
+036006723725,,"Knowl Hill, Frogmore Farm",,51.514711,-0.804571,,,0,,,0
+036006156156,,"Littlewick Green, Green Lane",,51.515325,-0.791642,,,0,,,0
+036006154155,,"Littlewick Green, Westacott Way Roundabout",,51.515628,-0.784443,,,0,,,0
+036006001074,,"Maidenhead, Shire Horse PH",,51.516274,-0.776542,,,0,,,0
+036006150151,,"Maidenhead, Thicket Corner",,51.51803,-0.768208,,,0,,,0
+036006001059,,"Highway, Newlands Drive",,51.519346,-0.759957,,,0,,,0
+036000000001,,"Highway, Marlborough Road",,51.520381,-0.754913,,,0,,,0
+036000000003,,"Pinkneys Green, Newlands Girls' School",,51.523497,-0.756269,,,0,,,0
+036006001045,,"Pinkneys Green, Farm Road",,51.524686,-0.75308,,,0,,,0
+040000002922,,"Seymour Court Road",,51.578849,-0.781761,,,0,,,0
+040000003766,,"Marlow, Dean Street",,51.575032,-0.778775,,,0,,,0
+040000003764,,"Marlow, Dean Street Car Park",,51.573845,-0.777017,,,0,,,0
+040000003922,,"Marlow, High Street",,51.571101,-0.77598,,,0,,,0
+040000003945,,"Marlow, Court Garden Leisure Centre",,51.568392,-0.776601,,,0,,,0
+040000003708,,"Marlow, Sunnybank",,51.581518,-0.779871,,,0,,,0
+040000002975,,"Marlow, Sandygate Road",,51.577655,-0.780191,,,0,,,0
+040000003770,,"Marlow, West Street",,51.570934,-0.779015,,,0,,,0
+040000003186,,"Marlow, Terrington Hill",,51.573217,-0.788448,,,0,,,0
+040000003706,,"Marlow, Pound Lane",,51.566401,-0.784907,,,0,,,0
+040000002924,,"Marlow, Pound Lane",,51.566157,-0.784813,,,0,,,0
+040000003312,,"Marlow, Terrington Hill",,51.57329,-0.788562,,,0,,,0
+040000003768,,"Marlow, Queens Road",,51.574945,-0.780754,,,0,,,0
+040000002921,,"Seymour Court Road",,51.578896,-0.781933,,,0,,,0
+040000003954,,"Frieth, Hayles Field",,51.605184,-0.853965,,,0,,,0
+040000002915,,Crossroads,,51.606553,-0.846782,,,0,,,0
+040000003538,,"Church Road",,51.612219,-0.840501,,,0,,,0
+040000003540,,"Ditchfield Common",,51.616669,-0.836805,,,0,,,0
+040000003542,,"The Old Sun PH",,51.618558,-0.835991,,,0,,,0
+040000003752,,"Marlow, Spittal Street",,51.573873,-0.774506,,,0,,,0
+040000003750,,"Marlow, Foxes Piece",,51.575719,-0.77131,,,0,,,0
+040000003748,,"Marlow, Britannia",,51.57855,-0.766962,,,0,,,0
+040000003767,,"Marlow, Britannia",,51.578805,-0.765527,,,0,,,0
+040000003769,,"Marlow, Foxes Piece",,51.575521,-0.771301,,,0,,,0
+040000003771,,"Marlow, Waitrose",,51.573272,-0.775489,,,0,,,0
+040000003541,,"Ditchfield Common",,51.616381,-0.836784,,,0,,,0
+040000003539,,"Church Road",,51.61204,-0.840664,,,0,,,0
+040000003409,,"Cressex, Marlow Road",,51.614965,-0.768474,,,0,,,0
+040000003755,,"Marlow Bottom, The Blacksmiths' Arms PH",,51.608255,-0.770837,,,0,,,0
+040000003757,,"Marlow Bottom, Burroughs Grove Hill",,51.600176,-0.769568,,,0,,,0
+040000003759,,"The Three Horseshoes PH",,51.593741,-0.766407,,,0,,,0
+040000002437,,"Marlow Bottom, Hill Farm Road",,51.586207,-0.770003,,,0,,,0
+040000002435,,"Marlow Bottom, Patches Field",,51.586287,-0.771617,,,0,,,0
+040000003758,,"Marlow Bottom, Post Office",,51.586637,-0.775794,,,0,,,0
+040000003760,,"Marlow Bottom, Burford School",,51.587295,-0.781218,,,0,,,0
+040000003762,,"Marlow Bottom, Squirrel Rise",,51.590693,-0.783653,,,0,,,0
+040000005002,,"Marlow Bottom, Highwoods Drive",,51.592722,-0.785071,,,0,,,0
+040000005785,,"Marlow Bottom, Badgers Way",,51.59552,-0.782658,,,0,,,0
+040000003787,,"Marlow Bottom, High Heavens Wood",,51.598967,-0.783013,,,0,,,0
+040000003785,,"Marlow Bottom, Badgers Way",,51.595375,-0.782546,,,0,,,0
+040000005006,,"Marlow Bottom, Highwoods Drive",,51.592702,-0.784884,,,0,,,0
+040000003783,,"Marlow Bottom, Squirrel Rise",,51.590613,-0.782919,,,0,,,0
+040000003781,,"Marlow Bottom, Burford School",,51.588058,-0.781024,,,0,,,0
+040000003779,,"Marlow Bottom, Post Office",,51.586807,-0.775717,,,0,,,0
+040000002436,,"Marlow Bottom, Patches Field",,51.58637,-0.771759,,,0,,,0
+040000003777,,"Marlow Bottom, Hill Farm Road",,51.586232,-0.769771,,,0,,,0
+040000003761,,"Marlow Bottom, Wycombe Road",,51.585186,-0.766075,,,0,,,0
+040000003775,,"Marlow, Gypsy Lane",,51.581254,-0.76751,,,0,,,0
+040000003181,,"Marlow, Hillside Road",,51.58164,-0.77092,,,0,,,0
+040000002917,,"Marlow, Seymour Park Road",,51.579258,-0.777868,,,0,,,0
+040000003029,,"Marlow, High Street",,51.57084,-0.775944,,,0,,,0
+040000002916,,"Marlow, Seymour Park Road",,51.579349,-0.777938,,,0,,,0
+040000003314,,"Marlow, Hillside Road",,51.581749,-0.77096,,,0,,,0
+040000003740,,"Marlow Bottom, Wycombe Road",,51.585465,-0.766905,,,0,,,0
+040000003738,,"Marlow Bottom, The Three Horseshoes PH",,51.59456,-0.766543,,,0,,,0
+040000003736,,"Marlow Bottom, Burroughs Grove Hill",,51.600737,-0.76987,,,0,,,0
+040000003734,,"Marlow Bottom, The Blacksmiths' Arms PH",,51.608806,-0.771111,,,0,,,0
+040000003394,,"Cressex, Marlow Road",,51.616031,-0.768099,,,0,,,0
+040000003408,,"High Wycombe, Carver Hill Road",,51.623212,-0.766055,,,0,,,0
+040000003410,,"High Wycombe, The Wendover Arms PH",,51.626851,-0.764945,,,0,,,0
+040000003412,,"High Wycombe, Plumer Road",,51.629045,-0.764048,,,0,,,0
+040000003414,,"High Wycombe, West End Road",,51.631548,-0.76268,,,0,,,0
+040000003746,,"Marlow, Little Marlow Road",,51.580531,-0.760342,,,0,,,0
+040000003958,,"Little Marlow, Pump Lane South",,51.581786,-0.754881,,,0,,,0
+040000003927,,"Little Marlow, Winchbottom Lane",,51.584085,-0.748698,,,0,,,0
+040000003919,,"Little Marlow, Church Road",,51.585759,-0.74207,,,0,,,0
+040000003965,,"Little Marlow, Fern Lane",,51.586704,-0.730511,,,0,,,0
+040000003967,,"Bourne End, Sheepridge Lane",,51.586108,-0.726097,,,0,,,0
+040000003966,,"Bourne End, Sheepridge Lane",,51.585898,-0.725785,,,0,,,0
+040000003964,,"Little Marlow, Fern Lane",,51.586529,-0.730126,,,0,,,0
+040000003920,,"Little Marlow, Church Road",,51.585623,-0.742031,,,0,,,0
+040000003898,,"Little Marlow, Winchbottom Lane",,51.583923,-0.748674,,,0,,,0
+040000003953,,"Little Marlow, Westhorpe Caravan Park",,51.577996,-0.75028,,,0,,,0
+040000003959,,"Little Marlow, Pump Lane South",,51.581472,-0.754918,,,0,,,0
+040000002438,,"Marlow, Little Marlow Road",,51.58045,-0.760315,,,0,,,0
+040000003744,,"Marlow, Wiltshire Road",,51.58144,-0.761255,,,0,,,0
+040000003742,,"Marlow, Churchill Drive",,51.583777,-0.762014,,,0,,,0
+040000003709,,"Marlow, Oak Tree Road",,51.579096,-0.773572,,,0,,,0
+040000003921,,"Marlow, Liston Street",,51.573068,-0.774975,,,0,,,0
+040000002679,,"South Heath, Potter Row",,51.709025,-0.686073,,,0,,,0
+040000002681,,"South Heath, Marriotts Avenue",,51.710954,-0.680908,,,0,,,0
+040000002683,,"South Heath, Herbert's Hole",,51.71273,-0.678149,,,0,,,0
+040000002685,,"South Heath, Ballinger Bottom",,51.713515,-0.678344,,,0,,,0
+040000002687,,"Ballinger Common, Ballinger Farm",,51.716058,-0.680571,,,0,,,0
+040000002689,,"Ballinger Common, Blackthorne Lane",,51.71895,-0.681138,,,0,,,0
+040000002691,,"Ballinger Common, Chiltern Road",,51.720217,-0.681,,,0,,,0
+040000002693,,"Lee Common, Sly Corner",,51.725543,-0.681338,,,0,,,0
+040000002695,,"Lee Common, Oxford Street",,51.727894,-0.682428,,,0,,,0
+040000002697,,"Lee Common, Princes Lane",,51.729547,-0.687158,,,0,,,0
+040000002083,,"The Lee, St John's Church",,51.730646,-0.699449,,,0,,,0
+040000002084,,"Swan Bottom, Crossroads",,51.738526,-0.6965,,,0,,,0
+040000002812,,"The Lee, Gwenfa Farm",,51.734582,-0.684738,,,0,,,0
+040000002817,,"The Lee, Grove Wood",,51.733584,-0.679887,,,0,,,0
+040000002810,,"Chartridge, Cherry Tree Farm",,51.732534,-0.667363,,,0,,,0
+040000002808,,"Chartridge, Chartridge Lodge",,51.729565,-0.661629,,,0,,,0
+040000002836,,"Chesham, Eskdale Avenue",,51.710589,-0.60344,,,0,,,0
+040000002821,,"Chesham, Pednormead End",,51.70361,-0.616216,,,0,,,0
+040000002232,,"Chesham, Chessbury",,51.701419,-0.620291,,,0,,,0
+040000002819,,"Hyde Heath, Hyde End",,51.702159,-0.668053,,,0,,,0
+040000002677,,"South Heath, Wood Lane",,51.707054,-0.684307,,,0,,,0
+040000002765,,"Chesham, Berkeley Avenue",,51.7129,-0.627093,,,0,,,0
+040000002767,,"Chesham, Chartridge Lane",,51.715128,-0.631498,,,0,,,0
+040000002807,,"Chartridge, Chartridge Lodge",,51.730006,-0.662485,,,0,,,0
+040000002809,,"Chartridge, Cherry Tree Farm",,51.73252,-0.667653,,,0,,,0
+040000002811,,"The Lee, Grove Wood",,51.733511,-0.680613,,,0,,,0
+040000002085,,"Swan Bottom, Crossroads",,51.738524,-0.696355,,,0,,,0
+040000002082,,"The Lee, St John's Church",,51.7305,-0.69925,,,0,,,0
+040000002696,,"Lee Common, Princes Lane",,51.72966,-0.687589,,,0,,,0
+040000002694,,"Lee Common, Oxford Street",,51.728186,-0.683679,,,0,,,0
+040000002692,,"Lee Common, Sly Corner",,51.725263,-0.681143,,,0,,,0
+040000002688,,"Ballinger Common, Blackthorne Lane",,51.719147,-0.681046,,,0,,,0
+040000002686,,"Ballinger Common, Ballinger Farm",,51.716021,-0.680471,,,0,,,0
+040000002684,,"South Heath, Ballinger Bottom",,51.713715,-0.678555,,,0,,,0
+040000002680,,"South Heath, Marriotts Avenue",,51.710453,-0.681892,,,0,,,0
+040000002678,,"South Heath, Potter Row",,51.708576,-0.686101,,,0,,,0
+040000002818,,"Hyde Heath, Hyde End",,51.702258,-0.668064,,,0,,,0
+040000002231,,"Chesham, Chessbury",,51.701491,-0.620289,,,0,,,0
+040000002820,,"Chesham, Pednormead End",,51.704087,-0.615478,,,0,,,0
+340001299OK2,,"Chinnor, Red Kite Road",,51.695757,-0.908672,,,0,,,0
+340001299CSE,,"Chinnor Railway Station",,51.697884,-0.905394,,,0,,,0
+340001705CNB,,"Chinnor, Meadow Road",,51.699341,-0.9064,,,0,,,0
+340001708OPL,,"Chinnor, Duck Square",,51.702692,-0.910965,,,0,,,0
+340001662NOR,,"Chinnor, Thame Road Shops",,51.704903,-0.913719,,,0,,,0
+340001622CHT,,"Chinnor, Cherry Tree Road",,51.703923,-0.914741,,,0,,,0
+340001629CNR,,"Chinnor, Estover Way",,51.702644,-0.918404,,,0,,,0
+340001623HCF,,"Chinnor, Hailey Croft",,51.70165,-0.918818,,,0,,,0
+340001624STH,,"Chinnor, Cowleaze",,51.699001,-0.917261,,,0,,,0
+340003240OUT,,"Chinnor, The Wheatsheaf",,51.697661,-0.917177,,,0,,,0
+340001642OPP,,"Chinnor, Glimbers Grove",,51.698231,-0.915615,,,0,,,0
+340001643OPP,,"Chinnor, Glynswood",,51.699947,-0.911624,,,0,,,0
+340001626OPP,,"Chinnor, Village Hall",,51.701461,-0.908115,,,0,,,0
+340001627OUT,,"Chinnor, The Village Centre",,51.70282,-0.905376,,,0,,,0
+340001643OPD,,"Chinnor, The Red Lion",,51.705695,-0.907984,,,0,,,0
+340001396ELN,,"Chinnor, Elderdene",,51.70739,-0.905613,,,0,,,0
+340001661RFN,,"Chinnor, Rushland Field",,51.709833,-0.899548,,,0,,,0
+340022025EAS,,"Henton, Turn",,51.711937,-0.894792,,,0,,,0
+040000003024,,"Bledlow, Skittle Green",,51.717105,-0.883115,,,0,,,0
+040000003064,,"Bledlow, Village Hall",,51.72091,-0.874784,,,0,,,0
+040000002997,,"Longwick, Chestnut Way (Northbound)",,51.733999,-0.855851,,,0,,,0
+040000HAR414,,"Longwick, Red Lion Longwick",,51.73584,-0.856528,,,0,,,0
+040000HAR416,,"Longwick, Lower Icknield Way",,51.733493,-0.852822,,,0,,,0
+040000002996,,"Princes Risborough, Park Mill",,51.723832,-0.846899,,,0,,,0
+040000002994,,"Princes Risborough, Summerleys Road",,51.719762,-0.842674,,,0,,,0
+040000003684,,"Princes Risborough, Railway Station",,51.71767,-0.843915,,,0,,,0
+040000002993,,"Princes Risborough, Summerleys Road",,51.719772,-0.84279,,,0,,,0
+040000002995,,"Princes Risborough, Park Mill",,51.723725,-0.847003,,,0,,,0
+040000003065,,"Bledlow, Village Hall",,51.720123,-0.876179,,,0,,,0
+040000003023,,"Bledlow, Skittle Green",,51.717085,-0.882942,,,0,,,0
+340022025WES,,"Henton, Turn",,51.711785,-0.894854,,,0,,,0
+340001661RFS,,"Chinnor, Rushland Field",,51.709329,-0.900399,,,0,,,0
+340001396ELE,,"Chinnor, Elderdene",,51.707062,-0.906127,,,0,,,0
+340000041OSP,,"Chinnor, Springfield Gardens",,51.705476,-0.910536,,,0,,,0
+340001705CSB,,"Chinnor, Meadow Road",,51.699485,-0.906382,,,0,,,0
+340001299CSW,,"Chinnor, Railway Station",,51.697712,-0.905311,,,0,,,0
+03700074,,"Langley, St Bernards Convent",,51.504969,-0.573352,,,0,,,0
+03700077,,"Langley, Kaywood Close",,51.502712,-0.56815,,,0,,,0
+03700141,,"Langley, Upton Court Road Junction",,51.501693,-0.564277,,,0,,,0
+03700143,,"Langley, Ryvers School",,51.502816,-0.560524,,,0,,,0
+03700144,,"Langley, Meadow Lane",,51.502229,-0.557402,,,0,,,0
+03700146,,"Langley, Trelawney Avenue Library",,51.501573,-0.55372,,,0,,,0
+03700149,,"Langley, Spencer Road South",,51.500699,-0.549209,,,0,,,0
+03700478,,"Langley, Trelawney Ave",,51.501345,-0.548382,,,0,,,0
+03700493,,"Langley, Langley Road",,51.50358,-0.547389,,,0,,,0
+03700117,,"Langley, Harrow Market",,51.504674,-0.54417,,,0,,,0
+03700124,,"Langley, Railway Station",,51.506776,-0.54331,,,0,,,0
+040000001801,,"Shreding Green, Sawyers Green Farm",,51.511201,-0.540474,,,0,,,0
+040000001803,,"Shreding Green, Billet Lane",,51.514677,-0.536587,,,0,,,0
+040000001805,,"Shreding Green, Lossie Drive",,51.517312,-0.530075,,,0,,,0
+040000001807,,"Shreding Green, The Red Lion PH",,51.5182,-0.527812,,,0,,,0
+040000001809,,"Iver, Langley Park Road",,51.519356,-0.521736,,,0,,,0
+040000001811,,"Iver, Post Office",,51.520111,-0.516767,,,0,,,0
+040000001813,,"Iver, Junior School",,51.520925,-0.51357,,,0,,,0
+040000001815,,"Iver, King's Church",,51.520732,-0.508286,,,0,,,0
+040000001817,,"Iver, Evreham Road",,51.522762,-0.508811,,,0,,,0
+040000001819,,"Iver, Love Green Lane",,51.527009,-0.513963,,,0,,,0
+040000001839,,"Iver Heath, Chandlers Hill",,51.538867,-0.508112,,,0,,,0
+040000001841,,"Iver Heath, Slough Road",,51.540115,-0.498784,,,0,,,0
+490005689E,,"Uxbridge Moor, Cowley Mill Road St Johns Road",,51.540768,-0.492231,,,0,,,0
+490011604N,,"Uxbridge Moor, Riverside Way",,51.542382,-0.489019,,,0,,,0
+490011621N,,"Uxbridge, Rockingham Road",,51.544164,-0.487057,,,0,,,0
+490005845P,,"Uxbridge, Crown Walk",,51.545744,-0.482721,,,0,,,0
+490000246O,,"Uxbridge, Underground Station",,51.5473,-0.479294,,,0,,,0
+490010686Q,,"Uxbridge, Crown Walk",,51.545767,-0.482403,,,0,,,0
+490010267S,,"Uxbridge, Hows Road",,51.544578,-0.483639,,,0,,,0
+490011621S,,"Uxbridge, Rockingham Road",,51.543868,-0.487153,,,0,,,0
+490011604S,,"Uxbridge Moor, Riverside Way",,51.54195,-0.489048,,,0,,,0
+490005689S,,"Uxbridge Moor, Cowley Mill Road St Johns Road",,51.540753,-0.491077,,,0,,,0
+040000001842,,"Iver Heath, Slough Road",,51.540192,-0.497816,,,0,,,0
+040000001840,,"Iver Heath, Chandlers Hill",,51.538391,-0.508156,,,0,,,0
+040000001820,,"Iver, Love Green Lane",,51.527415,-0.514079,,,0,,,0
+040000001818,,"Iver, Evreham Road",,51.523175,-0.508769,,,0,,,0
+040000001816,,"Iver, King's Church",,51.520602,-0.50868,,,0,,,0
+040000001814,,"Iver, Junior School",,51.520744,-0.512783,,,0,,,0
+040000001812,,"Iver, Post Office",,51.51995,-0.51683,,,0,,,0
+040000001810,,"Iver, Langley Park Road",,51.519233,-0.521941,,,0,,,0
+040000001808,,"Shreding Green, The Red Lion PH",,51.518423,-0.526911,,,0,,,0
+040000001806,,"Shreding Green, Lossie Drive",,51.516767,-0.531087,,,0,,,0
+040000001804,,"Shreding Green, Billet Lane",,51.515677,-0.533802,,,0,,,0
+040000001802,,"Shreding Green, Sawyers Green Farm",,51.510691,-0.540707,,,0,,,0
+03700122,,"Langley, Railway Station",,51.506167,-0.543517,,,0,,,0
+03700492,,"Langley, Langley Road",,51.5033,-0.547282,,,0,,,0
+03700419,,"Langley, Hampden Road",,51.502049,-0.547913,,,0,,,0
+03700479,,"Langley, Trelawney Ave",,51.50094,-0.548409,,,0,,,0
+03700148,,"Langley, Spencer Road South",,51.500713,-0.549684,,,0,,,0
+03700147,,"Langley, Trelawney Avenue Library",,51.501476,-0.553925,,,0,,,0
+03700145,,"Langley, Meadow Lane",,51.501972,-0.556935,,,0,,,0
+03700142,,"Langley, Ryvers School",,51.502851,-0.561172,,,0,,,0
+03700078,,"Langley, Upton Court Road Junction",,51.501234,-0.565689,,,0,,,0
+03700076,,"Langley, Kaywood Close",,51.503114,-0.569405,,,0,,,0
+03700075,,"Langley, St Bernards Convent",,51.504666,-0.572843,,,0,,,0
+040000001350,,"Higher Denham, Community Centre",,51.578584,-0.515846,,,0,,,0
+040000001312,,"Denham, Old Rectory Lane",,51.575295,-0.503932,,,0,,,0
+040000001352,,"Denham Green, Tilehouse Lane",,51.578125,-0.505889,,,0,,,0
+040000001355,,"Denham Green, Alex Korda House",,51.582271,-0.505911,,,0,,,0
+040000001354,,"Denham Green, Tilehouse Combined School",,51.583276,-0.505041,,,0,,,0
+040000001351,,"Denham Green, Wyatts Covert",,51.593458,-0.50885,,,0,,,0
+040000001356,,"Denham Green, Garden Village",,51.585113,-0.501704,,,0,,,0
+040000001317,,"Denham Green, Penn Drive",,51.581566,-0.502802,,,0,,,0
+040000001313,,"Denham, Station Parade",,51.57959,-0.500169,,,0,,,0
+040000001311,,"Denham, Old Rectory Lane",,51.575203,-0.503791,,,0,,,0
+040000001309,,"Denham, Village Road",,51.571296,-0.504886,,,0,,,0
+040000001363,,"Denham, Cheapside Lane",,51.568795,-0.501938,,,0,,,0
+040000001364,,"Denham, Ashmead Lane",,51.571125,-0.501313,,,0,,,0
+040000001357,,"Denham, Memorial Hall",,51.571877,-0.501793,,,0,,,0
+040000001361,,"Denham, St Mary's Church",,51.572194,-0.496992,,,0,,,0
+040000001359,,"Denham, Priory Close",,51.565109,-0.497788,,,0,,,0
+040000001349,,"Denham, Priory Close",,51.565057,-0.497934,,,0,,,0
+040000001362,,"Denham, St Mary's Church",,51.572297,-0.497321,,,0,,,0
+040000001358,,"Denham, Memorial Hall",,51.571899,-0.502052,,,0,,,0
+040000001310,,"Denham, Village Road",,51.571722,-0.505088,,,0,,,0
+040000001246,,"Hedgerley, Stevenson Road",,51.572746,-0.603541,,,0,,,0
+040000001245,,"Hedgerley, Jones Way",,51.57141,-0.601634,,,0,,,0
+040000001247,,"Hedgerley, Village Green",,51.570773,-0.60402,,,0,,,0
+040000001249,,"Hedgerley, The One Pin PH",,51.567192,-0.605327,,,0,,,0
+040000001251,,"Hedgerley, Mayflower Way",,51.564532,-0.610068,,,0,,,0
+03700073,,"Slough, Diamond Road",,51.509383,-0.583647,,,0,,,0
+03700071,,"Upton Lea, Akzo Nobel",,51.512178,-0.582768,,,0,,,0
+03700063,,"Upton Lea, St Pauls Avenue",,51.513924,-0.581403,,,0,,,0
+040000001092,,"Wexham Court, Wexham School",,51.526072,-0.57177,,,0,,,0
+040000001094,,"Wexham Court, Welden",,51.522747,-0.569727,,,0,,,0
+040000001096,,"George Green, Uxbridge Road",,51.521661,-0.563966,,,0,,,0
+04000HAR5038,,"George Green, Blinco Lane",,51.522027,-0.556431,,,0,,,0
+040000001098,,"George Green, Middle Green",,51.513286,-0.557831,,,0,,,0
+03700425,,"Langley, The Chestnuts",,51.507243,-0.55416,,,0,,,0
+03700422,,"Langley, Red Lion",,51.505406,-0.553959,,,0,,,0
+03700104,,"Langley, Parlaunt Road Church",,51.499884,-0.540821,,,0,,,0
+040000001851,,"Richings Park, Golf Club",,51.501487,-0.523034,,,0,,,0
+04000HAR9003,,"Richings Park, Richings Place",,51.50244,-0.512327,,,0,,,0
+04000HAR9004,,"Richings Park, Richings Way",,51.503146,-0.504942,,,0,,,0
+040000005037,,"Richings Park, Thorney Lane South",,51.504995,-0.502561,,,0,,,0
+040000001843,,"Richings Park, Bathurst Walk",,51.50777,-0.504358,,,0,,,0
+040000001847,,"Iver, The Fox & Pheasant PH",,51.51666,-0.503461,,,0,,,0
+040000001846,,"Iver, Tower House",,51.519762,-0.510509,,,0,,,0
+040000001850,,"Iver, Croft House",,51.522365,-0.514373,,,0,,,0
+040000001831,,"Iver Heath, The Parkway",,51.540476,-0.523705,,,0,,,0
+040000001833,,"Iver Heath, St David's Close",,51.541757,-0.518991,,,0,,,0
+040000001835,,"Iver Heath, Trewarden Avenue",,51.539284,-0.51688,,,0,,,0
+040000001837,,"Iver Heath, The Black Horse PH",,51.537314,-0.515415,,,0,,,0
+490013969B,,"Uxbridge, High Street",,51.547965,-0.481291,,,0,,,0
+040000001838,,"Iver Heath, The Black Horse PH",,51.537814,-0.51586,,,0,,,0
+040000001836,,"Iver Heath, Trewarden Avenue",,51.540922,-0.518427,,,0,,,0
+040000001834,,"Iver Heath, St David's Close",,51.54272,-0.519811,,,0,,,0
+040000001832,,"Iver Heath, The Parkway",,51.539426,-0.524575,,,0,,,0
+040000001830,,"Iver Heath, British Legion",,51.536876,-0.527729,,,0,,,0
+040000001845,,"Iver, Chequers Orchard",,51.520619,-0.507122,,,0,,,0
+040000001848,,"Iver, The Fox & Pheasant PH",,51.517279,-0.503326,,,0,,,0
+040000001844,,"Richings Park, Richings Park",,51.507783,-0.504026,,,0,,,0
+040000005040,,"Richings Park, Thorney Lane South",,51.504921,-0.50242,,,0,,,0
+03700103,,"Langley, Parlaunt Road Church",,51.499768,-0.540897,,,0,,,0
+03700423,,"Langley, Red Lion",,51.505588,-0.554126,,,0,,,0
+03700424,,"Langley, The Chestnuts",,51.507255,-0.554376,,,0,,,0
+040000001099,,"George Green, Middle Green",,51.513412,-0.55787,,,0,,,0
+040000001097,,"George Green, Blinco Lane",,51.522002,-0.55659,,,0,,,0
+040000001095,,"George Green, Uxbridge Road",,51.521912,-0.561724,,,0,,,0
+040000001093,,"Wexham Court, Welden",,51.522484,-0.56949,,,0,,,0
+040000001091,,"Wexham Court, Wexham School",,51.526481,-0.572132,,,0,,,0
+03700062,,"Upton Lea, Lea School",,51.515463,-0.579279,,,0,,,0
+03700064,,"Upton Lea, St Pauls Avenue",,51.513251,-0.581524,,,0,,,0
+03700070,,"Upton Lea, Akzo Nobel",,51.512069,-0.582671,,,0,,,0
+03700072,,"Slough, Diamond Road",,51.509265,-0.583521,,,0,,,0
+040000001252,,"Hedgerley, Mayflower Way",,51.564638,-0.609906,,,0,,,0
+040000001250,,"Hedgerley, The One Pin PH",,51.567247,-0.605426,,,0,,,0
+040000001248,,"Hedgerley, Village Green",,51.570102,-0.6043,,,0,,,0
+040000001269,,"Hedgerley, Hedgerley Hill",,51.571601,-0.604095,,,0,,,0
+040000001194,,"Beaconsfield, Wilton Road",,51.615643,-0.640053,,,0,,,0
+040000001192,,"Beaconsfield, Sandelswood End",,51.615009,-0.644318,,,0,,,0
+040000001190,,"Beaconsfield, Penn Road",,51.613858,-0.6474,,,0,,,0
+040000003833,,"Loudwater, Station Road",,51.606718,-0.700754,,,0,,,0
+040000003887,,"Flackwell Heath, Swains Lane",,51.602669,-0.707873,,,0,,,0
+040000005000,,"Flackwell Heath, Fernlea Close",,51.603948,-0.714609,,,0,,,0
+040000003866,,"Flackwell Heath, The Stag PH",,51.604722,-0.717085,,,0,,,0
+040000003893,,"Flackwell Heath, Rugwood Road",,51.605423,-0.718711,,,0,,,0
+040000003868,,"Flackwell Heath, Bucks College Group",,51.606322,-0.722051,,,0,,,0
+040000003424,,"High Wycombe, St Michael's School",,51.618475,-0.753415,,,0,,,0
+040000003939,,"High Wycombe, Marlow Hill Schools",,51.619163,-0.760647,,,0,,,0
+040000003435,,"High Wycombe, St Michael's School",,51.618536,-0.753211,,,0,,,0
+040000005024,,"High Wycombe, Pine Trees",,51.616352,-0.748302,,,0,,,0
+040000003872,,"Flackwell Heath, Bucks College Group",,51.606328,-0.721733,,,0,,,0
+040000003892,,"Flackwell Heath, Rugwood Road",,51.605696,-0.719007,,,0,,,0
+040000003878,,"Flackwell Heath, The Stag PH",,51.604683,-0.716797,,,0,,,0
+040000005001,,"Flackwell Heath, Fernlea Close",,51.604001,-0.714535,,,0,,,0
+040000003884,,"Flackwell Heath, Swains Lane",,51.602993,-0.707069,,,0,,,0
+040000003812,,"Loudwater, Station Road",,51.606694,-0.701,,,0,,,0
+040000001189,,"Beaconsfield, Penn Road",,51.614009,-0.647294,,,0,,,0
+040000001191,,"Beaconsfield, Sandelswood End",,51.614987,-0.644738,,,0,,,0
+040000001193,,"Beaconsfield, Wilton Road",,51.61572,-0.640513,,,0,,,0
+040000001852,,"Iver Heath, Tesco Express",,51.535053,-0.532243,,,0,,,0
+040000001821,,"Iver Heath, Flowerland",,51.529485,-0.516376,,,0,,,0
+040000001823,,"Iver Heath, Norwood Lane",,51.528982,-0.520674,,,0,,,0
+040000001825,,"Iver Heath, Coopers Row",,51.531754,-0.522329,,,0,,,0
+040000005021,,"Iver Heath, Swallow Street",,51.535699,-0.523484,,,0,,,0
+040000005023,,"Iver Heath, Post Meadow",,51.536979,-0.518079,,,0,,,0
+040000002442,,"Chalfonts Community College",,51.609695,-0.570765,,,0,,,0
+040000005022,,"Iver Heath, Post Meadow",,51.536849,-0.518415,,,0,,,0
+040000001828,,"Iver Heath, Swallow Street",,51.535661,-0.523385,,,0,,,0
+040000001826,,"Iver Heath, Coopers Row",,51.531481,-0.522035,,,0,,,0
+040000001824,,"Iver Heath, Norwood Lane",,51.52921,-0.520941,,,0,,,0
+040000001822,,"Iver Heath, Flowerland",,51.529523,-0.515798,,,0,,,0
+340024013SWE,,"Chinnor, Lummas Mead",,51.695139,-0.916774,,,0,,,0
+340000437CHU,,"Crowell, St Marys Church",,51.690961,-0.925931,,,0,,,0
+340000436CHT,,"Kingston Blount, The Cherry Tree",,51.688441,-0.932601,,,0,,,0
+340003259OPP,,"Aston Rowant, Village Turn",,51.681056,-0.949235,,,0,,,0
+340001811CHT,,"Lewknor, Turn M40 J6",,51.672848,-0.959404,,,0,,,0
+340001811WTT,,"Lewknor, Turn M40 J6",,51.670952,-0.964624,,,0,,,0
+340001515CNR,,"Bix, Turn",,51.560419,-0.95157,,,0,,,0
+340001514OPP,,"Lower Assendon, The Smith Centre",,51.552691,-0.923363,,,0,,,0
+340002077BCS,,"Henley-on-Thames, Bowling Court",,51.544789,-0.911854,,,0,,,0
+340001513OPL,,"Henley-on-Thames, Northfield End",,51.543136,-0.908072,,,0,,,0
+340001512BLN,,"Henley-on-Thames, Bell Street North",,51.539828,-0.904315,,,0,,,0
+340000393OUT,,"Henley-on-Thames, Hart Street",,51.537589,-0.903389,,,0,,,0
+340000393MP,,"Henley-on-Thames, Market Place",,51.537195,-0.906455,,,0,,,0
+340000393BEL,,"Henley-on-Thames, Bell Street",,51.53786,-0.90485,,,0,,,0
+340001512OPP,,"Henley-on-Thames, Bell Street North",,51.54055,-0.904644,,,0,,,0
+340001513LEI,,"Henley-on-Thames, Northfield End",,51.543202,-0.908488,,,0,,,0
+340002077BCN,,"Henley-on-Thames, Bowling Court",,51.544343,-0.911215,,,0,,,0
+340001514OUT,,"Lower Assendon, The Smith Centre",,51.552877,-0.92405,,,0,,,0
+340001515OPP,,"Bix, Turn",,51.56014,-0.951533,,,0,,,0
+340003259CNR,,"Aston Rowant, Village Turn",,51.680953,-0.949744,,,0,,,0
+340000436OCH,,"Kingston Blount, The Cherry Tree",,51.688549,-0.932613,,,0,,,0
+340000437HST,,"Kingston Blount, Pleck Lane",,51.689269,-0.931656,,,0,,,0
+340000437OPP,,"Crowell, St Marys Church",,51.690999,-0.926103,,,0,,,0
+340024013NEA,,"Chinnor, Lummas Mead",,51.695265,-0.916786,,,0,,,0
+340003240OPP,,"Chinnor, The Wheatsheaf",,51.697553,-0.917223,,,0,,,0
+340001624NTH,,"Chinnor, Cowleaze",,51.698808,-0.917801,,,0,,,0
+340001623OHC,,"Chinnor, Hailey Croft",,51.701327,-0.918956,,,0,,,0
+340001629OPP,,"Chinnor, Estover Way",,51.702892,-0.917978,,,0,,,0
+340001622OCT,,"Chinnor, Cherry Tree Road",,51.703925,-0.914973,,,0,,,0
+340001662SOU,,"Chinnor, Thame Road Shops",,51.704955,-0.913573,,,0,,,0
+340000041SPG,,"Chinnor, Springfield Gardens",,51.705435,-0.910986,,,0,,,0
+040000003703,,"Cryers Hill, The White Lion PH",,51.665025,-0.735741,,,0,,,0
+040000002023,,"Pipers Lane",,51.670406,-0.73361,,,0,,,0
+040000002025,,"Great Kingshill, Hatches Lane",,51.674692,-0.734199,,,0,,,0
+040000002080,,"Mop End Lane",,51.678541,-0.647079,,,0,,,0
+040000002152,,"Amersham, Railway Station",,51.67429,-0.607984,,,0,,,0
+03700554,,"Farnham Lane",,51.537848,-0.621811,,,0,,,0
+040000001965,,"Fairfield Road",,51.53539,-0.657239,,,0,,,0
+040000001963,,"Burnham, Gore Road",,51.536153,-0.660215,,,0,,,0
+040000001961,,"Bredward Close",,51.536089,-0.666518,,,0,,,0
+040000001959,,"Lent Green",,51.532497,-0.666075,,,0,,,0
+040000001957,,"Burlington Road",,51.529583,-0.666867,,,0,,,0
+040000001955,,"Cornell's Corner",,51.527568,-0.666767,,,0,,,0
+040000001972,,"Stomp Road",,51.527356,-0.661555,,,0,,,0
+03700177,,"Leaholme Gardens",,51.529139,-0.652348,,,0,,,0
+03700182,,"Orchard Ave",,51.527849,-0.65044,,,0,,,0
+03700181,,"Crosthwaite Way",,51.526952,-0.648319,,,0,,,0
+03700482,,"Burnham Railway Station",,51.523995,-0.645307,,,0,,,0
+03700484,,"Yeovil Road",,51.524018,-0.639526,,,0,,,0
+03700486,,"Dundee Road",,51.523657,-0.633958,,,0,,,0
+03700436,,"Dover Road",,51.519968,-0.634602,,,0,,,0
+03700437,,"Burnham Lane",,51.520376,-0.64024,,,0,,,0
+03700438,,"Everitts Corner",,51.520084,-0.646115,,,0,,,0
+03700029,,"St Andrews Way",,51.520077,-0.65178,,,0,,,0
+03700030,,"Huntercombe Lane",,51.520361,-0.660102,,,0,,,0
+036000000093,,"Camley Corner",,51.52587,-0.774051,,,0,,,0
+036000000094,,"St James-the-Less",,51.527267,-0.776954,,,0,,,0
+036000000078,,"Hurley House",,51.534849,-0.791039,,,0,,,0
+035059790001,,"Remenham Hill Garage",,51.538657,-0.876515,,,0,,,0
+340000393TH,,"Henley-on-Thames, Hart Street",,51.53758,-0.90366,,,0,,,0
+036000000079,,"Hurley House",,51.534892,-0.790893,,,0,,,0
+036000000095,,"St James-the-Less",,51.527105,-0.776136,,,0,,,0
+036000000092,,"Camley Corner",,51.525931,-0.773905,,,0,,,0
+036006140140,,"Maidenhead, Saint-Cloud Way",,51.52479,-0.718439,,,0,,,0
+03700001,,"Huntercombe Lane",,51.52066,-0.658681,,,0,,,0
+03700356,,"St Andrews Way",,51.520254,-0.649151,,,0,,,0
+03700357,,"Everitts Corner",,51.5199,-0.644247,,,0,,,0
+03700358,,"Burnham Lane",,51.52062,-0.63957,,,0,,,0
+03700487,,"Dundee Road",,51.523693,-0.634736,,,0,,,0
+03700483,,"Yeovil Road",,51.523786,-0.639706,,,0,,,0
+03700553,,"Burnham Station",,51.523918,-0.64567,,,0,,,0
+03700180,,"Crosthwaite Way",,51.527102,-0.648847,,,0,,,0
+03700178,,"Leaholme Gardens",,51.529315,-0.652819,,,0,,,0
+03700191,,"Priory Road flats",,51.528923,-0.65629,,,0,,,0
+040000001971,,"Stomp Road",,51.527399,-0.660588,,,0,,,0
+040000001956,,"Cornell's Corner",,51.527542,-0.666869,,,0,,,0
+040000001958,,"Burlington Road",,51.528901,-0.666959,,,0,,,0
+040000001960,,"Lent Green",,51.532723,-0.666241,,,0,,,0
+040000001962,,"Bredward Close",,51.536173,-0.665953,,,0,,,0
+040000001964,,"Burnham, Gore Road",,51.536203,-0.659882,,,0,,,0
+040000001966,,"Fairfield Road",,51.535543,-0.657205,,,0,,,0
+040000001272,,"Farnham House",,51.537851,-0.618278,,,0,,,0
+040000002154,,"Amersham, Railway Station",,51.6744,-0.606665,,,0,,,0
+040000002599,,"Amersham, Stanley Hill Schools",,51.668315,-0.59482,,,0,,,0
+040000002081,,"Mop End Lane",,51.678442,-0.647892,,,0,,,0
+040000002024,,"Great Kingshill, Hatches Lane",,51.673835,-0.733905,,,0,,,0
+040000002022,,"Pipers Lane",,51.670989,-0.733507,,,0,,,0
+040000003682,,"Cryers Hill, The White Lion PH",,51.664357,-0.736382,,,0,,,0
+040000003124,,"Flackwell Heath, The Common",,51.601458,-0.709712,,,0,,,0
+040000002919,,"Flackwell Heath, Chapman Lane",,51.599352,-0.706263,,,0,,,0
+040000005862,,"Flackwell Heath, Greenlands",,51.598838,-0.703751,,,0,,,0
+040000005860,,"Flackwell Heath, Straight Bit",,51.597608,-0.700639,,,0,,,0
+040000003877,,"Flackwell Heath, Whitepit Lane",,51.59508,-0.695614,,,0,,,0
+040000008002,,"Wooburn Green, Whitepit Lane Bottom",,51.58801,-0.684125,,,0,,,0
+040000003849,,"Wooburn, Town Lane",,51.581771,-0.689111,,,0,,,0
+040000003851,,"Wooburn, Cemetery",,51.579371,-0.69237,,,0,,,0
+040000003853,,"Cores End, Brookbank",,51.577905,-0.696409,,,0,,,0
+040000003855,,"Bourne End, Cores End",,51.5782,-0.701928,,,0,,,0
+040000003857,,"Bourne End, Furlong Road",,51.577534,-0.706796,,,0,,,0
+040000003859,,"Bourne End, Post Office",,51.575073,-0.709449,,,0,,,0
+040000003840,,"Bourne End, St Mark's Church",,51.575583,-0.710041,,,0,,,0
+040000003838,,"Bourne End, Railway Station",,51.577205,-0.710356,,,0,,,0
+040000003846,,"Bourne End, The Parade",,51.579983,-0.713596,,,0,,,0
+040000003896,,"Bourne End, Marlow Road",,51.582982,-0.716543,,,0,,,0
+040000003894,,"Bourne End, Elm Lane",,51.584634,-0.719585,,,0,,,0
+040000003897,,"Bourne End, Marlow Road",,51.583045,-0.716483,,,0,,,0
+040000003831,,"Bourne End, The Parade",,51.580703,-0.713706,,,0,,,0
+040000003836,,"Bourne End, New Road",,51.578341,-0.709039,,,0,,,0
+040000003834,,"Bourne End, Cores End",,51.578273,-0.701998,,,0,,,0
+040000003832,,"Cores End, Brookbank",,51.578092,-0.696202,,,0,,,0
+040000003830,,"Wooburn, Cemetery",,51.579279,-0.692993,,,0,,,0
+040000003828,,"Wooburn, Town Lane",,51.582149,-0.689086,,,0,,,0
+040000008001,,"Wooburn Green, Whitepit Lane Bottom",,51.58792,-0.684171,,,0,,,0
+040000003926,,"Wooburn Green, Whitepit Lane Bottom",,51.595157,-0.696074,,,0,,,0
+040000003860,,"Flackwell Heath, Straight Bit",,51.59735,-0.700848,,,0,,,0
+040000003862,,"Flackwell Heath, Chapman Lane",,51.598697,-0.704015,,,0,,,0
+040000003126,,"Flackwell Heath, The Common",,51.600761,-0.709284,,,0,,,0
+340003242CNR,,"Shabbington Turn",,51.747656,-1.018915,,,0,,,0
+340000755OFX,,"Tiddington, The Fox",,51.740811,-1.061557,,,0,,,0
+340001716LON,,"Waterstock Turn",,51.737878,-1.081762,,,0,,,0
+340001719EST,,"Camp Corner, Sandy Lane",,51.727741,-1.063044,,,0,,,0
+340000618OSL,,"Postcombe, Salt Lane",,51.690181,-0.974428,,,0,,,0
+340000059OPP,,"The Lambert Arms",,51.677364,-0.954571,,,0,,,0
+340003260SE,,"Aston Hill Bottom",,51.67601,-0.952056,,,0,,,0
+040000003918,,"Aston Hill",,51.667034,-0.922882,,,0,,,0
+040000003916,,"Tower Farm",,51.662053,-0.915149,,,0,,,0
+040000003462,,"Medical Centre",,51.661532,-0.90932,,,0,,,0
+040000003468,,"Stokenchurch, The King's Arms Hotel",,51.660164,-0.901488,,,0,,,0
+040000003460,,"Bates Industrial Estate",,51.658959,-0.898583,,,0,,,0
+040000003486,,"Marlow Road",,51.657087,-0.896488,,,0,,,0
+040000003488,,"Marcourt Road",,51.653707,-0.893752,,,0,,,0
+040000003492,,"Beech Close",,51.651679,-0.892197,,,0,,,0
+040000003494,,"Penley Farm",,51.644461,-0.890609,,,0,,,0
+040000003496,,"Chequers Lane",,51.634429,-0.88139,,,0,,,0
+040000003498,,"Combined School",,51.628061,-0.869006,,,0,,,0
+040000003500,,"The Old Ship PH",,51.626934,-0.865899,,,0,,,0
+040000003502,,"Rackley's Farm",,51.625576,-0.857482,,,0,,,0
+040000003504,,"Fingest Lane",,51.623463,-0.850138,,,0,,,0
+040000003506,,"Finings Road",,51.621796,-0.847046,,,0,,,0
+040000003564,,"Lane End, Village Hall",,51.619184,-0.836495,,,0,,,0
+040000003789,,"Marlow, West Street",,51.570525,-0.779386,,,0,,,0
+040000003791,,"Marlow, Spinfield Lane",,51.568416,-0.785849,,,0,,,0
+040000003793,,"Marlow, Pound Lane",,51.565839,-0.789755,,,0,,,0
+040000003795,,"Marlow, Hook's Corner",,51.564086,-0.801098,,,0,,,0
+040000003797,,"Danesfield, Harleyford Manor",,51.560951,-0.810313,,,0,,,0
+040000003799,,"Danesfield, Combined School",,51.558315,-0.815517,,,0,,,0
+040000003801,,"Danesfield, Thames Reach",,51.557076,-0.821968,,,0,,,0
+040000003803,,"Danesfield, Danesfield House",,51.554097,-0.827036,,,0,,,0
+040000003805,,"Medmenham, Millbank Wood",,51.552513,-0.829629,,,0,,,0
+040000003807,,"Medmenham, The Dog & Badger PH",,51.553322,-0.839518,,,0,,,0
+040000003886,,"Medmenham, Westfield Bungalows",,51.555383,-0.849764,,,0,,,0
+040000003809,,"Hambleden, Mill End",,51.558738,-0.868375,,,0,,,0
+040000003811,,"Hambleden, Greenlands",,51.563724,-0.883847,,,0,,,0
+040000003813,,"Fawley, Benhams Lane",,51.561959,-0.894089,,,0,,,0
+040000003815,,"Fawley, Fawley Court Farm",,51.560817,-0.897868,,,0,,,0
+340024004SOU,,"Henley-on-Thames, Icehouse Lane",,51.55607,-0.901776,,,0,,,0
+340001663SOU,,"Henley-on-Thames, Swiss Farm",,51.544885,-0.903732,,,0,,,0
+340001663NOR,,"Play Hatch, Swiss Farm",,51.545612,-0.9036,,,0,,,0
+340024004NOR,,"Henley-on-Thames, Icehouse Lane",,51.555973,-0.901966,,,0,,,0
+040000003956,,"Fawley, Fawley Court Farm",,51.561023,-0.897776,,,0,,,0
+040000003794,,"Fawley, Benhams Lane",,51.562049,-0.894044,,,0,,,0
+040000003792,,"Hambleden, Greenlands",,51.563694,-0.884511,,,0,,,0
+040000003790,,"Hambleden, Mill End",,51.558706,-0.867856,,,0,,,0
+040000003888,,"Medmenham, Westfield Bungalows",,51.555534,-0.849602,,,0,,,0
+040000003788,,"Medmenham, The Dog & Badger PH",,51.553502,-0.839571,,,0,,,0
+040000003786,,"Medmenham, Millbank Wood",,51.552612,-0.829584,,,0,,,0
+040000003784,,"Danesfield, Danesfield House",,51.554472,-0.82681,,,0,,,0
+040000003782,,"Danesfield, Thames Reach",,51.557276,-0.820376,,,0,,,0
+040000003780,,"Danesfield, Combined School",,51.55822,-0.815909,,,0,,,0
+040000003778,,"Danesfield, Harleyford Manor",,51.560992,-0.810744,,,0,,,0
+040000003776,,"Marlow, Hook's Corner",,51.564162,-0.8015,,,0,,,0
+040000003774,,"Marlow, Pound Lane",,51.565596,-0.790541,,,0,,,0
+040000003772,,"Marlow, Spinfield Lane",,51.569221,-0.784572,,,0,,,0
+040000003565,,"Lane End, Village Hall",,51.619111,-0.836483,,,0,,,0
+040000003511,,"Finings Road",,51.621597,-0.846863,,,0,,,0
+040000003509,,"Fingest Lane",,51.623328,-0.850098,,,0,,,0
+040000003507,,"Rackley's Farm",,51.62556,-0.857699,,,0,,,0
+040000003503,,"Combined School",,51.628194,-0.869682,,,0,,,0
+040000003501,,"Chequers Lane",,51.635211,-0.88231,,,0,,,0
+040000003499,,"Penley Farm",,51.644135,-0.890357,,,0,,,0
+040000003497,,"Beech Close",,51.651048,-0.892053,,,0,,,0
+040000003495,,"Marcourt Road",,51.653039,-0.893392,,,0,,,0
+040000003493,,"Marlow Road",,51.657324,-0.896844,,,0,,,0
+040000003471,,"Bates Industrial Estate",,51.658906,-0.898743,,,0,,,0
+040000003473,,"Stokenchurch, The King's Arms Hotel",,51.660229,-0.902629,,,0,,,0
+040000003475,,"Medical Centre",,51.661244,-0.908387,,,0,,,0
+040000003915,,"Tower Farm",,51.661864,-0.915096,,,0,,,0
+040000003917,,"Aston Hill",,51.667263,-0.923324,,,0,,,0
+340003260NW,,"Aston Hill Bottom",,51.675913,-0.952174,,,0,,,0
+340000059OLA,,"The Lambert Arms",,51.678691,-0.957172,,,0,,,0
+340000618GC,,"Postcombe, Salt Lane",,51.689915,-0.973913,,,0,,,0
+340001719WST,,"Camp Corner, Sandy Lane",,51.727743,-1.063319,,,0,,,0
+340001716CNR,,"Waterstock Turn",,51.738656,-1.081254,,,0,,,0
+340000755FX,,"Tiddington, The Fox",,51.740981,-1.061466,,,0,,,0
+340003242OPP,,"Shabbington Turn",,51.747895,-1.018476,,,0,,,0
+03700531,,"Slough Town Centre, Brunel Way",,51.511702,-0.592553,,,0,,,0
+040000003107,,"High Wycombe, Chadwick Street",,51.644009,-0.73634,,,0,,,0
+040000003158,,"Terriers, Kingshill Road",,51.645444,-0.732687,,,0,,,0
+040000001215,,"Beaconsfield Old Town, The Saracen's Head PH",,51.601987,-0.635667,,,0,,,0
+040000003484,,"Ibstone, Infant School",,51.62753,-0.906943,,,0,,,0
+040000003482,,"Parsonage Wood",,51.632413,-0.909918,,,0,,,0
+040000003480,,"Chiltern Cottages",,51.633496,-0.91034,,,0,,,0
+040000003478,,"Grays Lane",,51.636544,-0.913185,,,0,,,0
+040000002901,,"The Fox PH",,51.638947,-0.916307,,,0,,,0
+040000003476,,"Commonhill Wood",,51.641526,-0.918182,,,0,,,0
+040000003474,,"Studdridge Farm",,51.653322,-0.916109,,,0,,,0
+040000003472,,"Mill Road",,51.656766,-0.916056,,,0,,,0
+040000003470,,"Mill Lane",,51.659058,-0.914049,,,0,,,0
+040000003490,,"Jubilee Road",,51.652965,-0.892237,,,0,,,0
+040000003517,,"New Road",,51.655871,-0.889622,,,0,,,0
+040000003464,,"Wycombe Road",,51.657107,-0.888089,,,0,,,0
+040000002902,,"Water End Road",,51.658899,-0.873327,,,0,,,0
+040000003516,,"The Crown PH",,51.663746,-0.8678,,,0,,,0
+040000003522,,"Radnage, Chapel",,51.660846,-0.856176,,,0,,,0
+040000003523,,"Green End Road",,51.663307,-0.858658,,,0,,,0
+040000002903,,"Infant School",,51.663525,-0.864393,,,0,,,0
+040000003521,,"The Crown PH",,51.663662,-0.867426,,,0,,,0
+040000003519,,"Water End Road",,51.65887,-0.873126,,,0,,,0
+040000003458,,"Studley Green, St Francis Road",,51.650902,-0.864578,,,0,,,0
+040000003456,,"The Studley Arms",,51.64994,-0.860844,,,0,,,0
+040000003454,,"Studley Green, Dashwood Hill",,51.648903,-0.857792,,,0,,,0
+040000003450,,"Main Road",,51.641218,-0.831509,,,0,,,0
+040000003455,,"Piddington Turn",,51.639847,-0.822975,,,0,,,0
+040000003457,,"Piddington, King Street",,51.640088,-0.829125,,,0,,,0
+040000003461,,"The Dashwood Arms PH",,51.641403,-0.833875,,,0,,,0
+040000003528,,"Laurel Farm",,51.632526,-0.840041,,,0,,,0
+040000003526,,"Wheeler End, Common",,51.630848,-0.841225,,,0,,,0
+040000003524,,"Bolter End Lane",,51.628218,-0.844456,,,0,,,0
+040000003510,,"New Road",,51.625612,-0.847411,,,0,,,0
+040000003508,,"Bolter End, The Peacock PH",,51.623438,-0.849373,,,0,,,0
+040000003534,,"The Prince Albert PH",,51.608793,-0.847809,,,0,,,0
+040000003536,,Crossroads,,51.607161,-0.846478,,,0,,,0
+040000003386,,"Booker, Turnpike Corner East",,51.616462,-0.781794,,,0,,,0
+040000003388,,Merryfields,,51.616311,-0.777711,,,0,,,0
+040000003390,,"Verney Avenue",,51.616171,-0.773685,,,0,,,0
+040000003392,,"Cressex Road East",,51.615666,-0.769293,,,0,,,0
+040000003095,,"Town Hall",,51.627949,-0.748865,,,0,,,0
+040000003063,,"High Wycombe, Crendon Street",,51.629106,-0.747749,,,0,,,0
+040000003398,,"High Wycombe, Chadwick Street",,51.643989,-0.736139,,,0,,,0
+040000002973,,"High Wycombe, Station Interchange",,51.629651,-0.745769,,,0,,,0
+040000003062,,"Abbey School",,51.626683,-0.750777,,,0,,,0
+040000003407,,"Cressex Road East",,51.615667,-0.770218,,,0,,,0
+040000003405,,"Verney Avenue",,51.616147,-0.774855,,,0,,,0
+040000003403,,Merryfields,,51.616203,-0.777656,,,0,,,0
+040000003401,,"Booker, Turnpike Corner East",,51.61637,-0.781638,,,0,,,0
+040000003399,,"Lansdell Avenue",,51.615098,-0.789038,,,0,,,0
+040000003537,,Crossroads,,51.607144,-0.846565,,,0,,,0
+040000003535,,"The Prince Albert PH",,51.609075,-0.848148,,,0,,,0
+040000003513,,"Bolter End, The Peacock PH",,51.623742,-0.849221,,,0,,,0
+040000003515,,"New Road",,51.625194,-0.84787,,,0,,,0
+040000003525,,"Bolter End Lane",,51.628282,-0.844541,,,0,,,0
+040000003527,,"Wheeler End, Common",,51.631269,-0.841099,,,0,,,0
+040000003529,,"Laurel Farm",,51.632849,-0.839903,,,0,,,0
+040000003452,,"The Dashwood Arms PH",,51.641465,-0.833758,,,0,,,0
+040000003448,,"Piddington, King Street",,51.640307,-0.829437,,,0,,,0
+040000003446,,"Piddington Turn",,51.639961,-0.822755,,,0,,,0
+040000003459,,"Main Road",,51.641231,-0.831986,,,0,,,0
+040000002904,,"Studley Green, Dashwood Hill",,51.648472,-0.856935,,,0,,,0
+040000003465,,"Studley Green, St Francis Road",,51.650647,-0.86418,,,0,,,0
+040000003467,,"Wycombe Road",,51.657011,-0.887513,,,0,,,0
+040000003514,,"New Road",,51.655415,-0.889908,,,0,,,0
+040000003512,,"Jubilee Road",,51.652981,-0.892093,,,0,,,0
+040000003889,,"Mill Lane",,51.658832,-0.913982,,,0,,,0
+040000003477,,"Mill Road",,51.656134,-0.915854,,,0,,,0
+040000003479,,"Studdridge Farm",,51.653482,-0.915903,,,0,,,0
+040000003481,,"Commonhill Wood",,51.641444,-0.91804,,,0,,,0
+040000003483,,"The Fox PH",,51.639236,-0.916474,,,0,,,0
+040000003485,,"Grays Lane",,51.636395,-0.912597,,,0,,,0
+040000003487,,"Chiltern Cottages",,51.633595,-0.910294,,,0,,,0
+040000003489,,"Parsonage Wood",,51.632286,-0.909747,,,0,,,0
+040000003491,,"Ibstone, Infant School",,51.628088,-0.906973,,,0,,,0
+040000003673,,"Hughenden Valley, The Harrow PH",,51.668959,-0.756354,,,0,,,0
+040000003675,,"Stocking Lane",,51.6723,-0.762018,,,0,,,0
+040000003677,,"Piggott's Hill",,51.6768,-0.767478,,,0,,,0
+040000003679,,"Clappins Lane",,51.679214,-0.772229,,,0,,,0
+040000003681,,"Upper North Dean, Memorial Hall",,51.680918,-0.774381,,,0,,,0
+040000003683,,"Bowley Wood",,51.687097,-0.774576,,,0,,,0
+040000003685,,"Spring Coppice Lane",,51.68982,-0.777888,,,0,,,0
+040000003687,,"Speen, The King William IV PH",,51.691252,-0.784172,,,0,,,0
+040000002992,,"Monkton Farm",,51.697685,-0.781076,,,0,,,0
+040000003712,,"Great Hampden, The Hampden Arms PH",,51.705967,-0.77767,,,0,,,0
+040000002909,,"Denner Farm",,51.695274,-0.769711,,,0,,,0
+040000002908,,"Denner Hill",,51.691919,-0.767878,,,0,,,0
+040000002907,,"Well Cottage",,51.690025,-0.765658,,,0,,,0
+040000003713,,"Bryant’s Bottom, The Gate PH",,51.687322,-0.762549,,,0,,,0
+040000003972,,"Hughenden Valley, Bramley End",,51.674813,-0.754762,,,0,,,0
+040000003678,,"Warrendene Road",,51.671978,-0.755345,,,0,,,0
+040000003666,,"Hughenden Valley, The Harrow PH",,51.66921,-0.756303,,,0,,,0
+040000003664,,"Trees Road",,51.665101,-0.752946,,,0,,,0
+040000003662,,"Hughenden Valley, Coombe Lane",,51.661698,-0.751723,,,0,,,0
+040000003262,,"Cryers Hill Road",,51.658805,-0.751123,,,0,,,0
+040000003260,,"Hughenden Manor",,51.651489,-0.748853,,,0,,,0
+040000003256,,"Coates Lane",,51.64073,-0.750059,,,0,,,0
+040000003269,,"Coates Lane",,51.641571,-0.750542,,,0,,,0
+040000003273,,"Hughenden Manor",,51.651321,-0.749117,,,0,,,0
+040000003275,,"Cryers Hill Road",,51.658763,-0.751356,,,0,,,0
+040000003669,,"Hughenden Valley, Coombe Lane",,51.6617,-0.751882,,,0,,,0
+040000003671,,"Trees Road",,51.665384,-0.753343,,,0,,,0
+340003239OUT,,"Chinnor Hill, Red Lane",,51.69004,-0.893561,,,0,,,0
+040000003588,,"Bledlow Ridge, Beechgrove Farm",,51.688337,-0.882666,,,0,,,0
+040000003586,,"Bledlow Ridge, Wigan's Lane",,51.684724,-0.866872,,,0,,,0
+040000003584,,"Bledlow Ridge, Rout's Green",,51.681812,-0.86233,,,0,,,0
+040000003582,,"Bledlow Ridge, Chapel Lane",,51.679133,-0.857827,,,0,,,0
+040000003580,,"Bledlow Ridge, The Boot",,51.676355,-0.853225,,,0,,,0
+040000003578,,"Bledlow Ridge, Ford's Close",,51.673692,-0.849344,,,0,,,0
+040000003576,,"Bledlow Ridge, Old Post Office",,51.671159,-0.846878,,,0,,,0
+040000003574,,"Bledlow Ridge, The Old House",,51.667945,-0.840062,,,0,,,0
+040000003572,,"Bledlow Ridge, Scrubb's Lane",,51.665929,-0.837207,,,0,,,0
+040000003570,,"Bledlow Ridge, Loxborough House",,51.663113,-0.835241,,,0,,,0
+040000003568,,"Bledlow Ridge, Loxboro Hill",,51.657301,-0.827583,,,0,,,0
+040000003566,,"West Wycombe, Chorley Road",,51.652636,-0.817079,,,0,,,0
+040000003879,,"West Wycombe, Cockshoot Farm",,51.649717,-0.812905,,,0,,,0
+040000003444,,"West Wycombe, Village Hall",,51.644717,-0.801315,,,0,,,0
+040000003332,,"West Wycombe, Beechwood Road",,51.643969,-0.794123,,,0,,,0
+040000003330,,"West Wycombe, Park Farm Road",,51.642257,-0.788517,,,0,,,0
+040000003328,,"High Wycombe, Railway Bridge",,51.641279,-0.785248,,,0,,,0
+040000003326,,"High Wycombe, Downley Turn",,51.640125,-0.781478,,,0,,,0
+040000003324,,"High Wycombe, Mill End Road",,51.639212,-0.77841,,,0,,,0
+040000002933,,"High Wycombe, Mill End Road East",,51.638812,-0.777135,,,0,,,0
+040000003322,,"High Wycombe, Desborough Park Road",,51.636865,-0.770656,,,0,,,0
+040000003320,,"High Wycombe, The White Horse PH",,51.635422,-0.765999,,,0,,,0
+040000003316,,"High Wycombe, Riverside",,51.633551,-0.759966,,,0,,,0
+040000003325,,"High Wycombe, Brook Street",,51.632629,-0.75781,,,0,,,0
+040000003327,,"High Wycombe, Riverside",,51.63349,-0.760113,,,0,,,0
+040000003329,,"High Wycombe, The White Horse PH",,51.634849,-0.76454,,,0,,,0
+040000003331,,"High Wycombe, Desborough Park Road",,51.637168,-0.772136,,,0,,,0
+040000003333,,"High Wycombe, Mill End Road",,51.639124,-0.778586,,,0,,,0
+040000003337,,"High Wycombe, Railway Bridge",,51.641115,-0.785108,,,0,,,0
+040000003339,,"West Wycombe, Park Farm Road",,51.642065,-0.788219,,,0,,,0
+040000003341,,"West Wycombe, Beechwood Road",,51.643908,-0.794312,,,0,,,0
+040000002897,,"West Wycombe, Village Hall",,51.644634,-0.800233,,,0,,,0
+040000003753,,"West Wycombe, The Swan Inn",,51.64454,-0.803372,,,0,,,0
+040000003871,,"West Wycombe, Cockshoot Farm",,51.648843,-0.811829,,,0,,,0
+040000003567,,"West Wycombe, Chorley Road",,51.652346,-0.816826,,,0,,,0
+040000003569,,"Bledlow Ridge, Loxboro Hill",,51.657312,-0.827814,,,0,,,0
+040000003571,,"Bledlow Ridge, Loxborough House",,51.663205,-0.835441,,,0,,,0
+040000003573,,"Bledlow Ridge, Scrubb's Lane",,51.66593,-0.837265,,,0,,,0
+040000003575,,"Bledlow Ridge, The Old House",,51.668214,-0.840952,,,0,,,0
+040000003577,,"Bledlow Ridge, Old Post Office",,51.671015,-0.846867,,,0,,,0
+040000003579,,"Bledlow Ridge, Ford's Close",,51.673866,-0.849745,,,0,,,0
+040000003581,,"Bledlow Ridge, The Boot",,51.676265,-0.853242,,,0,,,0
+040000003583,,"Bledlow Ridge, Chapel Lane",,51.679144,-0.858015,,,0,,,0
+040000003585,,"Bledlow Ridge, Rout's Green",,51.681987,-0.862803,,,0,,,0
+040000003587,,"Bledlow Ridge, Wigan's Lane",,51.684652,-0.866917,,,0,,,0
+040000003589,,"Bledlow Ridge, Beechgrove Farm",,51.688256,-0.882697,,,0,,,0
+340003239OPP,,"Chinnor Hill, Red Lane",,51.690087,-0.893675,,,0,,,0
+03700168,,"Colnbrook, Gallymead Road",,51.478847,-0.508299,,,0,,,0
+03700166,,"Colnbrook, Poyle Road Junction",,51.479638,-0.512536,,,0,,,0
+03700163,,"Colnbrook, Coleridge Crescent West",,51.480475,-0.516138,,,0,,,0
+03700161,,"Colnbrook, Star & Garter",,51.482416,-0.520324,,,0,,,0
+03700159,,"Colnbrook, Ye Olde George Inn",,51.483611,-0.523785,,,0,,,0
+03700158,,"Colnbrook, Red Lion",,51.484262,-0.527667,,,0,,,0
+03700155,,"Brands Hill, Crown Close",,51.486986,-0.531885,,,0,,,0
+03700092,,"Brands Hill, Sutton Place",,51.489692,-0.534694,,,0,,,0
+03700033,,"Upton Lea, Rochfords Gardens",,51.514418,-0.572495,,,0,,,0
+03700034,,"Upton Lea, Mirador Crescent",,51.517721,-0.569711,,,0,,,0
+03700428,,"Wexham Court, Dawes Moor Close",,51.520091,-0.566466,,,0,,,0
+03700427,,"Wexham Court, Dawes Moor Close",,51.51974,-0.566434,,,0,,,0
+03700059,,"Upton Lea, Mirador Crescent",,51.516783,-0.570231,,,0,,,0
+03700467,,"Upton Lea, Rochfords Gardens",,51.515077,-0.571221,,,0,,,0
+03700093,,"Brands Hill, Sutton Place",,51.489537,-0.534555,,,0,,,0
+03700156,,"Brands Hill, Crown Close",,51.485602,-0.529798,,,0,,,0
+03700157,,"Colnbrook, Red Lion",,51.484427,-0.527863,,,0,,,0
+03700160,,"Colnbrook, Ye Olde George Inn",,51.483603,-0.522417,,,0,,,0
+03700162,,"Colnbrook, Coleridge Crescent West",,51.480639,-0.51632,,,0,,,0
+03700165,,"Colnbrook, Poyle Road Junction",,51.479753,-0.513051,,,0,,,0
+03700167,,"Colnbrook, Gallymead Road",,51.479379,-0.509809,,,0,,,0
+040000002959,,"High Wycombe, Bus Station",,51.631312,-0.756502,,,0,,,0
+040000003763,,"Marlow, Churchill Drive",,51.583726,-0.761511,,,0,,,0
+040000003765,,"Marlow, Wiltshire Road",,51.581151,-0.761176,,,0,,,0
+035090820002,,"Remenham, Two Brewers",,51.535931,-0.896277,,,0,,,0
+035090780002,,"Wargrave, Temple Combe",,51.523564,-0.877045,,,0,,,0
+035090760002,,"Wargrave, Kenton's Lane",,51.520825,-0.87361,,,0,,,0
+035090740002,,"Wargrave, White Cliff",,51.515254,-0.869366,,,0,,,0
+035090720002,,"Wargrave, Summer Lodge",,51.51127,-0.868341,,,0,,,0
+035090700002,,"Wargrave, Willow Lane",,51.508481,-0.868237,,,0,,,0
+035090680002,,"Wargave, Wargrave Hill",,51.502601,-0.869232,,,0,,,0
+035090640002,,"Wargrave, Station Road",,51.499178,-0.870383,,,0,,,0
+035090600002,,"Twyford, Carliles Corner",,51.487525,-0.870513,,,0,,,0
+035091460002,,"Twyford, Carlile Gardens",,51.485664,-0.868672,,,0,,,0
+035091440002,,"Northfields, Arnside Close",,51.486343,-0.863586,,,0,,,0
+035091420002,,"Twyford, Longfield Road",,51.485226,-0.862404,,,0,,,0
+035091400002,,"Twyford, Pennfields",,51.48344,-0.859985,,,0,,,0
+035090200002,,"Sonning, Holmemoor Drive",,51.465257,-0.909917,,,0,,,0
+035090180002,,"Sonning, Sonning Lane",,51.462701,-0.915534,,,0,,,0
+035090100003,,"North Earley, London Road - The Drive",,51.455419,-0.936288,,,0,,,0
+035090180001,,"Sonning, Sonning Lane",,51.463709,-0.913624,,,0,,,0
+035090200001,,"Sonning, Holmemoor Drive",,51.465577,-0.909535,,,0,,,0
+035091400001,,"Twyford, Pennfields",,51.483469,-0.860186,,,0,,,0
+035091420001,,"Twyford, Longfield Road",,51.485227,-0.862533,,,0,,,0
+035091440001,,"Northfields, Arnside Close",,51.485942,-0.86482,,,0,,,0
+035091460001,,"Twyford, Carlile Gardens",,51.485578,-0.869034,,,0,,,0
+035090600001,,"Twyford, Carliles Corner",,51.487645,-0.870783,,,0,,,0
+035090660001,,"Wargrave, The Greyhound",,51.501133,-0.869888,,,0,,,0
+035090700001,,"Wargrave, Willow Lane",,51.507425,-0.868681,,,0,,,0
+035090720001,,"Wargrave, Summer Lodge",,51.511451,-0.868466,,,0,,,0
+035090740001,,"Wargrave, White Cliff",,51.515437,-0.869664,,,0,,,0
+035090760001,,"Wargrave, Kenton's Lane",,51.519043,-0.872457,,,0,,,0
+035090780001,,"Wargrave, Temple Combe",,51.52383,-0.8775,,,0,,,0
+035090800001,,"Remenham, Marsh Mills",,51.531327,-0.888704,,,0,,,0
+035090820001,,"Remenham, Two Brewers",,51.536268,-0.896716,,,0,,,0
+035059890002,,"Wokingham, Station Interchange",,51.412329,-0.843119,,,0,,,0
+035059740002,,"Bigshotte Park, Johnson & Johnson",,51.384246,-0.795787,,,0,,,0
+035059740001,,"Bigshotte Park, Johnson & Johnson",,51.383933,-0.799459,,,0,,,0
+040000002956,,"High Wycombe, Bus Station",,51.631245,-0.756632,,,0,,,0
+040000003123,,"Hazlemere, Sawpit Hill",,51.661191,-0.706149,,,0,,,0
+040000002103,,"Holmer Green, Copners Drive",,51.662509,-0.700906,,,0,,,0
+040000002105,,"Holmer Green, Browns Road",,51.664087,-0.696466,,,0,,,0
+040000002107,,"Holmer Green, The Pond",,51.665256,-0.693974,,,0,,,0
+040000002109,,"Holmer Green, The Bat & Ball PH",,51.667631,-0.690913,,,0,,,0
+040000002111,,"Holmer Green, Winters Way",,51.667122,-0.687934,,,0,,,0
+040000002113,,"Beamond End, Sheepcote Dell Road",,51.662604,-0.679621,,,0,,,0
+040000002115,,"Penn Street, Penn Wood",,51.66091,-0.664937,,,0,,,0
+040000002135,,"Winchmore Hill, New Road",,51.657511,-0.633636,,,0,,,0
+040000002137,,"Old Amersham, Crematorium",,51.659536,-0.626896,,,0,,,0
+040000002097,,"Old Amersham, Hospital",,51.661243,-0.622189,,,0,,,0
+040000002139,,"Old Amersham, Gilbert Scott Court",,51.663639,-0.619427,,,0,,,0
+040000002141,,"Old Amersham, Whielden Street",,51.665593,-0.616634,,,0,,,0
+040000002143,,"Old Amersham, Broadway",,51.665649,-0.612989,,,0,,,0
+040000002165,,"Chesham Bois, Bois Avenue",,51.685478,-0.614669,,,0,,,0
+040000002745,,"Botley, Hollybush Farm",,51.709529,-0.591775,,,0,,,0
+040000002747,,"Botley, The Hen & Chickens PH",,51.709444,-0.585467,,,0,,,0
+040000002749,,"Lee Farm Close",,51.710176,-0.582766,,,0,,,0
+040000002751,,"Broomstick Lane",,51.710235,-0.575745,,,0,,,0
+040000002753,,"Grooms Cottages",,51.710275,-0.573066,,,0,,,0
+040000002755,,"Ley Hill, The Crown",,51.707929,-0.569434,,,0,,,0
+210021409300,,"Bovingdon, Whitehart Cross",,51.718082903,-0.543710903,,,0,,,0
+210021403590,,"Bovingdon Green, The Grange",,51.717085587,-0.537257639,,,0,,,0
+210021403600,,"Bovingdon, Nye Way",,51.719733657,-0.532568521,,,0,,,0
+210021403940,,"Bovingdon, Memorial Hall",,51.722736922,-0.531848746,,,0,,,0
+210021403960,,"Bovingdon, Hempstead Road",,51.72390516,-0.533953695,,,0,,,0
+210021403980,,"Bovingdon, Vicarage Lane",,51.725546022,-0.533582085,,,0,,,0
+210021404000,,"Bovingdon, Bobsleigh Hotel",,51.729046485,-0.526605321,,,0,,,0
+210021404020,,"Bovingdon, Little Hay Golf Course",,51.731708014,-0.522304866,,,0,,,0
+210021404040,,"Bovingdon, Bury Rise",,51.734491215,-0.510570799,,,0,,,0
+210021404060,,"Felden, Sheethanger Common",,51.736647789,-0.504084191,,,0,,,0
+210021404080,,"Felden, Boxmoor House School",,51.739909747,-0.499689368,,,0,,,0
+210021404400,,"Felden, Meadow Way",,51.742526066,-0.495445712,,,0,,,0
+210021404420,,"Hemel Hempstead, Railway Station",,51.743260518,-0.489613009,,,0,,,0
+210021404460,,"Boxmoor, Roughdown Road",,51.74313492,-0.486140912,,,0,,,0
+210021404480,,"Boxmoor, St Johns Church",,51.74423273,-0.479238385,,,0,,,0
+210021407010,,"Hemel Hempstead, Riverside",,51.746958374,-0.474467958,,,0,,,0
+210021407005,,"Hemel Hempstead, Waterhouse Street",,51.748414565,-0.473738051,,,0,,,0
+210021413007,,"Hemel Hempstead, Marlowes",,51.752135653,-0.472236318,,,0,,,0
+040000002142,,"Old Amersham, Broadway",,51.665396,-0.612866,,,0,,,0
+040000002140,,"Old Amersham, Whielden Street",,51.66584,-0.616193,,,0,,,0
+040000002138,,"Old Amersham, Gilbert Scott Court",,51.663476,-0.619374,,,0,,,0
+040000002096,,"Old Amersham, Hospital",,51.661206,-0.622031,,,0,,,0
+040000002136,,"Old Amersham, Crematorium",,51.659175,-0.627557,,,0,,,0
+040000002134,,"Winchmore Hill, New Road",,51.65677,-0.634858,,,0,,,0
+040000002133,,"Winchmore Hill, Whielden Gate",,51.6531,-0.644119,,,0,,,0
+040000002116,,"Penn Street, Penn Wood",,51.661009,-0.665729,,,0,,,0
+040000002114,,"Beamond End, Sheepcote Dell Road",,51.661632,-0.678738,,,0,,,0
+040000002112,,"Holmer Green, Winters Way",,51.666221,-0.685415,,,0,,,0
+040000002110,,"Holmer Green, The Bat & Ball PH",,51.667603,-0.690783,,,0,,,0
+040000002108,,"Holmer Green, The Pond",,51.665271,-0.693713,,,0,,,0
+040000002106,,"Holmer Green, Browns Road",,51.663657,-0.697375,,,0,,,0
+040000002104,,"Holmer Green, Copners Drive",,51.662776,-0.699887,,,0,,,0
+040000003122,,"Hazlemere, Sawpit Hill",,51.661171,-0.705962,,,0,,,0
+210021406005,,"Hemel Hempstead, Waterhouse Street",,51.748655922,-0.473628512,,,0,,,0
+210021406020,,"Hemel Hempstead, Riverside",,51.747136817,-0.474360547,,,0,,,0
+210021408520,,"Boxmoor, St Johns Church",,51.744159685,-0.477763382,,,0,,,0
+210021408540,,"Boxmoor, Roughdown Road",,51.742989095,-0.485291202,,,0,,,0
+210021408560,,"Hemel Hempstead, Railway Station",,51.742927283,-0.490971175,,,0,,,0
+210021408660,,"Felden, Meadow Way",,51.742346768,-0.496190364,,,0,,,0
+210021408720,,"Felden, Boxmoor House School",,51.739543825,-0.499904254,,,0,,,0
+210021408740,,"Felden, Sheethanger Common",,51.736223733,-0.504677484,,,0,,,0
+210021408760,,"Bovingdon, Bury Rise",,51.734377122,-0.510791775,,,0,,,0
+210021408780,,"Bovingdon, Little Hay Golf Course",,51.730443449,-0.523996869,,,0,,,0
+210021408800,,"Bovingdon, Bobsleigh Hotel",,51.728886695,-0.526769795,,,0,,,0
+210021408820,,"Bovingdon, Vicarage Lane",,51.725560748,-0.53332099,,,0,,,0
+210021408840,,"Bovingdon, Hempstead Road",,51.723874223,-0.533636173,,,0,,,0
+210021408860,,"Bovingdon, Memorial Hall",,51.722469393,-0.531307253,,,0,,,0
+210021409330,,"Bovingdon, Nye Way",,51.719253716,-0.533018361,,,0,,,0
+210021409335,,"Bovingdon Green, The Grange",,51.716966939,-0.537116707,,,0,,,0
+210021403640,,"Bovingdon, Whitehart Cross",,51.718012074,-0.543800037,,,0,,,0
+040000002754,,"Ley Hill, Grooms Cottages",,51.710197,-0.572605,,,0,,,0
+040000002752,,"Botley, Broomstick Lane",,51.710155,-0.576572,,,0,,,0
+040000002750,,"Botley, Lee Farm Close",,51.710155,-0.582463,,,0,,,0
+040000002748,,"Botley, The Hen & Chickens PH",,51.709424,-0.585222,,,0,,,0
+040000002746,,"Botley, Hollybush Farm",,51.709455,-0.591603,,,0,,,0
+040000002744,,"Chesham, Codmore Cross",,51.709651,-0.599732,,,0,,,0
+040000002825,,"Chesham, Eskdale Avenue",,51.710506,-0.60357,,,0,,,0
+040000002704,,"Chesham, The Jolly Sportsman PH",,51.710715,-0.609035,,,0,,,0
+040000002702,,"Chesham, Police Station",,51.708761,-0.61031,,,0,,,0
+040000002175,,"Chesham, Townsend Road",,51.710126,-0.613236,,,0,,,0
+040000002183,,"Chesham, Windsor Road",,51.71936,-0.616181,,,0,,,0
+040000002185,,"Chesham, Lyndhurst Road",,51.71738,-0.613752,,,0,,,0
+040000002117,,"Penn Street, School Lane",,51.65887,-0.664274,,,0,,,0
+040000002119,,"Penn Street, The Vicarage",,51.65551,-0.666079,,,0,,,0
+040000002121,,"Penn Street, The Squirrel PH",,51.653922,-0.667253,,,0,,,0
+040000002123,,"Penn Street, The Hit Or Miss PH",,51.652014,-0.667092,,,0,,,0
+040000002125,,"Penn Street, Penn Street Farm",,51.649751,-0.664181,,,0,,,0
+040000002127,,"Winchmore Hill, Horsemoor Lane",,51.648068,-0.660906,,,0,,,0
+040000002129,,"Winchmore Hill, Nelson Close",,51.647926,-0.654695,,,0,,,0
+040000002131,,"Winchmore Hill, Whielden Lane",,51.649517,-0.649964,,,0,,,0
+040000002707,,"Chesham, The Nash Arms PH",,51.716405,-0.60734,,,0,,,0
+040000002709,,"Chesham, Preston Hill",,51.717529,-0.603542,,,0,,,0
+040000002801,,"Chesham, Culverhouse Way",,51.720906,-0.597183,,,0,,,0
+040000002803,,"Lye Green, Deer Park Walk",,51.720532,-0.592273,,,0,,,0
+040000002230,,"Lye Green, Bus Garage",,51.720625,-0.587232,,,0,,,0
+040000002727,,"Lye Green, The Green",,51.720705,-0.584189,,,0,,,0
+040000002596,,"Orchard Leigh, Rushmere Lane",,51.719663,-0.569412,,,0,,,0
+040000002805,,"Whelpley Hill, The White Hart PH",,51.724888,-0.554059,,,0,,,0
+040000002725,,"Whelpley Hill, Grove Lane",,51.728247,-0.556688,,,0,,,0
+040000002806,,"Whelpley Hill, The White Hart PH",,51.724913,-0.553913,,,0,,,0
+210021403647,,"Bovingdon, Airfield",,51.721175735,-0.550227722,,,0,,,0
+040000002132,,"Winchmore Hill, Whielden Gate",,51.652093,-0.644149,,,0,,,0
+040000002130,,"Winchmore Hill, Whielden Lane",,51.649904,-0.649216,,,0,,,0
+040000002128,,"Winchmore Hill, Nelson Close",,51.647452,-0.655778,,,0,,,0
+040000002226,,"Winchmore Hill, Horsemoor Lane",,51.648025,-0.661037,,,0,,,0
+040000002124,,"Penn Street, Penn Street Farm",,51.649838,-0.664684,,,0,,,0
+040000002122,,"Penn Street, The Hit Or Miss PH",,51.651689,-0.666986,,,0,,,0
+040000002120,,"Penn Street, The Squirrel PH",,51.654235,-0.667099,,,0,,,0
+040000002118,,"Penn Street, School Lane",,51.657914,-0.664765,,,0,,,0
+210021403648,,"Bovingdon, Airfield",,51.721060674,-0.550376176,,,0,,,0
+040000002597,,"Orchard Leigh, Rushmere Lane",,51.719523,-0.569749,,,0,,,0
+040000002728,,"Lye Green, The Green",,51.720653,-0.584393,,,0,,,0
+040000002804,,"Lye Green, Deer Park Walk",,51.720479,-0.592318,,,0,,,0
+040000002802,,"Chesham, Culverhouse Way",,51.720768,-0.597709,,,0,,,0
+040000002712,,"Chesham, Lycrome Road",,51.72001,-0.598963,,,0,,,0
+040000002710,,"Chesham, Preston Hill",,51.717656,-0.602944,,,0,,,0
+040000002708,,"Chesham, The Nash Arms PH",,51.716349,-0.607211,,,0,,,0
+040000005838,,"Flackwell Heath, Northern Woods",,51.595271,-0.697166,,,0,,,0
+040000005856,,"Flackwell Heath, The Green Dragon PH",,51.59468,-0.700605,,,0,,,0
+040000003875,,"Flackwell Heath, Blind Lane",,51.591101,-0.703031,,,0,,,0
+040000003873,,"Bourne End, Waborne Road",,51.584092,-0.70922,,,0,,,0
+040000003957,,"Bourne End, Bourne End Academy",,51.581321,-0.705806,,,0,,,0
+040000003848,,"Bourne End, Loddon Road",,51.582489,-0.71146,,,0,,,0
+040000003970,,"Bourne End, Waborne Road",,51.584192,-0.709304,,,0,,,0
+040000003850,,"Flackwell Heath, Blind Lane",,51.591781,-0.702752,,,0,,,0
+040000003856,,"Flackwell Heath, The Green Dragon PH",,51.594748,-0.700285,,,0,,,0
+040000003858,,"Flackwell Heath, Northern Woods",,51.595334,-0.697222,,,0,,,0
+040000002961,,"High Wycombe, Bus Station",,51.631368,-0.756398,,,0,,,0
+040000005601,,"Flackwell Heath, The Three Horseshoes",,51.601769,-0.707235,,,0,,,0
+040000003835,,"Loudwater, Lammas Way",,51.603958,-0.698044,,,0,,,0
+040000003837,,"Loudwater, Knaves Beech",,51.602072,-0.694993,,,0,,,0
+040000003839,,"Loudwater, Hedge Lea",,51.600814,-0.69269,,,0,,,0
+040000003841,,"Loudwater, Boundary Place",,51.598855,-0.68957,,,0,,,0
+040000003843,,"Wooburn Green, Glory Mill Lane",,51.596055,-0.686027,,,0,,,0
+040000003845,,"Wooburn Green, Wycombe Lane",,51.592398,-0.683895,,,0,,,0
+040000003847,,"Wooburn Green, The Red Lion PH",,51.588106,-0.683629,,,0,,,0
+040000003826,,"Wooburn Green, The Red Lion PH",,51.588233,-0.683755,,,0,,,0
+040000003824,,"Wooburn Green, Wycombe Lane",,51.592797,-0.684186,,,0,,,0
+040000003822,,"Wooburn Green, Glory Mill Lane",,51.595539,-0.685753,,,0,,,0
+040000003820,,"Loudwater, Boundary Place",,51.599223,-0.69031,,,0,,,0
+040000003818,,"Loudwater, Hedge Lea",,51.600918,-0.693092,,,0,,,0
+040000003816,,"Loudwater, Knaves Beech",,51.602313,-0.695679,,,0,,,0
+040000003814,,"Loudwater, Lammas Way",,51.60418,-0.698629,,,0,,,0
+040000005600,,"Flackwell Heath, The Three Horseshoes",,51.601694,-0.707134,,,0,,,0
+036006003003,,"Maidenhead, Rail Station",,51.518635,-0.721146,,,0,,,0
+036006001470,,"Maidenhead, Stafferton Way",,51.517872,-0.717146,,,0,,,0
+036006006122,,"Maidenhead, Chiltern Road",,51.517702,-0.709887,,,0,,,0
+036000000060,,"Maidenhead, Glebe Road",,51.513725,-0.706586,,,0,,,0
+036006125126,,"Bray, Village Hall",,51.506535,-0.700966,,,0,,,0
+036006127127,,"Bray Court, Hastings Close",,51.500389,-0.70385,,,0,,,0
+036006200200,,"Bray Court, Holyport Turn",,51.498865,-0.701861,,,0,,,0
+036006202202,,"Bray Court, Bray Lake",,51.496996,-0.69706,,,0,,,0
+036006204204,,"Braywick, Post Office",,51.495457,-0.692926,,,0,,,0
+036006206206,,"Braywick, Westbrook",,51.493363,-0.687368,,,0,,,0
+036006615616,,"Fifield, Ferndale Park",,51.490196,-0.68802,,,0,,,0
+036006274274,,"Fifield, Meadow Way",,51.483112,-0.693855,,,0,,,0
+036000000065,,"Fifield, Fifield Inn",,51.479545,-0.691799,,,0,,,0
+036006272272,,"Fifield, Braywood Memorial Hall",,51.478149,-0.692326,,,0,,,0
+036006270271,,"Fifield, Braywood School",,51.47769,-0.685038,,,0,,,0
+036006268268,,"Fifield, Kimbers Farm",,51.476159,-0.676803,,,0,,,0
+036006266267,,"Fifield, Ye Old Red Lion PH",,51.477837,-0.667754,,,0,,,0
+036006734734,,"Dedworth, The Greene Oak",,51.479894,-0.662812,,,0,,,0
+036000000066,,"Dedworth, Dedworth Road Aldi",,51.479408,-0.659013,,,0,,,0
+036006260260,,"Dedworth, Guards Road",,51.478985,-0.657266,,,0,,,0
+036006258259,,"Dedworth, Tinkers Lane",,51.478653,-0.653359,,,0,,,0
+036006257257,,"Dedworth, Tesco",,51.478194,-0.648663,,,0,,,0
+036006731731,,"Dedworth, The Maypole",,51.476993,-0.643515,,,0,,,0
+036006245246,,"Clewer Green, Sebastopol",,51.474978,-0.641156,,,0,,,0
+036006243244,,"Clewer Green, Bell View",,51.474283,-0.639391,,,0,,,0
+036000000039,,"Clewer Green, Rycroft",,51.473352,-0.6368,,,0,,,0
+036006241242,,"Clewer Green, Hatch Lane",,51.472543,-0.634345,,,0,,,0
+036006239240,,"Clewer Green, Addington Close",,51.471641,-0.631838,,,0,,,0
+036006237238,,"Windsor, Imperial Court",,51.471357,-0.627288,,,0,,,0
+036006758759,,"Windsor, Stag Meadow",,51.47107,-0.622223,,,0,,,0
+036006372372,,"Windsor, Trevelyan School",,51.471248,-0.617466,,,0,,,0
+036006235236,,"Windsor, King Edward VII Hospital",,51.473688,-0.615434,,,0,,,0
+036006374375,,"Windsor, Alexandra Road",,51.47547,-0.61096,,,0,,,0
+036006376377,,"Windsor, Frances Road",,51.477846,-0.607417,,,0,,,0
+040000003819,,"Wycombe Marsh, Abbey Barn Road",,51.617836,-0.718764,,,0,,,0
+040000003821,,"Wycombe Marsh, Marsh School",,51.617553,-0.720881,,,0,,,0
+040000003823,,"Wycombe Marsh, Beech Road",,51.615731,-0.719517,,,0,,,0
+040000003825,,"Wycombe Marsh, General Havelock",,51.614871,-0.716566,,,0,,,0
+040000003827,,"Wycombe Marsh, Rugby Club",,51.613641,-0.713394,,,0,,,0
+040000003829,,"Wycombe Marsh, Dolphin Court",,51.611402,-0.707724,,,0,,,0
+040000002983,,"Loudwater, Woodside Close",,51.608502,-0.704066,,,0,,,0
+040000003864,,"Loudwater, St Peter's Close",,51.60661,-0.702084,,,0,,,0
+040000003861,,"Bourne End, New Road",,51.578235,-0.708116,,,0,,,0
+040000003863,,"Bourne End, Rail Station",,51.577612,-0.710342,,,0,,,0
+040000003865,,"Bourne End, St Mark's Church",,51.575539,-0.709867,,,0,,,0
+040000003867,,"Bourne End, Hedsor Road",,51.57233,-0.709193,,,0,,,0
+040000003869,,"Bourne End, Ferry Lane",,51.569398,-0.707515,,,0,,,0
+040000003923,,"Bourne End, Riversdale South",,51.565101,-0.705978,,,0,,,0
+036006195196,,"Cookham, Village Memorial",,51.559775,-0.710601,,,0,,,0
+036006001026,,"Cookham Rise, Rail Station",,51.557599,-0.722982,,,0,,,0
+036006193193,,"Cookham Rise, St Elizabeth's Church",,51.55821,-0.727927,,,0,,,0
+036006180181,,"Cookham Rise, High Road",,51.556981,-0.732275,,,0,,,0
+036006182183,,"Cookham Rise, Broom Hill",,51.554853,-0.731786,,,0,,,0
+036006184184,,"Cookham Rise, The Shaw",,51.553018,-0.730856,,,0,,,0
+036006186186,,"Cookham Rise, Hillcrest Avenue",,51.552044,-0.726469,,,0,,,0
+036006188188,,"Cookham Rise, Cannondown Road",,51.550121,-0.727417,,,0,,,0
+036006111112,,"Furze Platt, Kinghorn Park",,51.54058,-0.732355,,,0,,,0
+036006110110,,"Furze Platt, Switchback Road Shops",,51.538096,-0.7313,,,0,,,0
+036006104105,,"Furze Platt, Wellhouse Road",,51.535907,-0.730149,,,0,,,0
+036006106107,,"Furze Platt, Queensway",,51.534076,-0.731267,,,0,,,0
+036000000113,,"Furze Platt Rail Station",,51.532407,-0.73009,,,0,,,0
+036006001467,,"Furze Platt, Linden Avenue",,51.531191,-0.73723,,,0,,,0
+036006002466,,"Belmont, Belmont Park Road",,51.530271,-0.739461,,,0,,,0
+036006064064,,"Maidenhead, Ashcroft Road",,51.527109,-0.743152,,,0,,,0
+036006817818,,"Maidenhead, Cemetery West",,51.526397,-0.744628,,,0,,,0
+036006065065,,"Maidenhead, St Mark's Corner",,51.525028,-0.745314,,,0,,,0
+036006376376,,"Windsor, Frances Road",,51.47718,-0.608057,,,0,,,0
+036006374374,,"Windsor, Alexandra Road",,51.475046,-0.611664,,,0,,,0
+036006235235,,"Windsor, King Edward VII Hospital",,51.473579,-0.615322,,,0,,,0
+036006372373,,"Windsor, Trevelyan School",,51.470996,-0.618208,,,0,,,0
+036006758760,,"Windsor, Stag Meadow",,51.470983,-0.622485,,,0,,,0
+036006237237,,"Windsor, Imperial Court",,51.47132,-0.625873,,,0,,,0
+036006239239,,"Clewer Green, Addington Close",,51.471143,-0.63073,,,0,,,0
+036006241241,,"Clewer Green, Hatch Lane",,51.472501,-0.63462,,,0,,,0
+036006243243,,"Clewer Green, Rycroft",,51.473628,-0.637927,,,0,,,0
+036006001145,,"Clewer Green, Sebastopol",,51.474945,-0.641445,,,0,,,0
+036006256256,,"Dedworth, The Maypole",,51.47771,-0.645654,,,0,,,0
+036006257262,,"Dedworth, Tesco",,51.478018,-0.648222,,,0,,,0
+036006258258,,"Dedworth, Tinkers Lane",,51.478457,-0.652731,,,0,,,0
+036006260261,,"Dedworth, Guards Road",,51.478621,-0.655333,,,0,,,0
+036000000067,,"Dedworth, Dedworth Road Aldi",,51.479292,-0.659074,,,0,,,0
+036006265265,,"Dedworth, The Greene Oak",,51.479745,-0.662385,,,0,,,0
+036006266266,,"Fifield, Ye Old Red Lion PH",,51.47773,-0.667829,,,0,,,0
+036006268269,,"Fifield, Kimbers Farm",,51.475925,-0.675197,,,0,,,0
+036006270270,,"Fifield, Braywood School",,51.47742,-0.68424,,,0,,,0
+036006272273,,"Fifield, Braywood Memorial Hall",,51.478342,-0.692666,,,0,,,0
+036000000064,,"Fifield, Fifield Inn",,51.479592,-0.691985,,,0,,,0
+036006274275,,"Fifield, Meadow Way",,51.483223,-0.694111,,,0,,,0
+036006615615,,"Fifield, Ferndale Park",,51.490002,-0.688401,,,0,,,0
+036006001132,,"Braywick, Westbrook",,51.492967,-0.68735,,,0,,,0
+036006204205,,"Braywick, Post Office",,51.495461,-0.693257,,,0,,,0
+036006202203,,"Bray Court, Bray Lake",,51.497065,-0.697605,,,0,,,0
+036006001129,,"Bray Court, Holyport Turn",,51.499239,-0.703176,,,0,,,0
+036006127128,,"Bray Court, Hastings Close",,51.500603,-0.703743,,,0,,,0
+036006125125,,"Bray, Village Hall",,51.506636,-0.701165,,,0,,,0
+036006123124,,"Bray, Hibbert Road",,51.511499,-0.705955,,,0,,,0
+036000000061,,"Maidenhead, Glebe Road",,51.513592,-0.706705,,,0,,,0
+036006122122,,"Maidenhead, Chiltern Road",,51.51686,-0.70932,,,0,,,0
+036006001472,,"Maidenhead, Stafferton Way",,51.517986,-0.71612,,,0,,,0
+036006817817,,"Maidenhead, Cemetery West",,51.52647,-0.74477,,,0,,,0
+036000000103,,"Belmont, Belmont Park Road",,51.530091,-0.739698,,,0,,,0
+036000000104,,"Furze Platt, Linden Avenue",,51.531619,-0.734625,,,0,,,0
+036000000111,,"Furze Platt Rail Station",,51.532472,-0.730319,,,0,,,0
+036006106106,,"Furze Platt, Queensway",,51.534662,-0.731438,,,0,,,0
+036006104104,,"Furze Platt, Wellhouse Road",,51.536174,-0.729825,,,0,,,0
+036006110111,,"Furze Platt, Switchback Road Shops",,51.538438,-0.731579,,,0,,,0
+036006111111,,"Furze Platt, Kinghorn Park",,51.539923,-0.732302,,,0,,,0
+036006728728,,"Cookham Rise, Cannondown Road",,51.550283,-0.727384,,,0,,,0
+036006186187,,"Cookham Rise, Hillcrest Avenue",,51.551914,-0.726862,,,0,,,0
+036006184185,,"Cookham Rise, The Shaw",,51.552902,-0.730974,,,0,,,0
+036006182182,,"Cookham Rise, Broom Hill",,51.554909,-0.731914,,,0,,,0
+036006180180,,"Cookham Rise, High Road",,51.557226,-0.732527,,,0,,,0
+036006193194,,"Cookham Rise, St Elizabeth's Church",,51.558504,-0.728482,,,0,,,0
+036006191192,,"Cookham Rise, Lower Road",,51.557983,-0.726044,,,0,,,0
+036006190190,,"Cookham Rise, Rail Station",,51.557771,-0.720611,,,0,,,0
+036006195195,,"Cookham, Village Memorial",,51.559913,-0.710886,,,0,,,0
+040000003924,,"Bourne End, Riversdale South",,51.566006,-0.706486,,,0,,,0
+040000003844,,"Bourne End, Ferry Lane",,51.569672,-0.707897,,,0,,,0
+040000003842,,"Bourne End, Hedsor Road",,51.572278,-0.709324,,,0,,,0
+040000003810,,"Loudwater, St Peter's Close",,51.606548,-0.702158,,,0,,,0
+040000002984,,"Loudwater, Woodside Close",,51.608386,-0.704112,,,0,,,0
+040000003808,,"Wycombe Marsh, Dolphin Court",,51.611239,-0.707613,,,0,,,0
+040000003806,,"Wycombe Marsh, Rugby Club",,51.613449,-0.71314,,,0,,,0
+040000003804,,"Wycombe Marsh, General Havelock",,51.614809,-0.716683,,,0,,,0
+040000003802,,"Wycombe Marsh, Beech Road",,51.615844,-0.720019,,,0,,,0
+040000003800,,"Wycombe Marsh, Marsh School",,51.617634,-0.720908,,,0,,,0
+040000003798,,"Wycombe Marsh, Abbey Barn Road",,51.617905,-0.719326,,,0,,,0
+036006094094,,"Furze Platt, Linden Avenue",,51.532162,-0.73553,,,0,,,0
+036006093093,,"Furze Platt, Malvern Road",,51.534245,-0.7369,,,0,,,0
+036000000072,,"Furze Platt, St Peter's Road",,51.535499,-0.738367,,,0,,,0
+036006002469,,"Pinkneys Green, Clarefield Drive",,51.530633,-0.757371,,,0,,,0
+036006091092,,"Pinkneys Green, Pinkneys Road",,51.52717,-0.756456,,,0,,,0
+036006821822,,"Pinkneys Green, Camley Gardens",,51.52667,-0.759968,,,0,,,0
+036006820821,,"Pinkneys Green, Headington Road",,51.525725,-0.76007,,,0,,,0
+036006001456,,"Maidenhead, The Conifers",,51.528798,-0.757334,,,0,,,0
+036000000073,,"Pinkneys Green, Clarefield Drive",,51.530336,-0.757554,,,0,,,0
+036006001005,,"Furze Platt, The Golden Harp",,51.535626,-0.738275,,,0,,,0
+040000003624,,"All Saints' Church",,51.749392603,-0.80439847,,,0,,,0
+040000003627,,"All Saints' Church",,51.748683494,-0.80451859,,,0,,,0
+040000004601,,"Ambulance Station",,51.795158092,-0.803391712,,,0,,,0
+040000004602,,"Ambulance Station",,51.796004248,-0.804369889,,,0,,,0
+040000003623,,"Askett Roundabout",,51.73935579,-0.814830326,,,0,,,0
+040000004657,,"Aylesburu Bus Stn, Bay 8",,51.814732541,-0.813158867,,,0,,,0
+040000004658,,"Aylesburu Bus Stn, Bay 8",,51.814787061,-0.813215463,,,0,,,0
+040000004917,,"Aylesbury College",,51.814745089,-0.823356971,,,0,,,0
+040000004910,,"Aylesbury College, adj",,51.813471396,-0.824565173,,,0,,,0
+040000004912,,"Aylesbury Railway Station",,51.814250209,-0.815260524,,,0,,,0
+040000003698,,"Beacon's View",,51.755238917,-0.78441008,,,0,,,0
+040000003696,,"Beacon's View",,51.755150673,-0.784571816,,,0,,,0
+040000003613,,"Bell Street",,51.721680224,-0.832983602,,,0,,,0
+040000003610,,"Bell Street",,51.721510721,-0.83311826,,,0,,,0
+040000000334,,"Bledlow Ridge Road",,51.712645253,-0.870878196,,,0,,,0
+040000000335,,"Bledlow Ridge Road",,51.712715916,-0.870746169,,,0,,,0
+040000003592,,"Bradenham Road",,51.656498188,-0.801538667,,,0,,,0
+040000003595,,"Bradenham Road",,51.656644818,-0.801809473,,,0,,,0
+040000003628,,"Brookside Lane",,51.756485861,-0.806949476,,,0,,,0
+040000003631,,"Brookside Lane",,51.756408046,-0.807255781,,,0,,,0
+040000003700,,"Chalkshire Cottages",,51.761178261,-0.78227998,,,0,,,0
+040000003702,,"Chalkshire Cottages",,51.761170472,-0.782396108,,,0,,,0
+040000003660,,"Coombe Farm",,51.662402404,-0.762200805,,,0,,,0
+040000003667,,"Coombe Farm",,51.662341003,-0.762347062,,,0,,,0
+040000003725,,Crossroads,,51.766371383,-0.785371884,,,0,,,0
+040000003309,,"Downley, Pheasant Drive",,51.640426596,-0.780241969,,,0,,,0
+040000003298,,"Downley, Pheasant Drive",,51.640570406,-0.779371027,,,0,,,0
+040000003084,,"Downs Park",,51.642277758,-0.771506683,,,0,,,0
+040000003604,,"Foundry Lane",,51.698177959,-0.831345378,,,0,,,0
+040000003607,,"Foundry Lane",,51.698798076,-0.831314936,,,0,,,0
+040000002562,,"Fremantle Court",,51.774467251,-0.789198438,,,0,,,0
+040000002561,,"Fremantle Court",,51.774084488,-0.78870139,,,0,,,0
+040000003641,,Greenlands,,51.697425421,-0.814565719,,,0,,,0
+040000003634,,Greenlands,,51.696947615,-0.81355088,,,0,,,0
+040000003644,,"Grimm's Meadow",,51.677462565,-0.792350935,,,0,,,0
+040000003651,,"Grimm's Meadow",,51.677977845,-0.793494294,,,0,,,0
+040000003733,,"Grove Farm",,51.76238246,-0.790927255,,,0,,,0
+040000003731,,"Grove Farm",,51.762743262,-0.790164119,,,0,,,0
+040000004986,,"Harvey Road",,51.802298304,-0.807916196,,,0,,,0
+040000004987,,"Harvey Road",,51.802110416,-0.808008169,,,0,,,0
+040000003600,,"Haw Lane",,51.682523744,-0.828652941,,,0,,,0
+040000003603,,"Haw Lane",,51.683225919,-0.828736078,,,0,,,0
+040000002966,,"High Wycombe Bus Stn",,51.631479209,-0.756179519,,,0,,,0
+040000002970,,"High Wycombe Bus Stn (Bay 15)",,51.631419344,-0.756470126,,,0,,,0
+040000003296,,"Hillfield Close",,51.643565921,-0.773451848,,,0,,,0
+040000003657,,"Holly End",,51.670728262,-0.784547541,,,0,,,0
+040000003650,,"Holly End",,51.67054414,-0.784133101,,,0,,,0
+040000003665,,"Hunts Hill Lane",,51.663125304,-0.768528433,,,0,,,0
+040000003658,,"Hunts Hill Lane",,51.662993091,-0.767924758,,,0,,,0
+040000003653,,Kilnwood,,51.675885359,-0.79112017,,,0,,,0
+040000003646,,Kilnwood,,51.675557433,-0.790709486,,,0,,,0
+040000003605,,"Little Lane",,51.689428857,-0.832221673,,,0,,,0
+040000003602,,"Little Lane",,51.68881284,-0.831760121,,,0,,,0
+040000003637,,"Loosley House",,51.701902151,-0.819817449,,,0,,,0
+040000003656,,"Louches Lane",,51.664453938,-0.773480776,,,0,,,0
+040000003663,,"Louches Lane",,51.664476141,-0.773885029,,,0,,,0
+040000004973,,"Magistrates Court",,51.810479382,-0.806917093,,,0,,,0
+040000004978,,"Mandeville Road",,51.8058243,-0.809824776,,,0,,,0
+040000004977,,"Mandeville Road",,51.80686879,-0.809971325,,,0,,,0
+040000004861,,"Marroway Junction",,51.784584885,-0.775517542,,,0,,,0
+040000003686,,"Mill Turn",,51.759539125,-0.798624586,,,0,,,0
+040000003633,,"Mill Turn",,51.75956772,-0.79878321,,,0,,,0
+040000003636,,"Millennium Hall",,51.694711907,-0.810310492,,,0,,,0
+040000003643,,"Millennium Hall",,51.694696418,-0.810556864,,,0,,,0
+040000003598,,"Ministry Wharf",,51.679367576,-0.826839621,,,0,,,0
+040000003601,,"Ministry Wharf",,51.67963303,-0.827310067,,,0,,,0
+040000004913,,Morrisons,,51.815172351,-0.815758603,,,0,,,0
+040000HAR423,,"Nash Lee Road",,51.770075461,-0.775794222,,,0,,,0
+040000HAR424,,"Nash Lee Road",,51.769894172,-0.7756542,,,0,,,0
+040000003721,,"North Lee Lane",,51.770308795,-0.788773467,,,0,,,0
+040000003719,,"North Lee Lane",,51.770040766,-0.78894006,,,0,,,0
+0400000T9001,,"Oxford Road",,51.631534941,-0.755498912,,,0,,,0
+040000003649,,Parkwood,,51.681402611,-0.799536182,,,0,,,0
+040000003642,,Parkwood,,51.681427215,-0.799304101,,,0,,,0
+040000003591,,Pedestal,,51.645162447,-0.796533342,,,0,,,0
+040000003616,,"Peters Lane",,51.731032504,-0.823171392,,,0,,,0
+040000003619,,"Peters Lane",,51.731220408,-0.823079631,,,0,,,0
+040000004831,,"Police Station",,51.810697346,-0.805359225,,,0,,,0
+040000003608,,"Poppy Road",,51.717094753,-0.836633701,,,0,,,0
+040000003611,,"Poppy Road",,51.717664801,-0.836995448,,,0,,,0
+040000004616,,"Post Office",,51.787615697,-0.786860192,,,0,,,0
+040000004615,,"Post Office, Stoke Mandeville",,51.787679219,-0.786916482,,,0,,,0
+040000003612,,"Princes Risborough Market Square",,51.724133358,-0.83192147,,,0,,,0
+040000003932,,"Princes Risborough School",,51.719505898,-0.827726695,,,0,,,0
+040000003652,,"Purssells Meadow",,51.667358067,-0.780372046,,,0,,,0
+040000003659,,"Purssells Meadow",,51.6682158,-0.781578132,,,0,,,0
+040000004864,,"Quilters Way",,51.77931392,-0.767586102,,,0,,,0
+040000004865,,"Quilters Way",,51.779265937,-0.767297496,,,0,,,0
+040000003593,,"Railway Bridge",,51.652118478,-0.79970273,,,0,,,0
+040000003590,,"Railway Bridge",,51.652342619,-0.799638989,,,0,,,0
+040000003629,,"Railway Station",,51.753019999,-0.808315667,,,0,,,0
+040000003626,,"Railway Station",,51.753009688,-0.808185553,,,0,,,0
+040000004603,,"Ranch House",,51.791428587,-0.800054008,,,0,,,0
+040000004604,,"Ranch House",,51.793234996,-0.801731588,,,0,,,0
+040000003620,,Roundabout,,51.738293137,-0.816451201,,,0,,,0
+040000003729,,"Royal Mead",,51.763956931,-0.783176112,,,0,,,0
+040000003727,,"Royal Mead",,51.764048471,-0.78333305,,,0,,,0
+040000003640,,"Slad Lane",,51.686007785,-0.802322032,,,0,,,0
+040000003647,,"Slad Lane",,51.68618256,-0.802708,,,0,,,0
+040000003638,,"St John's School",,51.691289974,-0.807145003,,,0,,,0
+040000003645,,"St John's School",,51.691519403,-0.807601936,,,0,,,0
+040000004613,,"St Mary's Church",,51.786465878,-0.790457536,,,0,,,0
+040000002299,,"St Mary's Church",,51.786384977,-0.7904597,,,0,,,0
+040000003625,,"St Nicholas Church",,51.745765109,-0.80578338,,,0,,,0
+040000003622,,"St Nicholas Church",,51.746102429,-0.805354421,,,0,,,0
+040000004941,,"Stadium Approach",,51.798925974,-0.806090863,,,0,,,0
+040000004988,,"Stadium Approach",,51.799597344,-0.806682224,,,0,,,0
+040000004617,,"Station Road",,51.789354612,-0.781985409,,,0,,,0
+040000004859,,"Station Road Turn, adj",,51.789335452,-0.778404694,,,0,,,0
+040000002588,,"Stoke Mandeville Hospital Main Gate",,51.798079538,-0.805083596,,,0,,,0
+040000004974,,"Stoke Road",,51.809129512,-0.808577315,,,0,,,0
+040000004975,,"Stoke Road",,51.808924233,-0.808727779,,,0,,,0
+040000003723,,"Terrick Crossroads",,51.766583219,-0.785858914,,,0,,,0
+040000003617,,"The Avenue",,51.728095527,-0.827996843,,,0,,,0
+040000003614,,"The Avenue",,51.7279791,-0.828043291,,,0,,,0
+040000004606,,"The Bell PH",,51.788725222,-0.796834533,,,0,,,0
+040000004605,,"The Bell PH",,51.788429029,-0.796885909,,,0,,,0
+040000003694,,"The Church",,51.752624261,-0.790695251,,,0,,,0
+040000003692,,"The Church",,51.752617256,-0.790014542,,,0,,,0
+040000003599,,"The Golden Cross PH",,51.675041937,-0.823176708,,,0,,,0
+040000003596,,"The Golden Cross PH",,51.674857081,-0.822675319,,,0,,,0
+040000003618,,"The Holloway",,51.734137367,-0.819861456,,,0,,,0
+040000003621,,"The Holloway",,51.734683091,-0.819586579,,,0,,,0
+040000003067,,"The Lions PH",,51.712594615,-0.874034842,,,0,,,0
+040000003066,,"The Lions PH",,51.712658373,-0.874120104,,,0,,,0
+040000004976,,"The Plough & Harrow PH",,51.810119244,-0.80598374,,,0,,,0
+040000003594,,"The Red Lion PH",,51.664909535,-0.809905488,,,0,,,0
+040000003597,,"The Red Lion PH, Opp",,51.666255022,-0.811359571,,,0,,,0
+040000003690,,"The Retreat",,51.75140817,-0.800129619,,,0,,,0
+040000003688,,"The Retreat",,51.751337736,-0.800276352,,,0,,,0
+040000003705,,"The Russell Arms PH",,51.756073655,-0.780794584,,,0,,,0
+040000003704,,"The Russell Arms PH",,51.756018369,-0.780665679,,,0,,,0
+040000003639,,"The Whip PH",,51.6988637,-0.817205078,,,0,,,0
+040000003632,,"The Whip PH",,51.698961416,-0.817086771,,,0,,,0
+040000003661,,"Village Hall",,51.665097308,-0.776543217,,,0,,,0
+040000003654,,"Village Hall",,51.665121565,-0.776282298,,,0,,,0
+040000004971,,"Walton Street",,51.812778769,-0.808452086,,,0,,,0
+040000004972,,"Walton Street",,51.812163841,-0.808105646,,,0,,,0
+040000004863,,"Wendover Road",,51.78294564,-0.772662542,,,0,,,0
+040000004862,,"Wendover Road",,51.783205346,-0.773423834,,,0,,,0
+040000004860,,"Weston Turville Turn",,51.786115693,-0.777462309,,,0,,,0
+040000003630,,"Windy Ridge",,51.708034991,-0.82886261,,,0,,,0
+040000003635,,"Windy Ridge",,51.708138919,-0.829366477,,,0,,,0
+040000003655,,"Woodcock Avenue",,51.673141321,-0.787476543,,,0,,,0
+040000003648,,"Woodcock Avenue",,51.673514651,-0.787929356,,,0,,,0
+040000003609,,Woodway,,51.710335829,-0.834187365,,,0,,,0
+040000003606,,Woodway,,51.710252629,-0.833957927,,,0,,,0
+03700533,,"Brunel Way",,51.511759,-0.592892,,,0,,,0
+03700348,,"Queens Road",,51.514881,-0.592101,,,0,,,0
+03700350,,"Montague Road",,51.51642,-0.590918,,,0,,,0
+03700352,,"Shaggy Calf Lane",,51.518502,-0.58983,,,0,,,0
+03700411,,"Lismore Park",,51.521317,-0.58983,,,0,,,0
+040000001402,,"Muddy Lane",,51.525618,-0.589801,,,0,,,0
+040000001403,,"Fir Tree Avenue",,51.529825,-0.5882,,,0,,,0
+040000001401,,"Muddy Lane",,51.525303,-0.589738,,,0,,,0
+03700410,,"Lismore Park",,51.520595,-0.589679,,,0,,,0
+03700351,,"Shaggy Calf Lane",,51.517541,-0.589889,,,0,,,0
+03700349,,"Queens Road",,51.515215,-0.591647,,,0,,,0
+03700558,,"Stanley Cottages",,51.513889,-0.593176,,,0,,,0
+040000002968,,"Bus Station",,51.631527,-0.75609,,,0,,,0
+340001255HRN,,"Howland Road",,51.74033,-0.95813,,,0,,,0
+340001255HRS,,"Howland Road",,51.74024,-0.95799,,,0,,,0
+340001704CHU,,"Churchill Crescent",,51.74629,-0.96334,,,0,,,0
+340001704OPP,,"Churchill Crescent",,51.74617,-0.9635,,,0,,,0
+340001660WFO,,"Waterlands Farm",,51.72329,-0.94087,,,0,,,0
+340001660WFM,,"Waterlands Farm",,51.7234,-0.94086,,,0,,,0
+340001627OPP,,"The Village Centre",,51.70268,-0.9051,,,0,,,0
+340001642OUT,,"Glimbers Grove",,51.69805,-0.91572,,,0,,,0
+340001643DCL,,"The Red Lion",,51.70591,-0.90808,,,0,,,0
+340001616OUT,,"Police Station",,51.74975,-0.9777,,,0,,,0
+340001619OPP,,"Health Centre",,51.74549,-0.96717,,,0,,,0
+340001619OUT,,"Health Centre",,51.74517,-0.96904,,,0,,,0
+340001625OUT,,"Chiltern Hill Garage",,51.69905,-0.91383,,,0,,,0
+340001625OPP,,"Chiltern Hill Garage",,51.69912,-0.91339,,,0,,,0
+340001626OUT,,"Village Hall",,51.70132,-0.90819,,,0,,,0
+340001621NEL,,"Upper High Street",,51.74588,-0.97569,,,0,,,0
+340001621ONS,,"Upper High Street",,51.74602,-0.97557,,,0,,,0
+340000518INN,,"The Inn at Emmington",,51.71439,-0.93373,,,0,,,0
+340000518OIN,,"The Inn at Emmington",,51.71444,-0.93357,,,0,,,0
+340001643GLY,,Glynswood,,51.70001,-0.91119,,,0,,,0
